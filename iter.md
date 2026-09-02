@@ -8,6 +8,10 @@ An **event type** is a set of obligations. Two events are the same type when
 they trigger the same obligations, or when the facts those obligations require
 are established by materially different means.
 
+**An event can be more than one type.** Ransomware that also exfiltrates is an
+interruption and a disclosure at once, and it obliges the union of both. The
+record carries the union; it does not pick a winner.
+
 A **condition** is a circumstance that switches obligations on. Conditions cut
 across all types. One of them switches obligations *off*: a sector-specific
 Union act can displace a general one.
@@ -225,11 +229,60 @@ Read: no
 Where an instrument leaves a test open, the record carries the case in which a
 body applied it. It does not supply a threshold of its own.
 
-### Risk, on an employee taking client data
+The Board decided eighteen cases in Guidelines 01/2021. Each reached three
+outcomes: whether to document, whether to tell the authority, whether to tell
+the people concerned. Documentation was required in all eighteen, which is the
+Article 33(5) obligation behaving as written.
+
+Type is assigned by this record, not by the Board.
+
+| # | Case | Type | Document | Authority | People |
+|---|---|---|---|---|---|
+| 1 | Ransomware, backup held, no exfiltration | T4 | yes | no | no |
+| 2 | Ransomware, no proper backup | T4 | yes | yes | no |
+| 3 | Ransomware in a hospital, backup held | T4 | yes | yes | yes |
+| 4 | Ransomware, no backup, with exfiltration | T4 + T1 | yes | yes | yes |
+| 5 | Exfiltration of job application data | T1 | yes | yes | yes |
+| 6 | Exfiltration of hashed passwords | T1 | yes | no | no |
+| 7 | Credential stuffing on a banking website | T1 | yes | yes | yes |
+| 8 | **Exfiltration of business data by an employee** | T1 | yes | yes | **no** |
+| 9 | Accidental transmission to a trusted third party | T1 | yes | no | no |
+| 10 | Stolen device, data encrypted | T1 | yes | no | no |
+| 11 | Stolen device, data not encrypted | T1 | yes | yes | yes |
+| 12 | Stolen paper files, sensitive data | T1 | yes | yes | yes |
+| 13 | Postal mail mistake | T1 | yes | no | no |
+| 14 | Highly confidential data sent by mail in error | T1 | yes | yes | yes |
+| 15 | Personal data sent by mail in error | T1 | yes | no | no |
+| 16 | Postal mail mistake | T1 | yes | yes | no |
+| 17 | Identity theft | T1 | yes | yes | yes |
+| 18 | Email exfiltration | T1 | yes | yes | yes |
+
+Source: [edpb-1-2021] · Read: 2026-09-02
+
+### What the cases did to the taxonomy
+
+**Types are not exclusive.** Case 4 is ransomware without backup and with
+exfiltration. It is an interruption and a disclosure at once, and it obliges the
+union of both. The cutting rule assumed one type per event. It has to allow an
+event to carry more than one, and the instrument has to show the union rather
+than pick a winner.
+
+**T5 has no decided case.** Not one of the eighteen is a consultation without
+extraction. Case 8 is the nearest and the data still leaves: the employee copies
+it and uses it later. The type this record is built around is calibrated by
+borrowing from its neighbour, and every row that does so says it.
+
+That is a gap to fill rather than a flaw to hide. National authorities decide
+these. An employee looking up an account they had no business opening is among
+the most common matters an Italian supervisory authority handles, and those
+decisions are published.
+
+### Borrowed calibration: risk, on an employee taking client data
 Facts: An employee copies business data during his notice period and uses the contact data months later to approach the clients for his own business. No special categories. Low to medium volume. The database left intact.
 Held: The controller is not in a position to consider the risk to the data subjects low, because it has no reassurance about the intentions of the employee, and more serious abuse is not ruled out.
 Outcome: Documentation required. Notification to the authority required. Communication to the people concerned not required.
 Moves the outcome: Special categories, large volume, or evidence of onward sale.
+Applies to T5: By analogy only. The case is a T1. What carries across is the reasoning on intent, not the outcome.
 Source: [edpb-1-2021] §72, §74, §77
 Read: 2026-09-02
 
@@ -241,4 +294,7 @@ Read: 2026-09-02
   source and needs its own section and its own rule about how long it stays true.
 - Only Italy is worked. The terms are the same across the Union; the recipients
   are not.
-- T1 to T4 have no rows.
+- T1 to T4 have no rows, though fourteen of the eighteen decided cases are T1.
+- The cutting rule assumes one type per event. Case 4 shows an event can be two.
+- No decided case exists for T5. Italian supervisory decisions on employees
+  consulting records they had no business opening are the place to look.
