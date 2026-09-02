@@ -20,7 +20,12 @@ Each act states what it is measured from. This matters: within one regime the
 terms run from one another rather than all from the moment of knowledge.
 
 Fields are `Applies`, `Term`, `From`, `Owed to`, `Establish`, `Public`,
-`Source`, `Read`, `At`, and `Implication`.
+`Source`, `Read`, `At`, `Implication`, and `Do`.
+
+`Do` is the act in the imperative, and it is the only field a reader has to
+act on. It restates what the provision requires in a form a person can carry
+out. It is not advice: nothing appears there that the provision does not ask
+for.
 
 `Implication` holds the consequence the source itself states, not advice and not
 a reading. Where a consequence is reasoned rather than stated, it does not go in
@@ -70,6 +75,7 @@ instrument sets a term for that.
 ## The moment every term runs from
 
 ### Declared awareness
+Do: Declare and record the moment you are taken to know
 No instrument defines it. The Board reads it as a reasonable degree of certainty
 that a security incident has occurred that has led to personal data being
 compromised. A short period of investigation may precede it, during which the
@@ -85,6 +91,7 @@ Read: 2026-09-02
 
 ### Garante Provvedimento 192/2011
 Applies: Banks, Italy
+Do: Trace inquiries into customer data, keep the logs, and run the alerts
 Requires: Tracing of inquiry operations on customer data; retention of those logs for not less than twenty-four months from the date the operation was recorded; alerts to detect intrusions or anomalous access to banking data capable of amounting to unlawful processing
 Why the retention: So that the people concerned can learn that their data was accessed, and on what grounds
 Implication: For an Italian bank the alert is not a control it chose. Its absence is a failure against a prescription, before any question of the breach itself.
@@ -101,6 +108,7 @@ bank it is stated directly, with a retention period and a requirement to alert.
 
 ### GDPR art. 33(1)
 Applies: All organisations
+Do: Notify the supervisory authority of the breach
 Term: 72 hours
 At: 72
 From: Declared awareness
@@ -114,6 +122,7 @@ Read: 2026-09-02
 
 ### GDPR art. 33(4)
 Applies: All organisations
+Do: Complete an earlier notification with what you did not yet have
 Term: Without undue further delay
 From: The notification it completes
 Owed to: The same authority
@@ -124,6 +133,7 @@ Read: 2026-09-02
 
 ### GDPR art. 34(1)
 Applies: All organisations
+Do: Tell each person whose records were opened
 Term: Without undue delay
 From: Declared awareness
 Owed to: Each person whose records were opened
@@ -136,6 +146,7 @@ Read: 2026-09-02
 
 ### GDPR art. 33(5)
 Applies: All organisations
+Do: Record the breach, its effects, and what was done about it
 Term: No term
 From: —
 Owed to: Nobody, until asked
@@ -148,6 +159,7 @@ Read: 2026-09-02
 
 ### DORA classification
 Applies: Financial entity
+Do: Classify the incident as major, or record why it is not
 Term: Gate. No term of its own, and every term below runs from it
 From: —
 Owed to: —
@@ -157,6 +169,7 @@ Read: 2026-09-02
 
 ### DORA art. 19(4)(a)
 Applies: Financial entity
+Do: Submit the initial notification
 Term: Four hours from classification, and no later than 24 hours from awareness. Where classified as major only later, four hours from that classification
 From: Classification, capped from declared awareness
 At: 24 · the cap. Earlier where the incident is classified as major sooner
@@ -168,6 +181,7 @@ Read: 2026-09-02
 
 ### DORA art. 19(4)(b)
 Applies: Financial entity
+Do: Submit the intermediate report
 Term: 72 hours, and again without undue delay once regular activities have been recovered
 From: The initial notification
 At: 96 · computed from the latest moment the initial notification may be made
@@ -179,6 +193,7 @@ Read: 2026-09-02
 
 ### DORA art. 19(4)(c)
 Applies: Financial entity
+Do: Submit the final report
 Term: One month
 From: The intermediate report, or the latest updated one
 At: 816 · computed on the same assumption
@@ -190,6 +205,7 @@ Read: 2026-09-02
 
 ### DORA art. 19(3)
 Applies: Financial entity
+Do: Inform the clients whose financial interests are affected
 Term: Without undue delay
 From: Declared awareness
 Owed to: Clients
@@ -200,6 +216,7 @@ Read: 2026-09-02
 
 ### DORA RTS art. 5(3)
 Applies: Financial entity
+Do: Tell the authority you will miss the term, before it expires
 Term: Before the term it will miss expires
 From: Knowing the term will be missed
 Owed to: The competent authority
@@ -219,6 +236,7 @@ Read: 2026-09-02
 
 ### NIS2 art. 23(4)(a)
 Applies: Essential or important entity, not displaced
+Do: Submit the early warning
 Term: 24 hours
 At: 24
 From: Declared awareness
@@ -230,6 +248,7 @@ Read: 2026-09-02
 
 ### NIS2 art. 23(4)(b)
 Applies: Essential or important entity, not displaced
+Do: Submit the incident notification
 Term: 72 hours
 At: 72
 From: Declared awareness
@@ -241,6 +260,7 @@ Read: 2026-09-02
 
 ### NIS2 art. 23(4)(d)
 Applies: Essential or important entity, not displaced
+Do: Submit the final report
 Term: One month
 From: The incident notification
 At: 720 · computed from the incident notification at its own term
@@ -254,6 +274,7 @@ Read: 2026-09-02
 
 ### MAR art. 17(1)
 Applies: Listed issuer
+Do: Disclose the inside information to the public
 Term: As soon as possible
 From: Declared awareness
 Owed to: The public, and the national authority. IT — Consob
