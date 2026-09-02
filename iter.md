@@ -20,7 +20,12 @@ Each act states what it is measured from. This matters: within one regime the
 terms run from one another rather than all from the moment of knowledge.
 
 Fields are `Applies`, `Term`, `From`, `Owed to`, `Establish`, `Public`,
-`Source`, `Read`, and `At`. A `Term` is written as the instrument writes it.
+`Source`, `Read`, `At`, and `Implication`.
+
+`Implication` holds the consequence the source itself states, not advice and not
+a reading. Where a consequence is reasoned rather than stated, it does not go in
+this field: it goes in the inference lane, marked, where a reader can see that
+the sources stopped and somebody started. A `Term` is written as the instrument writes it.
 Where an instrument states a term in words, the words are the term.
 
 `At` is hours from declared awareness, reached by arithmetic on terms the
@@ -73,6 +78,7 @@ short. Where it is left open and a breach did occur, the delay can be treated as
 a failure to notify.
 
 Source: [edpb-9-2022] §31, §34, §36, §40 · guidance, not law
+Implication: Where the period before it is left open and a breach did occur, the delay can be treated as a failure to notify. An unbounded triage is not neutral.
 Read: 2026-09-02
 
 ## Detection, where it is prescribed rather than advised
@@ -81,6 +87,7 @@ Read: 2026-09-02
 Applies: Banks, Italy
 Requires: Tracing of inquiry operations on customer data; retention of those logs for not less than twenty-four months from the date the operation was recorded; alerts to detect intrusions or anomalous access to banking data capable of amounting to unlawful processing
 Why the retention: So that the people concerned can learn that their data was accessed, and on what grounds
+Implication: For an Italian bank the alert is not a control it chose. Its absence is a failure against a prescription, before any question of the breach itself.
 Bears on: The moment of declared awareness. An alert required by this provision is what produced the first knowledge in the decided case below
 Source: [garante-192-2011]
 Read: 2026-09-02
@@ -101,6 +108,7 @@ Owed to: The supervisory authority. IT — Garante per la protezione dei dati pe
 Establish: Which records were opened; whose they were; how many people they concern; whether risk to those people can be ruled out
 Unless: The breach is unlikely to result in a risk to the rights and freedoms of natural persons
 Public: No. The authority publishes its own decisions
+Implication: A notification made after 72 hours is not refused. It has to arrive carrying the reasons for the delay, which puts the length of the triage on the record in the organisation's own words.
 Source: [gdpr]
 Read: 2026-09-02
 
@@ -122,6 +130,7 @@ Owed to: Each person whose records were opened
 Establish: That the risk to those people is high, which turns on why the records were opened
 Unless: The risk is not high
 Public: In practice yes, at any scale
+Implication: Deciding the risk is not high does not discharge this. Under article 34(4) the authority can require the communication afterwards, and it then goes out under order.
 Source: [gdpr]
 Read: 2026-09-02
 
@@ -196,6 +205,7 @@ From: Knowing the term will be missed
 Owed to: The competent authority
 Establish: The reasons for the delay
 Public: No
+Implication: There is no silent overrun. Missing the term and not saying so before it expires are two separate failures.
 Source: [dora-rts-terms]
 Read: 2026-09-02
 
