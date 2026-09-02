@@ -109,6 +109,59 @@ exceed thirty billion euro, where its assets exceed twenty per cent of the GDP
 of its Member State and are above five billion, or where the national authority
 proposes it and the ECB confirms after a comprehensive assessment.
 
+### Prescrizioni in materia di circolazione delle informazioni in ambito bancario e di tracciamento delle operazioni bancarie {#garante-192-2011}
+Garante per la protezione dei dati personali · Italy · 12 May 2011, Registro n. 192
+https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/1813953
+Establishes: That an Italian bank must trace inquiries into customer data, keep those logs for at least twenty-four months, and run alerts to detect anomalous access to banking data.
+
+The prescription requires the tracing of inquiry operations, the retention of
+the resulting log files, and the implementation of alerts to detect intrusions
+or anomalous access to banking data capable of amounting to unlawful
+processing.
+
+The retention period is not less than twenty-four months from the date the
+operation was recorded, and the reason the Authority gives for it matters to
+this record: a shorter period would not allow the people concerned to learn that
+their data had been accessed, or on what grounds.
+
+This is the source that turns detection from good practice into an obligation,
+for one sector in one country. Nothing equivalent has been read for any other
+jurisdiction on this record.
+
+### Provvedimento n. 659, accesso non autorizzato ai dati bancari da parte di un dipendente {#garante-659-2024}
+Garante per la protezione dei dati personali · Italy · 2 November 2024
+https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10070521
+Establishes: That an employee consulting customer records without a business reason is a breach the authority may require to be communicated to the people concerned, and that the controller's own assessment that the risk is not high does not settle the question.
+
+An employee of a bank branch made some 6,637 inquiries into the accounts of
+around 3,572 customers outside their own portfolio, between 21 February 2022 and
+24 April 2024. The bank first learned of an anomalous access on 9 October 2023,
+through an alert forming part of the controls it operates in compliance with
+Provvedimento 192/2011. The definitive notification under article 33 reached the
+Authority on 17 July 2024.
+
+The data protection officer concluded, and the bank determined, that the breach
+was not likely to present a high risk to the rights and freedoms of natural
+persons under article 34(1), and so the bank did not communicate it to the
+people affected.
+
+The Authority took the opposite view and ordered the communication under
+articles 34(4) and 58(2)(e), without delay and in any case within twenty days of
+receiving the decision, carrying at least the information required by article
+34(2). It further ordered a documented account of the steps taken within thirty
+days. The operative part imposes no pecuniary sanction.
+
+The controller is named in the decision and is not named here. That is a
+pending choice rather than an omission: the record's practice is to name what a
+published decision names, and this one concerns the employer of the person
+keeping the record. The address is given, so nothing is concealed from a reader
+who opens it.
+
+It decides one controller's arrangements. What it establishes for this record is
+the mechanism: where a controller assesses the risk as not high and does not
+communicate, the authority can require the communication afterwards, and the
+controller then makes it under order.
+
 ## Guidance
 
 ### Guidelines 9/2022 on personal data breach notification under GDPR {#edpb-9-2022}

@@ -69,6 +69,21 @@ a failure to notify.
 Source: [edpb-9-2022] §31, §34, §36, §40 · guidance, not law
 Read: 2026-09-02
 
+## Detection, where it is prescribed rather than advised
+
+### Garante Provvedimento 192/2011
+Applies: Banks, Italy
+Requires: Tracing of inquiry operations on customer data; retention of those logs for not less than twenty-four months from the date the operation was recorded; alerts to detect intrusions or anomalous access to banking data capable of amounting to unlawful processing
+Why the retention: So that the people concerned can learn that their data was accessed, and on what grounds
+Bears on: The moment of declared awareness. An alert required by this provision is what produced the first knowledge in the decided case below
+Source: [garante-192-2011]
+Read: 2026-09-02
+
+Everywhere else on this record, the ability to detect is reached indirectly:
+article 32 requires appropriate measures, and the Board treats the ability to
+detect, address and report a breach in good time as one of them. For an Italian
+bank it is stated directly, with a retention period and a requirement to alert.
+
 ## T5 · Acts under the General Data Protection Regulation
 
 ### GDPR art. 33(1)
@@ -277,6 +292,31 @@ these. An employee looking up an account they had no business opening is among
 the most common matters an Italian supervisory authority handles, and those
 decisions are published.
 
+### T5, decided: an employee consulting customer records
+Facts: An employee made some 6,637 inquiries into the accounts of about 3,572 customers outside their own portfolio, over roughly twenty-six months. The records were consulted. Nothing is recorded as having been copied out.
+Alert: The bank first learned of an anomalous access on 9 October 2023, through an alert operated under Provvedimento 192/2011.
+Notified: The definitive article 33 notification reached the Authority on 17 July 2024.
+Held on risk: The controller assessed the breach as not likely to present a high risk and did not communicate it. The Authority disagreed.
+Outcome: Communication to the people concerned ordered under articles 34(4) and 58(2)(e), within twenty days, with the article 34(2) information. A documented account of the steps taken within thirty days. No pecuniary sanction in the operative part.
+Source: [garante-659-2024]
+Read: 2026-09-02
+
+This is the case the eighteen worked examples did not contain, and it settles
+for T5 what case 8 could only suggest for T1. Two things carry.
+
+**The controller's own view of the risk does not close the question.** Article
+34(4) lets the authority require the communication after the fact. An
+organisation that decides the risk is not high has not disposed of the
+obligation; it has taken a position that may be reversed, and the communication
+then goes out under order.
+
+**The distance between the alert and the notification is the whole subject of
+this record.** The alert fired on 9 October 2023. The definitive notification is
+dated 17 July 2024. The decision does not characterise that interval, and this
+record does not either: what it shows is that the interval exists, that it is
+measured in months rather than hours, and that nothing in the instruments fixes
+where inside it awareness fell.
+
 ### Borrowed calibration: risk, on an employee taking client data
 Facts: An employee copies business data during his notice period and uses the contact data months later to approach the clients for his own business. No special categories. Low to medium volume. The database left intact.
 Held: The controller is not in a position to consider the risk to the data subjects low, because it has no reassurance about the intentions of the employee, and more serious abuse is not ruled out.
@@ -296,5 +336,7 @@ Read: 2026-09-02
   are not.
 - T1 to T4 have no rows, though fourteen of the eighteen decided cases are T1.
 - The cutting rule assumes one type per event. Case 4 shows an event can be two.
-- No decided case exists for T5. Italian supervisory decisions on employees
-  consulting records they had no business opening are the place to look.
+- One decided case now exists for T5, from Italy. No other jurisdiction has one
+  on this record.
+- Detection is prescribed for Italian banks and reached only indirectly
+  everywhere else. Whether other jurisdictions prescribe it is unread.
