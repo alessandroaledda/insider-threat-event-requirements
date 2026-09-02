@@ -20,8 +20,14 @@ Each act states what it is measured from. This matters: within one regime the
 terms run from one another rather than all from the moment of knowledge.
 
 Fields are `Applies`, `Term`, `From`, `Owed to`, `Establish`, `Public`,
-`Source`, `Read`. A `Term` is written as the instrument writes it. Where an
-instrument states a term in words, the words are the term.
+`Source`, `Read`, and `At`. A `Term` is written as the instrument writes it.
+Where an instrument states a term in words, the words are the term.
+
+`At` is hours from declared awareness, reached by arithmetic on terms the
+instruments state. It exists so a timeline has something to sort on. Where a
+term is stated in words, or runs from something with no fixed position, the
+field is absent and the act is drawn outside the ordered part. Where the
+arithmetic rests on an assumption, the assumption is written in the field.
 
 ## Types
 
@@ -89,6 +95,7 @@ bank it is stated directly, with a retention period and a requirement to alert.
 ### GDPR art. 33(1)
 Applies: All organisations
 Term: 72 hours
+At: 72
 From: Declared awareness
 Owed to: The supervisory authority. IT — Garante per la protezione dei dati personali
 Establish: Which records were opened; whose they were; how many people they concern; whether risk to those people can be ruled out
@@ -143,6 +150,7 @@ Read: 2026-09-02
 Applies: Financial entity
 Term: Four hours from classification, and no later than 24 hours from awareness. Where classified as major only later, four hours from that classification
 From: Classification, capped from declared awareness
+At: 24 · the cap. Earlier where the incident is classified as major sooner
 Owed to: The competent authority. IT — Banca d'Italia. A significant credit institution reports to the national authority, which transmits to the ECB immediately
 Establish: Whether the incident is major
 Public: No
@@ -153,6 +161,7 @@ Read: 2026-09-02
 Applies: Financial entity
 Term: 72 hours, and again without undue delay once regular activities have been recovered
 From: The initial notification
+At: 96 · computed from the latest moment the initial notification may be made
 Owed to: The same authority
 Establish: Nothing further is required for the term to run. It is due whether or not the status has changed
 Public: No
@@ -163,6 +172,7 @@ Read: 2026-09-02
 Applies: Financial entity
 Term: One month
 From: The intermediate report, or the latest updated one
+At: 816 · computed on the same assumption
 Owed to: The same authority
 Establish: The root cause, and the actual impact figures in place of estimates
 Public: No
@@ -200,6 +210,7 @@ Read: 2026-09-02
 ### NIS2 art. 23(4)(a)
 Applies: Essential or important entity, not displaced
 Term: 24 hours
+At: 24
 From: Declared awareness
 Owed to: The CSIRT or competent authority. IT — CSIRT Italia
 Establish: Whether the incident is significant; whether it is suspected of being caused by unlawful or malicious acts; whether it could have cross-border impact
@@ -210,6 +221,7 @@ Read: 2026-09-02
 ### NIS2 art. 23(4)(b)
 Applies: Essential or important entity, not displaced
 Term: 72 hours
+At: 72
 From: Declared awareness
 Owed to: The same body
 Establish: An initial assessment of severity and impact, and indicators of compromise where available
@@ -221,6 +233,7 @@ Read: 2026-09-02
 Applies: Essential or important entity, not displaced
 Term: One month
 From: The incident notification
+At: 720 · computed from the incident notification at its own term
 Owed to: The same body
 Establish: The type of threat or root cause, the mitigation applied, and any cross-border impact
 Public: No
