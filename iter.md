@@ -20,7 +20,11 @@ Each act states what it is measured from. This matters: within one regime the
 terms run from one another rather than all from the moment of knowledge.
 
 Fields are `Applies`, `Term`, `From`, `Owed to`, `Establish`, `Public`,
-`Source`, `Read`, `At`, `Implication`, and `Do`.
+`Source`, `Read`, `At`, `Implication`, `Do`, and `Anchor`.
+
+`Anchor` is for an act whose term is not stated in hours. It says what the
+act attaches to on the sequence, so that a reader can see when it is
+reasonable to complete it without an hour being invented for it.
 
 `Do` is the act in the imperative, and it is the only field a reader has to
 act on. It restates what the provision requires in a form a person can carry
@@ -125,6 +129,7 @@ Applies: All organisations
 Do: Complete an earlier notification with what you did not yet have
 Term: Without undue further delay
 From: The notification it completes
+Anchor: After the notification it completes, which is the 72 hour one above
 Owed to: The same authority
 Establish: Nothing further. This is the provision that allows the notification to go out incomplete
 Public: No
@@ -136,6 +141,7 @@ Applies: All organisations
 Do: Tell each person whose records were opened
 Term: Without undue delay
 From: Declared awareness
+Anchor: The same point as the 72 hour notification. In the decided case below the authority ordered it within twenty days of its own decision
 Owed to: Each person whose records were opened
 Establish: That the risk to those people is high, which turns on why the records were opened
 Unless: The risk is not high
@@ -149,6 +155,7 @@ Applies: All organisations
 Do: Record the breach, its effects, and what was done about it
 Term: No term
 From: —
+Anchor: Throughout. The Board expects the documentation to be made as the incident develops
 Owed to: Nobody, until asked
 Establish: The facts, the effects, the remedial action
 Public: No
@@ -208,6 +215,7 @@ Applies: Financial entity
 Do: Inform the clients whose financial interests are affected
 Term: Without undue delay
 From: Declared awareness
+Anchor: The same point as the initial notification
 Owed to: Clients
 Establish: That the incident has an impact on their financial interests
 Public: Partly. It reaches everyone told
@@ -219,6 +227,7 @@ Applies: Financial entity
 Do: Tell the authority you will miss the term, before it expires
 Term: Before the term it will miss expires
 From: Knowing the term will be missed
+Anchor: Before each of the terms above, whichever one is about to be missed
 Owed to: The competent authority
 Establish: The reasons for the delay
 Public: No
