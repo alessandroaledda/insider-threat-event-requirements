@@ -725,6 +725,15 @@ Channel: Not set by the act.
 Source: [ee-kuberturvalisuse-seadus]
 Read: 2026-09-03
 
+### csirt · Slovakia
+Role: csirt
+Country: SK
+Name: The Národný bezpečnostný úrad, through the single cybersecurity information system
+URL: https://static.slov-lex.sk/static/SK/ZZ/2024/366/20250101.html
+Channel: The jednotný informačný systém kybernetickej bezpečnosti, named in § 24(3) itself.
+Source: [sk-zakon-366-2024]
+Read: 2026-09-03
+
 ### Market authority
 Role: market
 Bears on: MAR art. 17(1), where the organisation is a listed issuer
@@ -1150,6 +1159,17 @@ Divergence: Not in the terms. Section 8(1) owes the first notice *«viivitamata,
 Moves: no
 Standing: Read in the consolidated act on Riigi Teataja, which serves it through a script and had to be rendered. Section 12(3¹) puts a deadline on the authority as Denmark's does: the Amet answers within twenty-four hours where possible. The act does not set the channel.
 Source: [ee-kuberturvalisuse-seadus]
+Read: 2026-09-03
+
+### NIS2 · Slovakia
+Country: SK
+Act: Zákon č. 366/2024 Z. z., amending zákon č. 69/2018 Z. z.
+In force: 1 January 2025, by article VII
+Recipient: The Národný bezpečnostný úrad, through the single cybersecurity information system
+Divergence: The anchor is detection. Both stages run *«od jeho zistenia»* — from the ascertaining of the significant incident: the early warning *«najneskôr do 24 hodín od jeho zistenia»*, the notification *«najneskôr do 72 hodín od jeho zistenia»*, twenty-four hours for a trust service provider. The Directive runs both from becoming aware. The final report keeps the month: *«najneskôr jeden mesiac po nahlásení oznámenia»*. What follows it does not: where a cross-border incident is still running, letter (e) requires an updated final report within **thirty days** of normal operation being restored, and where the incident is still running when the final report is due, further information and an updated final report within thirty days of its resolution.
+Moves: yes
+Standing: Read in the amending act as published by Slov-Lex, in the version in force from 1 January 2025. Slovakia is the third country in this record to replace awareness with a word of its own, after Finland's *havaitseminen* and Czechia's internal classification.
+Source: [sk-zakon-366-2024]
 Read: 2026-09-03
 
 ## Detection, where it is prescribed rather than advised

@@ -497,6 +497,21 @@ Riigi Teataja serves the act through a script; the consolidated text was
 rendered in a browser. The amending act alone was not enough — read on its
 own it shows the changes and not the cascade.
 
+### Zákon č. 366/2024 Z. z. {#sk-zakon-366-2024}
+Slov-Lex, Zbierka zákonov · Slovakia · read 2026-09-03
+https://static.slov-lex.sk/static/SK/ZZ/2024/366/20250101.html
+Establishes: That Slovakia measures both the twenty-four and the seventy-two hours from the ascertaining of the significant incident rather than from awareness of it, and that the reports go through a single national system named in the act.
+
+The fourth national act read whole, and the third to move the anchor.
+
+*Zistenie* is the ascertaining or finding of the incident. Set beside
+Finland's *havaitseminen* and the Czech material's classification by a
+designated person, three Member States have each replaced the Directive's
+moment with a different one, and none of the three is the same word.
+
+It also names its channel in the act, which most do not: reports go through
+the single cybersecurity information system.
+
 ## Guidance
 
 ### Guidelines 9/2022 on personal data breach notification under GDPR {#edpb-9-2022}
