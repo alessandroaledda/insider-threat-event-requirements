@@ -53,17 +53,20 @@ arithmetic rests on an assumption, the assumption is written in the field.
 ### T1 · Disclosure of personal data
 What it is: Personal data leaves the organisation's control.
 Added: 2026-09-02
-Rows: none written.
+Updated: 2026-09-03
+Rows: written under the GDPR, DORA, NIS2 and MAR.
 
 ### T2 · Disclosure of proprietary information
-What it is: Non-personal information of value leaves the organisation's control. Trade secrets, plans, strategy.
+What it is: Non-personal information of value leaves the organisation's control — trade secrets, plans, strategy. Nothing is owed under the General Data Protection Regulation, because there is no personal data in it. Where the material also contains personal data the event is a T1 as well, and both sets of obligations run.
 Added: 2026-09-02
-Rows: none written.
+Updated: 2026-09-03
+Rows: written under DORA, NIS2 and MAR. None under the GDPR, and that is the finding rather than a gap.
 
 ### T3 · Alteration or destruction of records
-What it is: Integrity rather than confidentiality. What was changed is also the evidence of the change.
+What it is: Integrity rather than confidentiality. Article 4(12) puts accidental or unlawful destruction, loss and alteration in the definition of a breach, so the same obligations arise — but what was changed may also be the evidence of the change.
 Added: 2026-09-02
-Rows: none written.
+Updated: 2026-09-03
+Rows: written under the GDPR, DORA, NIS2 and MAR.
 
 ### T4 · Interruption of an operational service
 What it is: Availability. The regime with the tightest terms and the most staged reporting.
@@ -1450,6 +1453,68 @@ Implication: Required in all eighteen worked examples, including every one where
 Source: [gdpr] [edpb-1-2021]
 Read: 2026-09-02
 
+## T3 · Acts under the General Data Protection Regulation
+
+Article 4(12) defines a breach as destruction, loss, alteration, unauthorised
+disclosure of, or access to personal data. The first three are this type. The
+terms are the same as for T1 and T5; what has to be established is not, because
+the question is no longer who saw the data but whether it can still be relied
+on.
+
+### GDPR art. 33(1)
+Applies: All organisations
+Do: Notify the supervisory authority of the breach
+Term: 72 hours
+At: 72
+From: Declared awareness
+Owed to: dpa
+Establish: What was altered or destroyed, whose data it is, whether the original can be restored, and whether anything was decided on the strength of the altered records before the alteration was found
+Unless: The breach is unlikely to result in a risk to the rights and freedoms of natural persons
+Public: No. The authority publishes its own decisions
+Implication: Restoring the data from backup ends the loss and does not end the breach. The alteration happened, and the period in which the records were wrong is part of what has to be established
+Source: [gdpr]
+Read: 2026-09-02
+
+### GDPR art. 33(4)
+Applies: All organisations
+Do: Complete an earlier notification with what you did not yet have
+Term: Without undue further delay
+From: The notification it completes
+Anchor: After the notification it completes, which is the 72 hour one above
+Owed to: The same authority
+Establish: Nothing further. This is the provision that allows the notification to go out incomplete
+Public: No
+Implication: This type is the one most likely to need it. Where records were altered, the extent is often established after the notification rather than before it
+Source: [gdpr]
+Read: 2026-09-02
+
+### GDPR art. 34(1)
+Applies: All organisations
+Do: Tell each person whose records were altered or destroyed
+Term: Without undue delay
+From: Declared awareness
+Anchor: The same point as the 72 hour notification
+Owed to: Each person whose records were altered or destroyed
+Establish: That the risk to those people is high, which here turns on what was decided about them while the records were wrong
+Unless: The risk is not high
+Public: In practice yes, at any scale
+Implication: The harm in this type is rarely exposure. It is a decision taken on a false record — a payment, a refusal, an entitlement — and the person may need to be told in order to have it revisited
+Source: [gdpr]
+Read: 2026-09-02
+
+### GDPR art. 33(5)
+Applies: All organisations
+Do: Record the breach, its effects, and what was done about it
+Term: No term
+From: —
+Anchor: Throughout. The Board expects the documentation to be made as the incident develops
+Owed to: Nobody, until asked
+Establish: The facts, the effects, the remedial action
+Public: No
+Implication: This obligation carries more weight in this type than in any other. Where the records were altered, the documentation made at the time may be the only account of what they said before
+Source: [gdpr]
+Read: 2026-09-02
+
 ## T5 · Acts under the General Data Protection Regulation
 
 ### GDPR art. 33(1)
@@ -1504,7 +1569,7 @@ Public: No
 Source: [gdpr]
 Read: 2026-09-02
 
-## T1, T5 · Acts under DORA, where the organisation is a financial entity
+## T1, T2, T3, T5 · Acts under DORA, where the organisation is a financial entity
 
 ### DORA classification
 Applies: Financial entity
@@ -1577,7 +1642,7 @@ Implication: There is no silent overrun. Missing the term and not saying so befo
 Source: [dora-rts-terms]
 Read: 2026-09-02
 
-## T1, T5 · Acts under NIS2, where the organisation is essential or important
+## T1, T2, T3, T5 · Acts under NIS2, where the organisation is essential or important
 
 ### NIS2 displacement
 Applies: Financial entity
@@ -1621,7 +1686,7 @@ Public: No
 Source: [nis2]
 Read: 2026-09-02
 
-## T1, T5 · Acts under the Market Abuse Regulation
+## T1, T2, T3, T5 · Acts under the Market Abuse Regulation
 
 ### MAR art. 17(1)
 Applies: Listed issuer
@@ -1783,9 +1848,15 @@ Read: 2026-09-02
   not set one, which is true of the act and no help at three in the morning.
 - Twenty-nine jurisdictions carry a recipient. The terms are the same across the
   Union; the recipients are not, and eleven of the twenty-nine move a term.
-- T2, T3 and T4 have no rows. T1 and T5 are worked. Of the two, T1 is the one
-  the Board has decided: fourteen of its eighteen worked examples are T1, against
-  one national decision for T5.
+- T4 has no rows. The four decided examples that would calibrate it are
+  ransomware, which is an outside actor, and this record is about the insider.
+  Building it means finding decided cases of an interruption caused from within.
+- T2 has no decided case, and no GDPR row either. It is the type where an
+  organisation can lose the thing it most values and owe nothing to a data
+  protection authority, while owing everything to a market authority if the
+  information was price-sensitive.
+- T3 has no decided case. The eighteen worked examples contain alteration only
+  inside the ransomware group, which is left out for the same reason as T4.
 - The cutting rule assumes one type per event. Case 4 shows an event can be two.
 - One decided case now exists for T5, from Italy. No other jurisdiction has one
   on this record.
