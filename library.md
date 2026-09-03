@@ -177,6 +177,32 @@ It says who the authority is. It does not say through which channel a
 notification reaches it, which is published by each authority separately and is
 a different kind of source.
 
+### List of competent authorities designated for the purposes of Regulation (EU) No 596/2014 {#esma-mar-nca}
+European Securities and Markets Authority · European Union · last updated 3 March 2025
+https://www.esma.europa.eu/sites/default/files/mar.pdf
+Establishes: Which single administrative authority each of thirty European countries has designated under article 22 of the Market Abuse Regulation.
+
+Article 22 requires each Member State to designate one administrative competent
+authority and to inform the Commission and ESMA. This register is what that
+obligation produces, and ESMA states that the entries come from the Member
+States themselves.
+
+It names the authority. It does not say through which channel a disclosure
+reaches it, and it says nothing about the substance of article 17.
+
+### Competent authorities for the prudential supervision of credit institutions {#eba-competent-authorities}
+European Banking Authority · European Union · read 3 September 2026
+https://www.eba.europa.eu/activities/supervisory-convergence/supervisory-disclosure/competent-authorities
+Establishes: Which body supervises credit institutions prudentially in each of thirty European countries, and therefore which body a credit institution reports a major ICT-related incident to under DORA.
+
+Published as part of the EBA's supervisory disclosure. The list matters to this
+record because DORA article 46 designates by reference rather than by name: for
+a credit institution it points at the authority designated under article 4 of
+Directive 2013/36/EU, and this is who that is.
+
+It covers credit institutions only. Payment institutions, investment firms and
+insurers are designated under other acts, and their authorities are not here.
+
 ## Guidance
 
 ### Guidelines 9/2022 on personal data breach notification under GDPR {#edpb-9-2022}

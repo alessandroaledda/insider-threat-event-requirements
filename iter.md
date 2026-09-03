@@ -359,10 +359,220 @@ Read: 2026-09-03
 ### Financial competent authority
 Role: financial
 Bears on: DORA art. 19(4), where the organisation is a financial entity
-Country: none written
-Note: Article 46 names the authority designated under Article 4 of Directive 2013/36/EU rather than a body. For a significant credit institution the report still goes to that national authority, which transmits it to the ECB.
-Source: not read
-Read: no
+Scope: The bodies below are the designation for **credit institutions**, under article 4 of Directive 2013/36/EU. Article 46 designates by sector: a payment institution, an investment firm and an insurer are designated under other acts and resolve to other bodies, which this record has not read.
+Note: A significant credit institution reports to the national authority below, which transmits the report to the ECB immediately. Supervision moves under the Single Supervisory Mechanism; the report does not.
+Source: [eba-competent-authorities] · [dora]
+Read: 2026-09-03
+
+### financial · Austria
+Role: financial
+Country: AT
+Name: Finanzmarktaufsicht (FMA)
+Source: [eba-competent-authorities]
+Read: 2026-09-03
+
+### financial · Belgium
+Role: financial
+Country: BE
+Name: Nationale Bank van België / Banque Nationale de Belgique
+Source: [eba-competent-authorities]
+Read: 2026-09-03
+
+### financial · Bulgaria
+Role: financial
+Country: BG
+Name: Bulgarian National Bank
+Source: [eba-competent-authorities]
+Read: 2026-09-03
+
+### financial · Croatia
+Role: financial
+Country: HR
+Name: Hrvatska narodna banka
+Source: [eba-competent-authorities]
+Read: 2026-09-03
+
+### financial · Cyprus
+Role: financial
+Country: CY
+Name: Central Bank of Cyprus
+Source: [eba-competent-authorities]
+Read: 2026-09-03
+
+### financial · Czechia
+Role: financial
+Country: CZ
+Name: Česká národní banka
+Source: [eba-competent-authorities]
+Read: 2026-09-03
+
+### financial · Denmark
+Role: financial
+Country: DK
+Name: Finanstilsynet
+Source: [eba-competent-authorities]
+Read: 2026-09-03
+
+### financial · Estonia
+Role: financial
+Country: EE
+Name: Finantsinspektsioon
+Source: [eba-competent-authorities]
+Read: 2026-09-03
+
+### financial · Finland
+Role: financial
+Country: FI
+Name: Finanssivalvonta
+Source: [eba-competent-authorities]
+Read: 2026-09-03
+
+### financial · France
+Role: financial
+Country: FR
+Name: Autorité de contrôle prudentiel et de résolution
+Source: [eba-competent-authorities]
+Read: 2026-09-03
+
+### financial · Germany
+Role: financial
+Country: DE
+Name: BaFin, with the Deutsche Bundesbank
+Source: [eba-competent-authorities]
+Read: 2026-09-03
+
+### financial · Greece
+Role: financial
+Country: GR
+Name: Bank of Greece
+Source: [eba-competent-authorities]
+Read: 2026-09-03
+
+### financial · Hungary
+Role: financial
+Country: HU
+Name: Magyar Nemzeti Bank
+Source: [eba-competent-authorities]
+Read: 2026-09-03
+
+### financial · Iceland
+Role: financial
+Country: IS
+Name: Central Bank of Iceland
+Source: [eba-competent-authorities]
+Read: 2026-09-03
+
+### financial · Ireland
+Role: financial
+Country: IE
+Name: Central Bank of Ireland
+Source: [eba-competent-authorities]
+Read: 2026-09-03
+
+### financial · Italy
+Role: financial
+Country: IT
+Name: Banca d'Italia
+Source: [eba-competent-authorities]
+Read: 2026-09-03
+
+### financial · Latvia
+Role: financial
+Country: LV
+Name: Latvijas Banka
+Source: [eba-competent-authorities]
+Read: 2026-09-03
+
+### financial · Liechtenstein
+Role: financial
+Country: LI
+Name: Finanzmarktaufsicht Liechtenstein
+Source: [eba-competent-authorities]
+Read: 2026-09-03
+
+### financial · Lithuania
+Role: financial
+Country: LT
+Name: Lietuvos bankas
+Source: [eba-competent-authorities]
+Read: 2026-09-03
+
+### financial · Luxembourg
+Role: financial
+Country: LU
+Name: Commission de Surveillance du Secteur Financier
+Source: [eba-competent-authorities]
+Read: 2026-09-03
+
+### financial · Malta
+Role: financial
+Country: MT
+Name: Malta Financial Services Authority
+Source: [eba-competent-authorities]
+Read: 2026-09-03
+
+### financial · Netherlands
+Role: financial
+Country: NL
+Name: De Nederlandsche Bank
+Source: [eba-competent-authorities]
+Read: 2026-09-03
+
+### financial · Norway
+Role: financial
+Country: NO
+Name: Finanstilsynet
+Source: [eba-competent-authorities]
+Read: 2026-09-03
+
+### financial · Poland
+Role: financial
+Country: PL
+Name: Komisja Nadzoru Finansowego
+Source: [eba-competent-authorities]
+Read: 2026-09-03
+
+### financial · Portugal
+Role: financial
+Country: PT
+Name: Banco de Portugal
+Source: [eba-competent-authorities]
+Read: 2026-09-03
+
+### financial · Romania
+Role: financial
+Country: RO
+Name: Banca Naţională a României
+Source: [eba-competent-authorities]
+Read: 2026-09-03
+
+### financial · Slovakia
+Role: financial
+Country: SK
+Name: Národná banka Slovenska
+Source: [eba-competent-authorities]
+Read: 2026-09-03
+
+### financial · Slovenia
+Role: financial
+Country: SI
+Name: Banka Slovenije
+Source: [eba-competent-authorities]
+Read: 2026-09-03
+
+### financial · Spain
+Role: financial
+Country: ES
+Name: Banco de España
+Source: [eba-competent-authorities]
+Read: 2026-09-03
+
+### financial · Sweden
+Role: financial
+Country: SE
+Name: Finansinspektionen
+Source: [eba-competent-authorities]
+Read: 2026-09-03
 
 ### CSIRT or competent authority
 Role: csirt
@@ -375,10 +585,219 @@ Read: no
 ### Market authority
 Role: market
 Bears on: MAR art. 17(1), where the organisation is a listed issuer
-Country: none written
-Note: Not read. MAR itself has not been opened for this record either.
-Source: not read
-Read: no
+Note: The body is recorded for thirty countries. The article it reports under, MAR art. 17, has still not been opened for this record, and the act says so.
+Source: [esma-mar-nca]
+Read: 2026-09-03
+
+### market · Belgium
+Role: market
+Country: BE
+Name: Autoriteit voor Financiële Diensten en Markten / Autorité des services et marchés financiers (FSMA)
+Source: [esma-mar-nca]
+Read: 2026-09-03
+
+### market · Bulgaria
+Role: market
+Country: BG
+Name: Комисия за финансов надзор (FSC)
+Source: [esma-mar-nca]
+Read: 2026-09-03
+
+### market · Czechia
+Role: market
+Country: CZ
+Name: Česká národní banka (CNB)
+Source: [esma-mar-nca]
+Read: 2026-09-03
+
+### market · Denmark
+Role: market
+Country: DK
+Name: Finanstilsynet
+Source: [esma-mar-nca]
+Read: 2026-09-03
+
+### market · Germany
+Role: market
+Country: DE
+Name: Bundesanstalt für Finanzdienstleistungsaufsicht (BaFIN)
+Source: [esma-mar-nca]
+Read: 2026-09-03
+
+### market · Estonia
+Role: market
+Country: EE
+Name: Finantsinspektsioon (FSA)
+Source: [esma-mar-nca]
+Read: 2026-09-03
+
+### market · Ireland
+Role: market
+Country: IE
+Name: Central Bank of Ireland
+Source: [esma-mar-nca]
+Read: 2026-09-03
+
+### market · Greece
+Role: market
+Country: GR
+Name: Επιτροπή Κεφαλαιαγοράς (HCMC)
+Source: [esma-mar-nca]
+Read: 2026-09-03
+
+### market · Spain
+Role: market
+Country: ES
+Name: Comisión Nacional del Mercado de Valores (CNMV)
+Source: [esma-mar-nca]
+Read: 2026-09-03
+
+### market · France
+Role: market
+Country: FR
+Name: Autorité des Marchés Financiers (AMF)
+Source: [esma-mar-nca]
+Read: 2026-09-03
+
+### market · Croatia
+Role: market
+Country: HR
+Name: Hrvatska agencija za nadzor financijskih usluga (HANFA)
+Source: [esma-mar-nca]
+Read: 2026-09-03
+
+### market · Italy
+Role: market
+Country: IT
+Name: Commissione Nazionale per le Società e la Borsa (CONSOB)
+Source: [esma-mar-nca]
+Read: 2026-09-03
+
+### market · Cyprus
+Role: market
+Country: CY
+Name: Επιτροπή Κεφαλαιαγοράς (CySEC)
+Source: [esma-mar-nca]
+Read: 2026-09-03
+
+### market · Latvia
+Role: market
+Country: LV
+Name: Latvijas Banka
+Source: [esma-mar-nca]
+Read: 2026-09-03
+
+### market · Lithuania
+Role: market
+Country: LT
+Name: Lietuvos bankas (LB)
+Source: [esma-mar-nca]
+Read: 2026-09-03
+
+### market · Luxembourg
+Role: market
+Country: LU
+Name: Commission de Surveillance du Secteur Financier (CSSF)
+Source: [esma-mar-nca]
+Read: 2026-09-03
+
+### market · Hungary
+Role: market
+Country: HU
+Name: Magyar Nemzeti Bank (MNB)
+Source: [esma-mar-nca]
+Read: 2026-09-03
+
+### market · Malta
+Role: market
+Country: MT
+Name: Awtorita' ghas-Servizzi Finanzjari ta' Malta (MFSA)
+Source: [esma-mar-nca]
+Read: 2026-09-03
+
+### market · Netherlands
+Role: market
+Country: NL
+Name: Autoriteit Financiële Markten (AFM)
+Source: [esma-mar-nca]
+Read: 2026-09-03
+
+### market · Austria
+Role: market
+Country: AT
+Name: Österreichische Finanzmarktaufsicht (FMA)
+Source: [esma-mar-nca]
+Read: 2026-09-03
+
+### market · Poland
+Role: market
+Country: PL
+Name: Komisja Nadzoru Finansowego (KNF)
+Source: [esma-mar-nca]
+Read: 2026-09-03
+
+### market · Portugal
+Role: market
+Country: PT
+Name: Comissão do Mercado de Valores Mobiliários (CMVM)
+Source: [esma-mar-nca]
+Read: 2026-09-03
+
+### market · Romania
+Role: market
+Country: RO
+Name: Autoritatea de Supraveghere Financiara (ASF)
+Source: [esma-mar-nca]
+Read: 2026-09-03
+
+### market · Slovenia
+Role: market
+Country: SI
+Name: Agencija za trg Vrednostnih Papirjev (A-TVP)
+Source: [esma-mar-nca]
+Read: 2026-09-03
+
+### market · Slovakia
+Role: market
+Country: SK
+Name: Národná Banka Slovenska (NBS)
+Source: [esma-mar-nca]
+Read: 2026-09-03
+
+### market · Finland
+Role: market
+Country: FI
+Name: Finanssivalvonta (FIN-FSA)
+Source: [esma-mar-nca]
+Read: 2026-09-03
+
+### market · Sweden
+Role: market
+Country: SE
+Name: Finansinspektionen (FI)
+Source: [esma-mar-nca]
+Read: 2026-09-03
+
+### market · Iceland
+Role: market
+Country: IS
+Name: Central Bank of Iceland
+Source: [esma-mar-nca]
+Read: 2026-09-03
+
+### market · Liechtenstein
+Role: market
+Country: LI
+Name: Finanzmarktaufsicht Liechtenstein (FMA)
+Source: [esma-mar-nca]
+Read: 2026-09-03
+
+### market · Norway
+Role: market
+Country: NO
+Name: Finanstilsynet
+Source: [esma-mar-nca]
+Read: 2026-09-03
 
 ## Detection, where it is prescribed rather than advised
 
