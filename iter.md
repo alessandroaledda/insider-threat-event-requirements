@@ -1154,7 +1154,7 @@ Read: 2026-09-03
 ### NIS2 · Ireland
 Country: IE
 Act: None. The National Cyber Security Bill has not been enacted.
-In force: not in force
+In force: No date exists, because there is no act to commence.
 Recipient: The National Cyber Security Centre, Ireland's national cyber security authority and national CSIRT
 Divergence: The whole of it. On the date below the authority's own page states that *«the NIS2 directive has not yet been transposed into Irish law»* and that *«the transposition deadline of 17th October 2024 was not met»*. It adds that *«there is currently no requirement for entities to register under NIS2, until such time as the legislation is enacted»*, and that guidance on reporting will follow.
 Moves: none
