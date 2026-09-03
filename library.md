@@ -315,6 +315,30 @@ It is worth stating what this does not mean. The Regulations in this record —
 the GDPR, DORA, MAR — apply in Ireland whatever the state of this Bill. It is
 the Directive, and only the Directive, that waits.
 
+### Decreto-Lei n.º 125/2025, de 4 de dezembro {#pt-dl-125-2025}
+Diário da República, 1.ª série, n.º 234 · Portugal · read 2026-09-03
+https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2025-962603401
+Establishes: That Portugal transposes NIS2 with a notification cascade of its own: a different anchor, a conditional second stage, an additional notification of the end of significant impact, and a final report of thirty working days measured from that new stage.
+
+The first national act this record has read rather than read about, which is
+what makes it worth the space.
+
+Articles 41 to 44 do not restate the Directive's cascade. They rebuild it.
+The initial notification runs from the entity's own determination that a
+significant incident exists or may come to exist, not from awareness of one.
+The seventy-two hour stage becomes an update owed only when necessary. A
+notification of the end of significant impact is added, due within
+twenty-four hours of that end, and the final report is then measured from it,
+in thirty working days.
+
+Nothing in the act is unusual on its face. Taken together it means that the
+one thing an organisation is most likely to carry across borders — the shape
+of the cascade — is the thing that does not carry.
+
+The PDF in the Diário da República is encrypted; it was read after installing
+the cipher, in layout mode, and the articles were read whole rather than
+searched for their numbers.
+
 ## Guidance
 
 ### Guidelines 9/2022 on personal data breach notification under GDPR {#edpb-9-2022}

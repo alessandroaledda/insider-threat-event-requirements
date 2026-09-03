@@ -635,6 +635,15 @@ Channel: Not open. The reporting portal is not available while the legislation i
 Source: [ncsc-ie-nis2-faq]
 Read: 2026-09-03
 
+### csirt · Portugal
+Role: csirt
+Country: PT
+Name: The competent cybersecurity authority, which article 2 defines as the Centro Nacional de Cibersegurança or, where one applies, the sectoral national authority under article 15(2)(a)
+URL: https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2025-962603401
+Channel: Not read here. Article 41(4) leaves the format and procedure to a technical instruction of the CNCS.
+Source: [pt-dl-125-2025]
+Read: 2026-09-03
+
 ### Market authority
 Role: market
 Bears on: MAR art. 17(1), where the organisation is a listed issuer
@@ -932,6 +941,16 @@ Recipient: The National Cyber Security Centre, Ireland's national cyber security
 Divergence: The whole of it. On the date below the authority's own page states that *«the NIS2 directive has not yet been transposed into Irish law»* and that *«the transposition deadline of 17th October 2024 was not met»*. It adds that *«there is currently no requirement for entities to register under NIS2, until such time as the legislation is enacted»*, and that guidance on reporting will follow.
 Standing: The recipient is named because the page names it: the Centre holds the lead competent authority role and is the national CSIRT. The duty to report to it under NIS2 does not yet arise in Irish law. An ITER row that rests on NIS2 alone has, in Ireland, no national instrument under it.
 Source: [ncsc-ie-nis2-faq]
+Read: 2026-09-03
+
+### NIS2 · Portugal
+Country: PT
+Act: Decreto-Lei n.º 125/2025, de 4 de dezembro, read in the Diário da República
+In force: Article 11 sets it at 120 days after publication. Published 4 December 2025, that falls on 3 April 2026. The date is arithmetic on the act's own wording, not a date the act prints.
+Recipient: The competent cybersecurity authority, which article 2 defines as the Centro Nacional de Cibersegurança or, where one applies, the sectoral national authority under article 15(2)(a)
+Divergence: Substantial, and in four places. **The anchor is not awareness.** Article 42(1) starts the twenty-four hours when the entity *«concluir que existe, ou possa vir a existir, um incidente significativo»* and runs them *«até 24 horas após essa verificação»* — from that determination, and reaching forward to an incident that may yet come to exist. **The seventy-two hour stage is conditional and is an update.** Article 42(3) owes it *«quando necessário»*, as *«uma atualização da notificação inicial»*, where the Directive's second stage is owed in every case. **There is a stage the Directive does not have.** Article 43 requires a notification of the *end* of significant impact, within twenty-four hours of that end. **The final report is measured differently and in a different unit.** Article 44(1) gives *«30 dias úteis a contar da data da notificação do fim de impacto significativo»* — thirty working days from that new stage, where the Directive gives one month from the incident notification.
+Standing: Read in the act itself and not in guidance, which is why it is stated this firmly. One consequence worth holding: article 41(2) provides that where the incident is resolved within two hours of detection, only the end-of-impact notification is owed. An organisation working from the Directive alone would hold the wrong anchor, the wrong final deadline, and would not know the third stage exists.
+Source: [pt-dl-125-2025]
 Read: 2026-09-03
 
 ## Detection, where it is prescribed rather than advised
