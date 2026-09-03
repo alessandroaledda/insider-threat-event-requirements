@@ -761,6 +761,15 @@ Channel: Not set by the order.
 Source: [mt-cybersecurity-order-draft]
 Read: 2026-09-03
 
+### csirt · Norway
+Role: csirt
+Country: NO
+Name: The sectoral supervisory authority, with a copy to the National Contact Point, under section 17 of the regulation
+URL: https://lovdata.no/dokument/SF/forskrift/2025-06-20-1131/KAPITTEL_2
+Channel: Not set by the regulation.
+Source: [no-digitalsikkerhetsforskriften]
+Read: 2026-09-03
+
 ### Market authority
 Role: market
 Bears on: MAR art. 17(1), where the organisation is a listed issuer
@@ -1230,6 +1239,17 @@ Divergence: The draft moves nothing. Sub-article (6) reproduces the cascade exac
 Moves: unsettled
 Standing: A consultation draft, published by the Ministry responsible. Whether the order has since been made, and on what date it was brought into force, is not established by this source. The terms are recorded because they were read; the instrument is not recorded as binding, because this document does not show that it is.
 Source: [mt-cybersecurity-order-draft]
+Read: 2026-09-03
+
+### NIS2 · Norway
+Country: NO
+Act: Digitalsikkerhetsloven, with the digitalsikkerhetsforskriften of 20 June 2025
+In force: 1 October 2025
+Recipient: The sectoral supervisory authority, with a copy to the National Contact Point, under section 17 of the regulation
+Divergence: Norway is not running the same cascade. **The law implements the first NIS Directive, not NIS2.** Neither the regulation nor the authority's guidance page mentions NIS2 at all. **The final report is measured from the first warning, not from the second stage.** Section 17 reads *«Innen en måned fra varsel som nevnt i første ledd er sendt, skal tilbyderen gi tilsynsmyndigheten en hendelsesrapport»* — one month from the *first* warning, where the Directive measures its final report from the incident notification. **The seventy-two hours have no anchor in the regulation**: it says only *«Informasjonen i varselet skal oppdateres innen 72 timer»*. **And the regulation and the guidance use different words for the moment.** The regulation runs the twenty-four hours *«etter at en tilbyder ... fikk kjennskap til hendelsen»*, from obtaining knowledge; the authority's own page says *«innen 24 timer etter at dere oppdaget hendelsen»*, after you discovered it.
+Moves: yes
+Standing: Read in the regulation on Lovdata and in the National Security Authority's guidance, which is where the second wording comes from. The recipient also differs in kind: the warning goes to the sectoral supervisory authority with a copy to the National Contact Point, not to a CSIRT.
+Source: [no-digitalsikkerhetsforskriften]
 Read: 2026-09-03
 
 ## Detection, where it is prescribed rather than advised

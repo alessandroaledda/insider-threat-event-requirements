@@ -558,6 +558,27 @@ the whole point of keeping a Standing field: a row that says what a draft
 proposes is useful, and a row that presents a draft as binding is worse than
 no row.
 
+### Digitalsikkerhetsforskriften, and the NSM guidance on notification {#no-digitalsikkerhetsforskriften}
+Lovdata and Nasjonal sikkerhetsmyndighet · Norway · read 2026-09-03
+https://lovdata.no/dokument/SF/forskrift/2025-06-20-1131/KAPITTEL_2
+Establishes: That Norway's regime in force implements the first NIS Directive rather than NIS2, that the incident report is due one month from the first warning, and that the regulation and the authority's guidance name two different moments for the same twenty-four hours.
+
+The first entry in this record for a country outside the Union, and it shows
+why the distinction has to be kept.
+
+The intervals look familiar — twenty-four hours, seventy-two hours, one
+month — and the structure underneath them is the older Directive's. The
+month runs from the first warning rather than from the second stage, the
+seventy-two hours are given no starting point, and the report is owed to a
+sectoral supervisor rather than to a CSIRT.
+
+One detail is worth more than the rest. The regulation says *fikk kjennskap*,
+obtained knowledge. The authority's own page explaining the regulation says
+*oppdaget*, discovered. Every other country in this record that moved the
+anchor did it in the act. Here the act and the guidance say different
+things, and an organisation reading only the page is reading the earlier of
+the two moments.
+
 ## Guidance
 
 ### Guidelines 9/2022 on personal data breach notification under GDPR {#edpb-9-2022}
