@@ -60,7 +60,7 @@ Rows: written under the GDPR, DORA, NIS2 and MAR.
 What it is: Non-personal information of value leaves the organisation's control — trade secrets, plans, strategy. Nothing is owed under the General Data Protection Regulation, because there is no personal data in it. Where the material also contains personal data the event is a T1 as well, and both sets of obligations run.
 Added: 2026-09-02
 Updated: 2026-09-03
-Rows: written under DORA, NIS2 and MAR. None under the GDPR, and that is the finding rather than a gap.
+Rows: written under DORA, NIS2 and MAR. None under the GDPR, because the type is defined by the absence of personal data.
 
 ### T3 · Alteration or destruction of records
 What it is: Integrity rather than confidentiality. Article 4(12) puts accidental or unlawful destruction, loss and alteration in the definition of a breach, so the same obligations arise — but what was changed may also be the evidence of the change.
@@ -104,21 +104,20 @@ national quirk. Set side by side they fall on one scale, and the scale is short.
 The Directive attaches at awareness. Of the twenty-nine transpositions read,
 **four attach earlier, at detection, and two attach later, at determination.**
 
-The two directions are not symmetrical, and this is the finding.
+The two directions differ in who fixes the moment.
 
-A clock that starts at detection starts before anyone has decided anything. It
-is harsh, and it is verifiable from records the organisation did not write for
-the purpose: the alert has a timestamp.
+Detection is fixed by a record the organisation made for another purpose: an
+alert carries a timestamp written before anyone considered reporting. It is
+established from outside the organisation's account of itself.
 
-A clock that starts at determination starts when the organisation says it
-starts. It is comfortable, and it is the one that cannot be checked from
-outside. It is also the one a supervisory authority will ask about, because the
-gap between detection and determination is exactly where an unbounded triage
-hides — and the Board has already said that where that period is left open and a
-breach did occur, the delay can be treated as a failure to notify.
+Determination is fixed by the organisation, at the point it decides the event
+qualifies. Nothing outside its own record establishes when that happened. The
+interval between the two is the period the Board addresses in Guidelines
+9/2022: a short investigation may precede awareness, and where it is left open
+and a breach did occur, the delay can be treated as a failure to notify.
 
-An organisation that has not fixed which of these four it means has not fixed
-the term either, whatever the term says.
+Where the stage is not fixed, the term is not fixed either, whatever interval
+the instrument states.
 
 `Stage` is assigned by this record and not by the instruments. Each assignment
 is a reading of the wording quoted in the row it sits on, and can be argued with
@@ -1216,7 +1215,7 @@ Recipient: The competent cybersecurity authority, which article 2 defines as the
 Divergence: Substantial, and in four places. **The anchor is not awareness.** Article 42(1) starts the twenty-four hours when the entity *«concluir que existe, ou possa vir a existir, um incidente significativo»* and runs them *«até 24 horas após essa verificação»* — from that determination, and reaching forward to an incident that may yet come to exist. **The seventy-two hour stage is conditional and is an update.** Article 42(3) owes it *«quando necessário»*, as *«uma atualização da notificação inicial»*, where the Directive's second stage is owed in every case. **There is a stage the Directive does not have.** Article 43 requires a notification of the *end* of significant impact, within twenty-four hours of that end. **The final report is measured differently and in a different unit.** Article 44(1) gives *«30 dias úteis a contar da data da notificação do fim de impacto significativo»* — thirty working days from that new stage, where the Directive gives one month from the incident notification.
 Moves: yes
 Stage: determination
-Standing: Read in the act itself, in the Diário da República, and not in guidance, which is why it is stated this firmly. One consequence worth holding: article 41(2) provides that where the incident is resolved within two hours of detection, only the end-of-impact notification is owed. An organisation working from the Directive alone would hold the wrong anchor, the wrong final deadline, and would not know the third stage exists.
+Standing: Read in the act itself, in the Diário da República, and not in guidance. One consequence worth holding: article 41(2) provides that where the incident is resolved within two hours of detection, only the end-of-impact notification is owed. An organisation working from the Directive alone would hold the wrong anchor, the wrong final deadline, and would not know the third stage exists.
 Source: [pt-dl-125-2025]
 Read: 2026-09-03
 
