@@ -662,7 +662,7 @@ Role: csirt
 Country: BE
 Name: The national CSIRT, which article 1, 46° defines functionally as the national computer security incident response centre without naming the body
 URL: https://www.ejustice.just.fgov.be/eli/loi/2024/04/26/2024202344/justel
-Channel: Article 34 §1 leaves the arrangements to a protocol between the national CSIRT and the NCCN. The act does not set them out.
+Channel: Article 34 §1 leaves the arrangements to a protocol between the national CSIRT and the NCCN. The act does not set them out. The Centre publishes the platform on its own pages, at notif.safeonweb.be, with a telephone line for an emergency. No address is recorded in this row: every host in the Centre's estate answers 403 to an automated request, so the host is known to exist and the path could not be confirmed.
 Source: [be-loi-26-04-2024]
 Read: 2026-09-03
 
@@ -773,8 +773,10 @@ Role: csirt
 Country: LU
 Name: The Institut Luxembourgeois de Régulation, which organises the regime and receives the notifications
 URL: https://gouvernement.lu/fr/actualites/toutes_actualites/communiques/2026/07-juillet/06-cybersecurite-nis-2.html
-Channel: Not established. The government's communiqué names a self-registration form and does not name the channel for incident notifications.
-Source: [lu-communique-nis2]
+Portal: https://serima.lu/notification
+Checked: 2026-09-03
+Channel: SERIMA, and it is the only channel in this record that is not only for one instrument. The same portal takes the notifications owed under NIS2, the GDPR, the electronic communications regime and CER, and it was built jointly by the Institute, the Commission nationale pour la protection des données, the Haut-Commissariat à la Protection nationale and the Luxembourg House of Cybersecurity. The notification module is open to everyone: an entity without an account can create one on the spot, which is the opposite of the credential problem in the Netherlands, Croatia and Poland.
+Source: [lu-communique-nis2] [ilr-serima]
 Read: 2026-09-03
 
 ### csirt · Malta
@@ -847,8 +849,8 @@ Role: csirt
 Country: GR
 Name: The Εθνική Αρχή Κυβερνοασφάλειας, the National Cybersecurity Authority, to which paragraph 4 owes the submissions
 URL: http://publications.europa.eu/resource/celex/72022L2555GRC_202405334
-Channel: Not set by the law.
-Source: [gr-nomos-5160-2024]
+Channel: Not set by the law, and there is no portal for it. The Authority publishes two forms, both dated 9 December 2025 — a simple one for the twenty-four hour early warning, an analytical one for the seventy-two hour and the final report — and takes them by electronic mail at incident@cyber.gov.gr. Its page also links to the Hellenic CSIRT's own incident report page, which is a different team and is not recorded here as discharging this duty.
+Source: [gr-nomos-5160-2024] [cyber-gov-gr-anafora]
 Read: 2026-09-03
 
 ### Market authority

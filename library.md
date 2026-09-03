@@ -928,6 +928,38 @@ The channel is of a piece with that: the intervals are exact, the machinery is
 an e-mail address, and the thing that gates the report is a signature the
 organisation either already holds or does not.
 
+### Αναφορά Συμβάντων {#cyber-gov-gr-anafora}
+Εθνική Αρχή Κυβερνοασφάλειας · Greece · read 3 September 2026
+https://cyber.gov.gr/kyvernoepitheseis/anafora-symvanton/
+Kind: guidance
+Read: 2026-09-03
+Establishes: That Greece has no reporting portal for the NIS2 duty, and that the Authority takes two dated forms by electronic mail at incident@cyber.gov.gr — a simple one for the early warning, an analytical one for the later stages.
+
+The law, read in the Government Gazette, gives the cascade and no channel. This
+gives the channel and something more useful than an address: the forms are split
+along the same seam as the deadlines, so the twenty-four hour stage has its own
+short form and the later stages a longer one.
+
+### SERIMA (SEcurity RIsk MAnagement) {#ilr-serima}
+Institut Luxembourgeois de Régulation · Luxembourg · read 3 September 2026
+https://www.ilr.lu/en/sectors/niss/serima/
+Kind: guidance
+Read: 2026-09-03
+Establishes: That Luxembourg's notifications go through one portal at serima.lu/notification, that the same portal serves NIS2, the GDPR, the electronic communications regime and CER, and that the notification module needs no prior account.
+
+The most interesting channel in this record, and not because of the address.
+
+Everywhere else an insider event that is both a personal data breach and a
+significant incident produces two submissions, to two bodies, on two forms, with
+two clocks that start at points the two instruments describe differently. In
+Luxembourg it produces one, because the regulator and the data protection
+commission built the portal together.
+
+It also inverts the credential problem. The Netherlands wants eHerkenning at
+EH2+, Croatia wants the national identification system with authorisation
+granted in advance, Poland wants an activated S46 account. Here an entity with
+no account creates one at the moment it needs to report.
+
 ## Guidance
 
 ### Guidelines 9/2022 on personal data breach notification under GDPR {#edpb-9-2022}
