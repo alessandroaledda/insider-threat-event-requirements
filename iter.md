@@ -707,6 +707,15 @@ Channel: The Act does not set one. The national platform PiXi is named outside t
 Source: [hr-zks-uredba]
 Read: 2026-09-03
 
+### csirt · Latvia
+Role: csirt
+Country: LV
+Name: The competent cyber incident prevention institution, which article 34 names by function
+URL: https://likumi.lv/ta/id/353390-nacionalas-kiberdrosibas-likums
+Channel: Electronically, under article 34(2) and (3). The Cabinet of Ministers sets the form.
+Source: [lv-nacionalas-kiberdrosibas-likums]
+Read: 2026-09-03
+
 ### Market authority
 Role: market
 Bears on: MAR art. 17(1), where the organisation is a listed issuer
@@ -1110,6 +1119,17 @@ Divergence: In three ways, and the first one is where to look. **The Act sets no
 Moves: yes
 Standing: Both instruments were read. The point worth carrying is structural rather than numerical: an organisation that reads the Croatian act and stops has the duty, the recipient and the threshold, and not one hour of the cascade. The thirty days are a real difference from a month, in the months that are longer.
 Source: [hr-zks-uredba]
+Read: 2026-09-03
+
+### NIS2 · Latvia
+Country: LV
+Act: Nacionālās kiberdrošības likums
+In force: 1 September 2024, by article 64. Adopted by the Saeima on 20 June 2024, and amended on 4 June 2026 with effect from 18 June 2026.
+Recipient: The competent cyber incident prevention institution, which article 34 names by function
+Divergence: The hours are the Directive's. The point they run from is not stated. Article 34(2) reads *«Nozīmīga kiberincidenta gadījumā subjekts nekavējoties, bet ne vēlāk kā 24 stundu laikā ... iesniedz ... agrīno brīdinājumu»*, and 34(3) puts the initial report at seventy-two hours, twenty-four for a trust service provider, in the same construction. Neither names an anchor. The nearest thing to one is 34(1), which speaks of *«Konstatējot kiberincidentu»* — on establishing a cyber incident. The final report keeps the Directive's measure: *«mēneša laikā pēc šā panta trešajā daļā minētā ziņojuma iesniegšanas»*, one month after the initial report, with a progress report where the incident cannot be resolved in time and the final report after it is.
+Moves: yes
+Standing: Read in the act on Likumi.lv, in the version in force. An organisation in Latvia holds the intervals and has to supply the starting point from somewhere else. Whether *konstatējot* in 34(1) carries into 34(2) is a question of Latvian construction that this record does not answer.
+Source: [lv-nacionalas-kiberdrosibas-likums]
 Read: 2026-09-03
 
 ## Detection, where it is prescribed rather than advised

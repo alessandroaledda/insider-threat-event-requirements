@@ -462,6 +462,23 @@ Worth stating for what it implies about method. A record that reads the
 transposing act and stops will, in Croatia, conclude that there are no
 deadlines. The absence of a term is not evidence that a term is absent.
 
+### Nacionālās kiberdrošības likums {#lv-nacionalas-kiberdrosibas-likums}
+Likumi.lv, Latvijas Vēstnesis · Latvia · read 2026-09-03
+https://likumi.lv/ta/id/353390-nacionalas-kiberdrosibas-likums
+Establishes: That Latvia sets the twenty-four and seventy-two hour intervals without stating what they run from, and that the final report is due one month after the initial report.
+
+A third kind of gap, after Spain's missing recipient and Sweden's.
+
+Here the recipient is named by function and the intervals are exact. What is
+absent is the moment they start. Article 34(2) and (3) give the hours and no
+anchor at all, and the paragraph above them speaks of establishing the
+incident rather than becoming aware of it.
+
+Set beside Finland, which replaced the anchor with detection, and Czechia,
+which replaced it with an internal classification, the pattern is that the
+anchor is the least stable part of the cascade in transposition — the part
+an organisation is most likely to assume, and least likely to find.
+
 ## Guidance
 
 ### Guidelines 9/2022 on personal data breach notification under GDPR {#edpb-9-2022}
