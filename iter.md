@@ -1157,12 +1157,12 @@ Read: 2026-09-03
 
 ### NIS2 · Croatia
 Country: HR
-Act: Zakon o kibernetičkoj sigurnosti, NN 14/2024, with the Uredba o kibernetičkoj sigurnosti, NN 135/2024
+Act: Zakon o kibernetičkoj sigurnosti, NN 14/2024
 In force: The Act takes effect on the eighth day after publication, by article 116. The exact date is not printed in the Act.
 Recipient: The competent CSIRT, under article 37 of the Act
 Divergence: In three ways, and the first one is where to look. **The Act sets no deadline at all.** Article 37 states the duty to notify the competent CSIRT and the threshold, and stops. Every term is in the Uredba. **There the anchors hold**: the early warning within *«24 sata od trenutka saznanja za značajan incident»* and the initial notification within *«72 sata»* on the same footing, with trust service providers at twenty-four hours. **The final report is thirty days, not one month.** Article 70 of the Uredba gives *«najkasnije u roku od 30 dana od dana dostave početne obavijesti»*. **The interim report has a window the Directive does not set**: article 69 lets the CSIRT fix the deadline, but *«ne može biti kraći od 48 sati niti duži od sedam dana»*.
 Moves: yes
-Standing: Both instruments were read. The point worth carrying is structural rather than numerical: an organisation that reads the Croatian act and stops has the duty, the recipient and the threshold, and not one hour of the cascade. The thirty days are a real difference from a month, in the months that are longer.
+Standing: Both instruments were read: the Act, and the Uredba o kibernetičkoj sigurnosti, NN 135/2024, which is where the cascade actually is. The point worth carrying is structural rather than numerical: an organisation that reads the Croatian act and stops has the duty, the recipient and the threshold, and not one hour of the cascade. The thirty days are a real difference from a month, in the months that are longer.
 Source: [hr-zks-uredba]
 Read: 2026-09-03
 
