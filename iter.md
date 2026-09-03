@@ -653,7 +653,7 @@ Role: csirt
 Country: PT
 Name: The competent cybersecurity authority, which article 2 defines as the Centro Nacional de Cibersegurança or, where one applies, the sectoral national authority under article 15(2)(a)
 URL: https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2025-962603401
-Channel: Not read here. Article 41(4) leaves the format and procedure to a technical instruction of the CNCS.
+Channel: Article 41(4) leaves the format and procedure to a technical instruction of the CNCS. The Centre names the instrument: notifications are made on the MyCiber platform, in the entity's reserved area, and the initial notification within twenty-four hours goes there. The platform's own address is not recorded, because every route to the Centre's site was refused — the tool, a browser with an ordinary user agent, and a headless browser.
 Source: [pt-dl-125-2025]
 Read: 2026-09-03
 
@@ -715,18 +715,20 @@ Role: csirt
 Country: RO
 Name: The national cyber security incident response team
 URL: https://legislatie.just.ro/Public/DetaliiDocumentAfis/293121
-Channel: Not set by the ordinance.
+Channel: Not set by the ordinance. The Directorate names its platform PNRISC and publishes it on its own domain. The address is not recorded here: the host answers but refuses every automated request, so no page naming it was read.
 Source: [ro-oug-155-2024]
 Read: 2026-09-03
 
 ### csirt · Croatia
 Role: csirt
 Country: HR
-Name: The competent CSIRT, under article 37 of the Act
+Name: The competent CSIRT, under article 37 of the Act. NCSC-HR for the public sector, the Nacionalni CERT at CARNET for the private
 URL: https://narodne-novine.nn.hr/clanci/sluzbeni/2024_02_14_254.html
-Channel: The Act does not set one. The national platform PiXi is named outside the sources read here.
-Source: [hr-zks-uredba]
+Portal: https://pixi.carnet.hr/
+Channel: The Act does not set one. The competent CSIRT runs the PiXi platform, and access to it is *«isključivo ovlaštene osobe putem Nacionalnog identifikacijskog i autentifikacijskog sustava»* — authorised persons only, through the national identification system, with the authorisation granted beforehand by the entity's legal representative through e-Ovlaštenja. Which CSIRT is competent depends on the entity: NCSC-HR for state bodies, public-law bodies and local government, the Nacionalni CERT for the private sector.
+Source: [hr-zks-uredba] [cert-hr-zks-incident]
 Read: 2026-09-03
+Checked: 2026-09-03
 
 ### csirt · Latvia
 Role: csirt
@@ -742,16 +744,18 @@ Role: csirt
 Country: EE
 Name: Riigi Infosüsteemi Amet, the State Information System Authority
 URL: https://www.riigiteataja.ee/akt/K%C3%BCTS
-Channel: Not set by the act.
-Source: [ee-kuberturvalisuse-seadus]
+Portal: https://raport.cert.ee/
+Channel: Not set by the act. The Authority's incident resolution department, CERT-EE, runs a notification form at raport.cert.ee, and also accepts a plain e-mail to cert@cert.ee.
+Source: [ee-kuberturvalisuse-seadus] [ria-teavita]
 Read: 2026-09-03
+Checked: 2026-09-03
 
 ### csirt · Slovakia
 Role: csirt
 Country: SK
 Name: The Národný bezpečnostný úrad, through the single cybersecurity information system
 URL: https://static.slov-lex.sk/static/SK/ZZ/2024/366/20250101.html
-Channel: The jednotný informačný systém kybernetickej bezpečnosti, named in § 24(3) itself.
+Channel: The jednotný informačný systém kybernetickej bezpečnosti, named in § 24(3) of the act itself. The Authority explains that an operator needs an account in it, while a member of the public reports through SK-CERT instead. No address is recorded: the Authority's page describing the system came back empty.
 Source: [sk-zakon-366-2024]
 Read: 2026-09-03
 
@@ -760,8 +764,8 @@ Role: csirt
 Country: SI
 Name: The competent CSIRT group, under article 30(1)
 URL: https://www.uradni-list.si/glasilo-uradni-list-rs/vsebina/2025-01-1571
-Channel: Not set by the act.
-Source: [si-zinfv-1]
+Channel: Not set by the act, and there is no portal. Until the self-registration mechanism is in service the office takes the forms in digital form at the electronic address gp.uiv@gov.si. This record holds no `Portal` for Slovenia because there is not one to hold.
+Source: [si-zinfv-1] [ursiv-prijava]
 Read: 2026-09-03
 
 ### csirt · Luxembourg
@@ -823,9 +827,11 @@ Role: csirt
 Country: HU
 Name: The national cybersecurity incident handling centre, the Központ, with the SZTFH as the supervisory authority
 URL: https://njt.jog.gov.hu/jogszabaly/2024-418-20-22
-Channel: Not set out in the sources read.
-Source: [hu-418-2024-korm-rendelet]
+Portal: https://incidens.nki.gov.hu/
+Channel: The National Cyber Security Institute takes notifications around the clock, on a web form at incidens.nki.gov.hu, by e-mail to CSIRT@nki.gov.hu, and by telephone. It also runs an anonymous route, which is a different thing from the duty in the decree and is not it.
+Source: [hu-418-2024-korm-rendelet] [nki-incidens-bejelentes]
 Read: 2026-09-03
+Checked: 2026-09-03
 
 ### csirt · Bulgaria
 Role: csirt
@@ -1224,7 +1230,7 @@ In force: not stated in the source read
 Recipient: not recorded, see Divergence
 Divergence: Not established. The Ministry's own announcement does not give a date of entry into force, and does not give the notification deadlines. What it does say is where the reports will go: *«Usprawnione zostanie też zgłaszanie incydentów – informacje będą przekazywane bezpośrednio do zespołów CSIRT przez system S46.»* It also says administrative fines may first be imposed two years after the act enters into force, which is the only interval the page gives.
 Moves: unsettled
-Standing: A ministerial announcement about a bill the Sejm has passed, which is not the same as an act in force. This record therefore names no Polish recipient and no Polish terms. Poland's existing national system rests on the earlier act, which has not been read here.
+Standing: A ministerial announcement about a bill the Sejm has passed, which is not the same as an act in force. The channel exists already, under the system now in force: reports go through System S46, whose instructions the Ministry publishes at gov.pl/web/system-s46/zgloszenie-incydentu. Access is granted rather than open — an account is activated from a link the S46 team sends — so it is a prerequisite and not a step. This record therefore names no Polish recipient and no Polish terms. Poland's existing national system rests on the earlier act, which has not been read here.
 Source: [pl-mc-ksc-nowelizacja]
 Read: 2026-09-03
 

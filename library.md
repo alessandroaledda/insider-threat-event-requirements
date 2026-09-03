@@ -860,6 +860,52 @@ record the question at the moment of an incident is when to report and to whom.
 In Austria there is a prior question — which platform — and it has to be
 answered before the clock is usefully running.
 
+### Teavita küberintsidendist {#ria-teavita}
+Riigi Infosüsteemi Amet, CERT-EE · Estonia · read 3 September 2026
+https://www.ria.ee/en/cyber-security/handling-cyber-incidents-cert-ee/reporting-cyber-incident
+Kind: guidance
+Read: 2026-09-03
+Establishes: That an Estonian notification is made on a web form at raport.cert.ee, or by plain e-mail to CERT-EE.
+
+The act sets the terms and no channel. This is the channel, and it is two: a
+form and an address. The second matters more than it looks, because a form can
+be down at the moment it is needed and an e-mail address rarely is.
+
+### Prijava incidenta {#ursiv-prijava}
+Urad Vlade Republike Slovenije za informacijsko varnost · Slovenia · read 3 September 2026
+https://www.gov.si/assets/vladne-sluzbe/URSIV/Datoteke/Navodila/Navodila-za-izpolnjevanje-obrazca_v1.2.november25.pdf
+Kind: guidance
+Read: 2026-09-03
+Establishes: That Slovenia has no reporting portal in service, and that until the self-registration mechanism works the forms go to the office at gp.uiv@gov.si.
+
+Recorded because the absence is the fact. Slovenia's act, read in the Uradni
+list, sets the cascade term for term from detection; the machinery for using it
+is an e-mail address and a form filled in offline.
+
+### Opće smjernice za provedbu obveze obavještavanja o značajnim incidentima {#cert-hr-zks-incident}
+Nacionalni CERT, CARNET · Croatia · read 3 September 2026
+https://www.cert.hr/zks-incident
+Kind: guidance
+Read: 2026-09-03
+Establishes: That Croatian notifications go through the PiXi platform at pixi.carnet.hr, that access is only through the national identification system with authorisation granted in advance, and which of the two CSIRTs is competent for which kind of entity.
+
+The Act names a competent CSIRT and does not say which. This does: NCSC-HR for
+the public sector, the Nacionalni CERT for the private one. It also gives the
+platform, and the condition on reaching it, which is a national identification
+credential the entity's legal representative has to grant before anything
+happens.
+
+### Incidens bejelentés {#nki-incidens-bejelentes}
+Nemzeti Kiberbiztonsági Intézet · Hungary · read 3 September 2026
+https://nki.gov.hu/intezet/tartalom/incidens-bejelentes/
+Kind: guidance
+Read: 2026-09-03
+Establishes: That Hungarian notifications reach the National Cyber Security Institute at incidens.nki.gov.hu, by e-mail to CSIRT@nki.gov.hu or by telephone, at any hour.
+
+The decree carries the terms and no channel. This carries the channel, and
+three of them: a form, an address and a telephone number, staffed around the
+clock.
+
 ## Guidance
 
 ### Guidelines 9/2022 on personal data breach notification under GDPR {#edpb-9-2022}
