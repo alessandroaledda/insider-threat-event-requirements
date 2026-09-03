@@ -652,6 +652,24 @@ something false. It is worth saying plainly what this implies for any
 jurisdiction not yet read here: finding no deadline in an act is not a
 finding about the country.
 
+### Закон за киберсигурност {#bg-zakon-za-kibersigurnost}
+Lex.bg · Bulgaria · read 2026-09-03
+https://www.lex.bg/en/laws/ldoc/2137188253
+Establishes: That Bulgaria measures both the twenty-four and the seventy-two hours from the establishing of the significant incident rather than from awareness of it, and keeps the Directive's later stages.
+
+Nearly lost to an encoding.
+
+The page was fetched and read, and the search for the hours returned nothing:
+no *часа*, no *ранно предупреждение*, not even *наредба*, which no Bulgarian
+act lacks. That last absence was the tell. The site serves windows-1251 and
+the text had been decoded as UTF-8, which destroys Cyrillic while leaving
+digits intact — so *2022/2555* matched and every word did not.
+
+Read properly, the act is there in full, and it moves the anchor. The general
+lesson is the same as the Cypriot one and worth stating once: a search that
+returns nothing is a claim about the search before it is a claim about the
+law.
+
 ## Guidance
 
 ### Guidelines 9/2022 on personal data breach notification under GDPR {#edpb-9-2022}

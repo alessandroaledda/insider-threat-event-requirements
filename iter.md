@@ -806,6 +806,15 @@ Channel: Not set out in the sources read.
 Source: [hu-418-2024-korm-rendelet]
 Read: 2026-09-03
 
+### csirt · Bulgaria
+Role: csirt
+Country: BG
+Name: СЕРИКС, as the act names the recipient
+URL: https://www.lex.bg/en/laws/ldoc/2137188253
+Channel: Not set by the act.
+Source: [bg-zakon-za-kibersigurnost]
+Read: 2026-09-03
+
 ### Market authority
 Role: market
 Bears on: MAR art. 17(1), where the organisation is a listed issuer
@@ -1330,6 +1339,17 @@ Divergence: None in the terms, but they are not where an organisation would look
 Moves: no
 Standing: Both instruments were read: the act, and the decree that carries the cascade. Hungary is the second country in this record built this way, after Croatia. In both, reading the transposing act and stopping produces the conclusion that there are no deadlines.
 Source: [hu-418-2024-korm-rendelet]
+Read: 2026-09-03
+
+### NIS2 · Bulgaria
+Country: BG
+Act: Закон за киберсигурност, as amended by ДВ бр. 17 and бр. 55 of 2026
+In force: not established in the text read
+Recipient: СЕРИКС, as the act names the recipient
+Divergence: The anchor is establishment, not awareness. Both stages run *«след установяването»* of the significant incident: the early warning *«до 24 часа след установяването на значителен инцидент»*, the incident notification *«до 72 часа след установяването на значителния инцидент»*, with twenty-four hours for trust service providers. The Directive measures both from becoming aware. Everything after that is the Directive's: an interim report at the recipient's request, a final report *«не по-късно от един месец след подаването на уведомлението за инцидента»*, and where the incident is not resolved by then, an interim report and the final report within one month of resolving it.
+Moves: yes
+Standing: Read in the consolidated act on Lex.bg, in the version carrying the 2026 amendments that transpose the Directive. The act also puts a duty on the recipient: after the early warning, СЕРИКС returns a response with initial information and, on request, guidance. Bulgaria is the fourth country in this record to replace awareness with a word of its own — *установяване*, alongside Slovakia's *zistenie*, Finland's *havaitseminen* and Slovenia's *zaznava*.
+Source: [bg-zakon-za-kibersigurnost]
 Read: 2026-09-03
 
 ## Detection, where it is prescribed rather than advised
