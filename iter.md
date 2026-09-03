@@ -716,6 +716,15 @@ Channel: Electronically, under article 34(2) and (3). The Cabinet of Ministers s
 Source: [lv-nacionalas-kiberdrosibas-likums]
 Read: 2026-09-03
 
+### csirt · Estonia
+Role: csirt
+Country: EE
+Name: Riigi Infosüsteemi Amet, the State Information System Authority
+URL: https://www.riigiteataja.ee/akt/K%C3%BCTS
+Channel: Not set by the act.
+Source: [ee-kuberturvalisuse-seadus]
+Read: 2026-09-03
+
 ### Market authority
 Role: market
 Bears on: MAR art. 17(1), where the organisation is a listed issuer
@@ -1130,6 +1139,17 @@ Divergence: The hours are the Directive's. The point they run from is not stated
 Moves: yes
 Standing: Read in the act on Likumi.lv, in the version in force. An organisation in Latvia holds the intervals and has to supply the starting point from somewhere else. Whether *konstatējot* in 34(1) carries into 34(2) is a question of Latvian construction that this record does not answer.
 Source: [lv-nacionalas-kiberdrosibas-likums]
+Read: 2026-09-03
+
+### NIS2 · Estonia
+Country: EE
+Act: Küberturvalisuse seadus
+In force: The act dates from 2018. The provisions read here are those in force from 1 January 2026, as amended by RT I, 30.12.2025, 4.
+Recipient: Riigi Infosüsteemi Amet, the State Information System Authority
+Divergence: Not in the terms. Section 8(1) owes the first notice *«viivitamata, kuid hiljemalt 24 tundi pärast teada saamist küberintsidendist»*, section 8(4¹) the incident notice *«hiljemalt 72 tundi pärast olulise mõjuga küberintsidendist teada saamist»*, section 8(4²) twenty-four hours for a trust service provider, and section 8(7) the final report one month from the incident notice. All of it runs from learning of the incident, as the Directive has it. What is wider is the trigger: section 8(1) reaches not only an incident with significant impact but one *«mille oluline mõju ... ei ole ilmne, kuid seda võib»* — where the significant impact is not evident but may arise.
+Moves: no
+Standing: Read in the consolidated act on Riigi Teataja, which serves it through a script and had to be rendered. Section 12(3¹) puts a deadline on the authority as Denmark's does: the Amet answers within twenty-four hours where possible. The act does not set the channel.
+Source: [ee-kuberturvalisuse-seadus]
 Read: 2026-09-03
 
 ## Detection, where it is prescribed rather than advised

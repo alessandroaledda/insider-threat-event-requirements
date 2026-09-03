@@ -479,6 +479,24 @@ which replaced it with an internal classification, the pattern is that the
 anchor is the least stable part of the cascade in transposition — the part
 an organisation is most likely to assume, and least likely to find.
 
+### Küberturvalisuse seadus {#ee-kuberturvalisuse-seadus}
+Riigi Teataja · Estonia · read 2026-09-03
+https://www.riigiteataja.ee/akt/K%C3%BCTS
+Establishes: That Estonia keeps the Directive's terms and anchors, that the first notice also covers an incident whose significant impact is not yet evident, and that the authority owes an answer within twenty-four hours where possible.
+
+Faithful on every interval, and wider than the Directive on one thing that
+matters more than an interval.
+
+Section 8(1) does not wait for the impact to be significant. It reaches the
+incident whose significant impact is not evident but may arise, which is the
+state most insider cases are in during the first day. A record built on the
+Directive's threshold would place the first Estonian notice later than the
+act does.
+
+Riigi Teataja serves the act through a script; the consolidated text was
+rendered in a browser. The amending act alone was not enough — read on its
+own it shows the changes and not the cascade.
+
 ## Guidance
 
 ### Guidelines 9/2022 on personal data breach notification under GDPR {#edpb-9-2022}
