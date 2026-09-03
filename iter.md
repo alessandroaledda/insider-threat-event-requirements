@@ -600,27 +600,33 @@ Role: csirt
 Country: DE
 Name: Bundesamt für Sicherheit in der Informationstechnik, which is the competent authority, the CSIRT and the single point of contact at once
 URL: https://www.bsi.bund.de/DE/Themen/Regulierte-Wirtschaft/NIS-2-regulierte-Unternehmen/NIS-2-Infopakete/NIS-2-Meldepflicht/NIS-2-Meldepflicht.html
-Channel: A central reporting and registration platform operated by the BSI.
+Portal: https://portal.bsi.bund.de
+Channel: The BSI-Portal, where a registered entity both registers and reports. An entity that suffers a significant incident **before** it has registered reports instead through an online form in the Melde- und Informationsportal, at https://mip2.bsi.bund.de. Registration itself is never done in the MIP.
 Source: [bsi-nis2-meldepflicht]
 Read: 2026-09-03
+Checked: 2026-09-03
 
 ### csirt · France
 Role: csirt
 Country: FR
 Name: The competent national authority, which is the Agence nationale de la sécurité des systèmes d'information
 URL: https://aide.monespacenis2.cyber.gouv.fr/fr/category/declaration-dincident-6bpkdp/
-Channel: MonEspaceNIS2, the Agency's own space for regulated entities.
+Portal: https://monespacenis2.cyber.gouv.fr/
+Channel: MonEspaceNIS2, the Agency's own space for regulated entities. The address is the one its help site links to.
 Source: [anssi-nis2-declaration]
 Read: 2026-09-03
+Checked: 2026-09-03
 
 ### csirt · Netherlands
 Role: csirt
 Country: NL
 Name: The sectoral CSIRT and the supervisory authority, both reached by one report
 URL: https://www.ncsc.nl/cyberbeveiligingswet-nis2/meldplicht
-Channel: MijnNCSC, the central reporting point. One report reaches the sectoral CSIRT and the supervisory authority at once.
-Source: [ncsc-nl-meldplicht]
+Portal: https://mijn.ncsc.nl
+Channel: MijnNCSC, the central reporting point. One report reaches the sectoral CSIRT and the supervisory authority at once. Entry needs eHerkenning at level EH2+, or Single Sign On Rijk for a government body, which is a prerequisite to obtain before an incident rather than during one.
+Source: [ncsc-nl-meldplicht] [ncsc-nl-mijnncsc]
 Read: 2026-09-03
+Checked: 2026-09-03
 
 ### csirt · Austria
 Role: csirt
@@ -674,18 +680,22 @@ Role: csirt
 Country: DK
 Name: The relevant authority and the CSIRT, both of them, under § 12(1)
 URL: https://www.retsinformation.dk/eli/lta/2025/434
-Channel: Not set by the act.
-Source: [dk-lov-434-2025]
+Portal: https://virk.dk/myndigheder/stat/SAMSIK/selvbetjening/Indberetning_af_brud_paa_sikkerhed/
+Channel: Not set by the act. The Agency for Digital Government states that notifications go *«via virk.dk»*, through the self-service of the Styrelsen for Samfundssikkerhed, and that one submission is forwarded to the sector-responsible authority and the CSIRT.
+Source: [dk-lov-434-2025] [digst-haendelsesunderretning]
 Read: 2026-09-03
+Checked: 2026-09-03
 
 ### csirt · Sweden
 Role: csirt
 Country: SE
-Name: The authority the Government designates, which the act itself does not name
+Name: The act designates nobody by name. In practice the reports reach the Nationellt cybersäkerhetscenter, whose CERT-SE unit forwards them to the supervisory authorities
 URL: https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/cybersakerhetslag-20251506_sfs-2025-1506/
-Channel: Not set by the act.
-Source: [se-cybersakerhetslag-2025]
+Portal: https://cyberportal.ncsc.se
+Channel: The Incidentrapporteringsverktyget inside the Cyberportalen. The regulations took effect on 1 July 2026 and the tool opened the same day. The Centre states that the tool is still in development and publishes a fallback procedure for use when it is unavailable.
+Source: [se-cybersakerhetslag-2025] [ncsc-se-incidentrapportering]
 Read: 2026-09-03
+Checked: 2026-09-03
 
 ### csirt · Finland
 Role: csirt
@@ -1188,7 +1198,7 @@ In force: 15 January 2026, by the transitional provisions
 Recipient: The authority the Government designates, which the act itself does not name
 Divergence: None in the terms. Section 5 owes the first notice *«så snart det kan ske, dock senast 24 timmar efter det att verksamhetsutövaren har fått kännedom om incidenten»*; section 6 gives trust service providers twenty-four hours and everyone else *«senast 72 timmar efter sådan kännedom»*; section 8 puts the final report *«senast en månad efter incidentanmälan»*, with a situation report instead where the incident is still running. What the act does not do is name the recipient: sections 5 and 6 owe the report to *«den myndighet som regeringen bestämmer»*.
 Moves: no
-Standing: Read in the act as published in Svensk författningssamling. Because the act designates the recipient by reference rather than by name, this record does not name one for Sweden either. The act also repeals the 2018 act on information security for essential and digital services.
+Standing: Read in the act as published in Svensk författningssamling. The act designates the recipient by reference rather than by name; the designation is answered outside the act, by the National Cybersecurity Centre that receives the reports. The act also repeals the 2018 act on information security for essential and digital services.
 Source: [se-cybersakerhetslag-2025]
 Read: 2026-09-03
 

@@ -792,6 +792,47 @@ no duty of confidentiality obliges the issuer to disclose promptly.
 Reached through CELLAR, the Publications Office archive, after EUR-Lex refused
 the request.
 
+### MijnNCSC {#ncsc-nl-mijnncsc}
+Nationaal Cyber Security Centrum · Netherlands · read 3 September 2026
+https://www.ncsc.nl/producten-en-diensten/mijnncsc
+Kind: guidance
+Read: 2026-09-03
+Establishes: That the Dutch reporting point is at mijn.ncsc.nl, and that reaching it requires eHerkenning at level EH2+ or Single Sign On Rijk.
+
+The address, from the page that names it rather than from a guess about the
+domain. It also names the credential, which is the part an organisation cannot
+obtain in the twenty-four hours it has to report.
+
+### Hændelsesunderretning {#digst-haendelsesunderretning}
+Digitaliseringsstyrelsen · Denmark · read 3 September 2026
+https://digst.dk/tilsyn/nis-2/haendelsesunderretning/
+Kind: guidance
+Read: 2026-09-03
+Establishes: That a Danish notification is submitted through virk.dk, in the self-service of the Styrelsen for Samfundssikkerhed, and reaches the sector-responsible authority and the CSIRT from that one submission.
+
+The Danish act names the recipients and not the channel. This is where the
+channel is, and it resolves the practical consequence of § 12(1) owing the
+notification to two bodies: one submission discharges both.
+
+### Incidentrapportering enligt cybersäkerhetslagen {#ncsc-se-incidentrapportering}
+Nationellt cybersäkerhetscenter · Sweden · read 3 September 2026
+https://www.ncsc.se/sv/radgivning-och-stod/cybersakerhetslagen-nis2/incidentrapportering-enligt-cybersakerhetslagen/
+Kind: guidance
+Read: 2026-09-03
+Establishes: That Swedish incident reports are made through the Incidentrapporteringsverktyget in the Cyberportalen at cyberportal.ncsc.se, that the regulations and the tool both took effect on 1 July 2026, and that the reports are forwarded from there to the supervisory authorities.
+
+Reached through three redirects. The reporting page for the Swedish
+cybersecurity act was published by MSB; msb.se now sends the request to mcf.se,
+and mcf.se sends it to ncsc.se, where a National Cybersecurity Centre holds
+CERT-SE.
+
+It answers a question the act leaves open. Sections 5 and 6 owe the report to
+the authority the Government determines and name nobody; this is who that turned
+out to be. And it is the plainest argument in the record for dating an address
+separately from a reading: no Swedish law changed between the act and this page,
+the authority did, and the old address still answers only because someone kept
+the redirect in place.
+
 ## Guidance
 
 ### Guidelines 9/2022 on personal data breach notification under GDPR {#edpb-9-2022}
