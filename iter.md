@@ -590,6 +590,24 @@ Channel: A form on the Agency's reporting portal. Named here because it is the o
 Source: [acn-nis-faq]
 Read: 2026-09-03
 
+### csirt · Germany
+Role: csirt
+Country: DE
+Name: Bundesamt für Sicherheit in der Informationstechnik, which is the competent authority, the CSIRT and the single point of contact at once
+URL: https://www.bsi.bund.de/DE/Themen/Regulierte-Wirtschaft/NIS-2-regulierte-Unternehmen/NIS-2-Infopakete/NIS-2-Meldepflicht/NIS-2-Meldepflicht.html
+Channel: A central reporting and registration platform operated by the BSI.
+Source: [bsi-nis2-meldepflicht]
+Read: 2026-09-03
+
+### csirt · France
+Role: csirt
+Country: FR
+Name: The competent national authority, which is the Agence nationale de la sécurité des systèmes d'information
+URL: https://aide.monespacenis2.cyber.gouv.fr/fr/category/declaration-dincident-6bpkdp/
+Channel: MonEspaceNIS2, the Agency's own space for regulated entities.
+Source: [anssi-nis2-declaration]
+Read: 2026-09-03
+
 ### Market authority
 Role: market
 Bears on: MAR art. 17(1), where the organisation is a listed issuer
@@ -827,6 +845,26 @@ Recipient: CSIRT Italia, under article 25 of the decree
 Divergence: The national authority describes the complete notification as due within 72 hours **of the pre-notification**, where the Directive puts it within 72 hours of becoming aware. The pre-notification is itself due within 24 hours of becoming aware. Read that way the complete notification falls at 96 hours from awareness rather than at 72, and an organisation working from the Directive alone would hold the wrong date.
 Standing: This is how the Agency describes the obligation, not the wording of the decree. Article 25 has not been read.
 Source: [acn-nis-faq]
+Read: 2026-09-03
+
+### NIS2 · Germany
+Country: DE
+Act: Gesetz über das Bundesamt für Sicherheit in der Informationstechnik, in the 2025 version (BSIG 2025)
+In force: 2025. The date has not been read.
+Recipient: Bundesamt für Sicherheit in der Informationstechnik, which is the competent authority, the CSIRT and the single point of contact at once
+Divergence: None found on the anchor. The early initial report is due within 24 hours **nach Kenntniserlangung**, and the detailed report within 72 hours on the same footing, so both run from becoming aware as the Directive has them. This is the opposite of the Italian reading, where the 72 hours run from the pre-notification.
+Standing: This is the BSI's own account of the duty. The BSIG article has not been read.
+Source: [bsi-nis2-meldepflicht]
+Read: 2026-09-03
+
+### NIS2 · France
+Country: FR
+Act: Not read. The French transposing act has not been opened for this record.
+In force: not read
+Recipient: The competent national authority, which is the Agence nationale de la sécurité des systèmes d'information
+Divergence: None found on the first stage. The declaration is due *«sans retard injustifié ou dans les 24 heures après avoir eu connaissance de l'incident important»*, which is the Directive's own anchor. The later stages are not stated on the page read, so nothing is recorded about them.
+Standing: This is the Agency's operational guidance for regulated entities, not the transposing act. Whether the recipient is the Agency as competent authority or a separately designated CSIRT is not settled here.
+Source: [anssi-nis2-declaration]
 Read: 2026-09-03
 
 ## Detection, where it is prescribed rather than advised

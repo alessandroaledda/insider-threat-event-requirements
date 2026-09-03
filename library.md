@@ -219,6 +219,38 @@ measures the same seventy-two hours from awareness. Whether the decree itself
 says what the Agency says is not settled here: this is guidance, and the article
 has not been read.
 
+### NIS-2-Meldepflicht {#bsi-nis2-meldepflicht}
+Bundesamt für Sicherheit in der Informationstechnik · Germany · read 2026-09-03
+https://www.bsi.bund.de/DE/Themen/Regulierte-Wirtschaft/NIS-2-regulierte-Unternehmen/NIS-2-Infopakete/NIS-2-Meldepflicht/NIS-2-Meldepflicht.html
+Establishes: That a German entity reports an early initial notification to the BSI within twenty-four hours of becoming aware, and a detailed report within seventy-two hours of the same moment.
+
+The BSI's own account of the reporting duty, and of its own position: it
+holds the roles of competent authority, CSIRT and single point of contact
+together, and operates the platform the reports are made through.
+
+It matters to this record because of what it does not do. Both terms are
+measured *nach Kenntniserlangung*, from becoming aware, exactly as the
+Directive measures them. The Italian authority measures the second one from
+the pre-notification instead. Same Directive, two anchors.
+
+It is guidance. The article of the BSIG has not been read.
+
+### Déclaration d'incident, FAQ MonEspaceNIS2 {#anssi-nis2-declaration}
+Agence nationale de la sécurité des systèmes d'information · France · read 2026-09-03
+https://aide.monespacenis2.cyber.gouv.fr/fr/category/declaration-dincident-6bpkdp/
+Establishes: That a French regulated entity declares a significant incident to the competent national authority within twenty-four hours of becoming aware of it, through the Agency's own portal.
+
+Operational guidance for the entities the Directive reaches, published by the
+Agency that receives the declarations.
+
+It settles two things and leaves one open. The deadline runs from becoming
+aware, as the Directive has it. The declaration is owed by the entity whose
+system was affected and not by a provider running it on their behalf. What it
+does not set out are the stages after the first, so this record says nothing
+about them.
+
+It is guidance. The French transposing act has not been read.
+
 ## Guidance
 
 ### Guidelines 9/2022 on personal data breach notification under GDPR {#edpb-9-2022}
