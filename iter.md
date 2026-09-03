@@ -1019,12 +1019,12 @@ Read: 2026-09-03
 
 ### NIS2 · Czechia
 Country: CZ
-Act: Zákon č. 264/2025 Sb., o kybernetické bezpečnosti, with its implementing decrees
+Act: Zákon č. 264/2025 Sb., o kybernetické bezpečnosti
 In force: not stated in the material read
 Recipient: Národní úřad pro kybernetickou a informační bezpečnost
 Divergence: In three places, and one of them changes who decides. **The anchor is an internal determination.** The initial report is due *«bez zbytečného odkladu, nejpozději do 24 hodin»*, and the guidance says plainly what starts it: *«tato lhůta se počítá od okamžiku, kdy u konkrétního subjektu osoba k tomu pověřená (například manažer kybernetické bezpečnosti) vyhodnotí zjištěnou událost jako kybernetický bezpečnostní incident»* — from the moment a designated person inside the organisation classifies the event, not from the organisation becoming aware of a significant incident. **The authority decides significance, not the entity.** After the initial report the Úřad tells the provider whether the incident has significant impact; where it does not, the guidance says the reporting ends there. The Directive leaves that assessment with the entity. **The final report is measured from resolution.** *«Po jeho vyřešení nejpozději do 30 dnů závěrečnou zprávu»* — thirty days from the incident being resolved, where the Directive gives one month from the incident notification, with an interim report in the meantime if the incident is still running.
 Moves: yes
-Standing: This is the Úřad's own supporting material on the ZKB and its decrees, not the act. Two things it does not contain: any seventy-two hour stage, and the date from which the act binds. Neither is recorded here as a result. It also states a threshold of its own — the duty reaches incidents where intentional causation cannot be excluded without undue delay and within twenty-four hours, so operational incidents that can be ruled out are not reportable.
+Standing: This is the Úřad's own supporting material on the ZKB and its implementing decrees, not the act. Two things it does not contain: any seventy-two hour stage, and the date from which the act binds. Neither is recorded here as a result. It also states a threshold of its own — the duty reaches incidents where intentional causation cannot be excluded without undue delay and within twenty-four hours, so operational incidents that can be ruled out are not reportable.
 Source: [nukib-hlaseni-incidentu]
 Read: 2026-09-03
 
