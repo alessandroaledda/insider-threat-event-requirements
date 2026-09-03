@@ -797,6 +797,15 @@ Channel: Not set by the act.
 Source: [li-csg]
 Read: 2026-09-03
 
+### csirt · Hungary
+Role: csirt
+Country: HU
+Name: The national cybersecurity incident handling centre, the Központ, with the SZTFH as the supervisory authority
+URL: https://njt.jog.gov.hu/jogszabaly/2024-418-20-22
+Channel: Not set out in the sources read.
+Source: [hu-418-2024-korm-rendelet]
+Read: 2026-09-03
+
 ### Market authority
 Role: market
 Bears on: MAR art. 17(1), where the organisation is a listed issuer
@@ -1310,6 +1319,17 @@ Divergence: None. The cascade is transposed as it stands: the early warning *«w
 Moves: no
 Standing: Read in the Government's own English translation, which carries a disclaimer; the binding text is the German. Liechtenstein is the one EEA state in this record that has transposed NIS2 — Norway's regime implements the earlier Directive and Iceland's sets no interval at all.
 Source: [li-csg]
+Read: 2026-09-03
+
+### NIS2 · Hungary
+Country: HU
+Act: 2024. évi LXIX. törvény Magyarország kiberbiztonságáról
+In force: 1 January 2025, by § 82(1), with § 120(1) a day later. The implementing decree is 418/2024. (XII. 23.) Korm. rendelet.
+Recipient: The national cybersecurity incident handling centre, the Központ, with the SZTFH as the supervisory authority
+Divergence: None in the terms, but they are not where an organisation would look. **The act contains no hour at all** — a search of its whole text returns no expression of hours for notification, because § 66 states the duty and leaves the detail to a government decree. The terms are in § 77 of decree 418/2024: a first notification *«a kiberbiztonsági incidensről való tudomásszerzéstől számított 24 órán belül»*, an event notification *«72 órán belül»* on the same anchor, an interim situation report at the Centre's request, and a closing report *«legkésőbb a 3. pont szerinti eseménybejelentés benyújtását követő egy hónapon belül»*. All of it runs from becoming aware, as the Directive has it.
+Moves: no
+Standing: Both instruments were read: the act, and the decree that carries the cascade. Hungary is the second country in this record built this way, after Croatia. In both, reading the transposing act and stopping produces the conclusion that there are no deadlines.
+Source: [hu-418-2024-korm-rendelet]
 Read: 2026-09-03
 
 ## Detection, where it is prescribed rather than advised

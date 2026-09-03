@@ -633,6 +633,25 @@ and one has NIS2 in full.
 An English translation published by the Government, with a disclaimer. The
 German is the text that binds, and it was not read.
 
+### 2024. évi LXIX. törvény and 418/2024. (XII. 23.) Korm. rendelet {#hu-418-2024-korm-rendelet}
+Nemzeti Jogszabálytár · Hungary · read 2026-09-03
+https://njt.jog.gov.hu/jogszabaly/2024-418-20-22
+Establishes: That Hungary's notification terms are the Directive's and run from becoming aware, and that they are set by government decree rather than by the cybersecurity act itself.
+
+The act was read first, and searched for hours. It has none: not a single
+expression of the form *N óra* anywhere in seventy pages, for this purpose.
+That is not an extraction failure — the act states the duty in § 66 and hands
+the detail to a decree.
+
+Paragraph 77 of decree 418/2024 then reproduces the Directive exactly,
+anchor included.
+
+Croatia and Hungary make two. In both, the instrument named as the
+transposition contains no term, and a reader who stops there concludes
+something false. It is worth saying plainly what this implies for any
+jurisdiction not yet read here: finding no deadline in an act is not a
+finding about the country.
+
 ## Guidance
 
 ### Guidelines 9/2022 on personal data breach notification under GDPR {#edpb-9-2022}
