@@ -662,6 +662,24 @@ Channel: Portál NÚKIB. Where the portal is unavailable the guidance allows e-m
 Source: [nukib-hlaseni-incidentu]
 Read: 2026-09-03
 
+### csirt · Denmark
+Role: csirt
+Country: DK
+Name: The relevant authority and the CSIRT, both of them, under § 12(1)
+URL: https://www.retsinformation.dk/eli/lta/2025/434
+Channel: Not set by the act.
+Source: [dk-lov-434-2025]
+Read: 2026-09-03
+
+### csirt · Sweden
+Role: csirt
+Country: SE
+Name: The authority the Government designates, which the act itself does not name
+URL: https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/cybersakerhetslag-20251506_sfs-2025-1506/
+Channel: Not set by the act.
+Source: [se-cybersakerhetslag-2025]
+Read: 2026-09-03
+
 ### Market authority
 Role: market
 Bears on: MAR art. 17(1), where the organisation is a listed issuer
@@ -999,6 +1017,28 @@ Divergence: In three places, and one of them changes who decides. **The anchor i
 Moves: yes
 Standing: This is the Úřad's own supporting material on the ZKB and its decrees, not the act. Two things it does not contain: any seventy-two hour stage, and the date from which the act binds. Neither is recorded here as a result. It also states a threshold of its own — the duty reaches incidents where intentional causation cannot be excluded without undue delay and within twenty-four hours, so operational incidents that can be ruled out are not reportable.
 Source: [nukib-hlaseni-incidentu]
+Read: 2026-09-03
+
+### NIS2 · Denmark
+Country: DK
+Act: Lov nr. 434 af 6. maj 2025 om foranstaltninger til sikring af et højt cybersikkerhedsniveau
+In force: 1 July 2025, by § 33
+Recipient: The relevant authority and the CSIRT, both of them, under § 12(1)
+Divergence: None. Paragraph 13 keeps every term and every anchor: the early warning *«senest inden for 24 timer efter at enheden har fået kendskab til den væsentlige hændelse»*, the incident notification *«inden for 72 timer»* on the same footing, an interim report on the CSIRT's request, and the final report *«senest 1 måned efter fremsendelsen af den hændelsesunderretning»*. Trust service providers give the second stage within twenty-four hours. Where the incident is still running when the final report falls due, a status report goes then and the final report within one month of the incident being handled.
+Moves: no
+Standing: Read in the act as published by Retsinformation. Two things it settles that the Directive leaves to the Member State: the report is owed to the competent authority **and** the CSIRT, not to one of them, and § 13(3) obliges the CSIRT to answer within twenty-four hours of the early warning. The act does not name the channel.
+Source: [dk-lov-434-2025]
+Read: 2026-09-03
+
+### NIS2 · Sweden
+Country: SE
+Act: Cybersäkerhetslag (2025:1506)
+In force: 15 January 2026, by the transitional provisions
+Recipient: The authority the Government designates, which the act itself does not name
+Divergence: None in the terms. Section 5 owes the first notice *«så snart det kan ske, dock senast 24 timmar efter det att verksamhetsutövaren har fått kännedom om incidenten»*; section 6 gives trust service providers twenty-four hours and everyone else *«senast 72 timmar efter sådan kännedom»*; section 8 puts the final report *«senast en månad efter incidentanmälan»*, with a situation report instead where the incident is still running. What the act does not do is name the recipient: sections 5 and 6 owe the report to *«den myndighet som regeringen bestämmer»*.
+Moves: no
+Standing: Read in the act as published in Svensk författningssamling. Because the act designates the recipient by reference rather than by name, this record does not name one for Sweden either. The act also repeals the 2018 act on information security for essential and digital services.
+Source: [se-cybersakerhetslag-2025]
 Read: 2026-09-03
 
 ## Detection, where it is prescribed rather than advised

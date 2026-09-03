@@ -374,6 +374,36 @@ Directive's cascade has modelled a different decision procedure.
 
 It is guidance. The act itself, and the date it began to bind, were not read.
 
+### Lov nr. 434 af 6. maj 2025 (NIS 2-loven) {#dk-lov-434-2025}
+Retsinformation · Denmark · read 2026-09-03
+https://www.retsinformation.dk/eli/lta/2025/434
+Establishes: That Denmark transposes the cascade unchanged, that the notification is owed to the competent authority and the CSIRT together, and that the CSIRT owes an answer within twenty-four hours of the early warning.
+
+A close transposition, which is why the two things it adds are worth having.
+
+The first is that § 12(1) owes the notification to the competent authority
+and the CSIRT, where several other States route one report to one body and
+let it travel. The second runs the other way: § 13(3) puts a deadline on the
+authority. The CSIRT must respond to the early warning within twenty-four
+hours of receiving it, with initial feedback.
+
+Every other national source in this record measures what the organisation
+owes. This one also measures what it is owed.
+
+### Cybersäkerhetslag (2025:1506) {#se-cybersakerhetslag-2025}
+Svensk författningssamling, Sveriges riksdag · Sweden · read 2026-09-03
+https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/cybersakerhetslag-20251506_sfs-2025-1506/
+Establishes: That Sweden's terms and anchors are the Directive's, that the act took effect on 15 January 2026, and that it leaves the receiving authority to be designated by the Government rather than naming one.
+
+Short, and faithful on every term.
+
+It is here for what it withholds. Sections 5 and 6 owe the notification to
+the authority the Government determines. An organisation reading the act
+alone learns exactly when it must report and not to whom, which is the
+reverse of the Spanish position, where the authority's guidance gives the
+terms and withholds the recipient for the same reason: the designation sits
+somewhere else.
+
 ## Guidance
 
 ### Guidelines 9/2022 on personal data breach notification under GDPR {#edpb-9-2022}
