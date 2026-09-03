@@ -69,9 +69,10 @@ Updated: 2026-09-03
 Rows: written under the GDPR, DORA, NIS2 and MAR.
 
 ### T4 · Interruption of an operational service
-What it is: Availability. The regime with the tightest terms and the most staged reporting.
+What it is: Availability. A service stops, or the records behind it cannot be reached when they are needed. Article 4(12) names destruction and loss alongside disclosure, so the same obligations arise; and where the organisation is a financial entity or an essential one, availability is the limb its sector regime is built around.
 Added: 2026-09-02
-Rows: none written.
+Updated: 2026-09-03
+Rows: written under the GDPR, DORA, NIS2 and MAR. No decided case: the four worked examples that would calibrate it are ransomware, which is an outside actor.
 
 ### T5 · Unauthorised consultation, without extraction
 What it is: An employee opens records they had no business opening. Nothing leaves the organisation. Under article 4(12) GDPR this is a breach on its own, because unauthorised access is in the definition.
@@ -1542,6 +1543,68 @@ Implication: This obligation carries more weight in this type than in any other.
 Source: [gdpr]
 Read: 2026-09-02
 
+## T4 · Acts under the General Data Protection Regulation
+
+Destruction and loss are in article 4(12) beside disclosure, so an interruption
+that puts personal data out of reach is a breach on the same footing. The terms
+do not change. What changes is that the question stops being who saw the data
+and becomes whether it was there when someone needed it, which is a question
+about a period rather than about an act.
+
+### GDPR art. 33(1)
+Applies: All organisations
+Do: Notify the supervisory authority of the breach
+Term: 72 hours
+At: 72
+From: Declared awareness
+Owed to: dpa
+Establish: What became unavailable, whose data it is, for how long it was out of reach, whether it can be restored, and what could not be done for those people while it was gone
+Unless: The breach is unlikely to result in a risk to the rights and freedoms of natural persons
+Public: No. The authority publishes its own decisions
+Implication: Restoring the service ends the interruption and not the breach. What has to be established is the period, and the period is still running while the assessment is being made
+Source: [gdpr]
+Read: 2026-09-02
+
+### GDPR art. 33(4)
+Applies: All organisations
+Do: Complete an earlier notification with what you did not yet have
+Term: Without undue further delay
+From: The notification it completes
+Anchor: After the notification it completes, which is the 72 hour one above
+Owed to: The same authority
+Establish: Nothing further. This is the provision that allows the notification to go out incomplete
+Public: No
+Implication: An interruption is the one type where the facts are still forming while the term runs, because the outage may not be over when the notification falls due
+Source: [gdpr]
+Read: 2026-09-02
+
+### GDPR art. 34(1)
+Applies: All organisations
+Do: Tell each person who could not be served
+Term: Without undue delay
+From: Declared awareness
+Anchor: The same point as the 72 hour notification
+Owed to: Each person who could not be served
+Establish: That the risk to those people is high, which here turns on what they could not do while the service was down
+Unless: The risk is not high
+Public: In practice yes, at any scale
+Implication: The harm is neither exposure nor a false record. It is something that did not happen in time — a payment not made, a treatment not given, an entitlement not exercised — and whether it is high risk depends on what the service was for
+Source: [gdpr]
+Read: 2026-09-02
+
+### GDPR art. 33(5)
+Applies: All organisations
+Do: Record the breach, its effects, and what was done about it
+Term: No term
+From: —
+Anchor: Throughout. The Board expects the documentation to be made as the incident develops
+Owed to: Nobody, until asked
+Establish: The facts, the effects, the remedial action
+Public: No
+Implication: Here the documentation has to be made while the response is under way, which is the moment an organisation has least attention for it
+Source: [gdpr]
+Read: 2026-09-02
+
 ## T5 · Acts under the General Data Protection Regulation
 
 ### GDPR art. 33(1)
@@ -1596,7 +1659,7 @@ Public: No
 Source: [gdpr]
 Read: 2026-09-02
 
-## T1, T2, T3, T5 · Acts under DORA, where the organisation is a financial entity
+## T1, T2, T3, T4, T5 · Acts under DORA, where the organisation is a financial entity
 
 ### DORA classification
 Applies: Financial entity
@@ -1669,7 +1732,7 @@ Implication: There is no silent overrun. Missing the term and not saying so befo
 Source: [dora-rts-terms]
 Read: 2026-09-02
 
-## T1, T2, T3, T5 · Acts under NIS2, where the organisation is essential or important
+## T1, T2, T3, T4, T5 · Acts under NIS2, where the organisation is essential or important
 
 ### NIS2 displacement
 Applies: Financial entity
@@ -1713,7 +1776,7 @@ Public: No
 Source: [nis2]
 Read: 2026-09-02
 
-## T1, T2, T3, T5 · Acts under the Market Abuse Regulation
+## T1, T2, T3, T4, T5 · Acts under the Market Abuse Regulation
 
 ### MAR art. 17(1)
 Applies: Listed issuer
@@ -1887,9 +1950,12 @@ Read: 2026-09-02
   a report arrives on time.
 - Twenty-nine jurisdictions carry a recipient. The terms are the same across the
   Union; the recipients are not, and eleven of the twenty-nine move a term.
-- T4 has no rows. The four decided examples that would calibrate it are
-  ransomware, which is an outside actor, and this record is about the insider.
-  Building it means finding decided cases of an interruption caused from within.
+- T4 has rows and no decided case. The four worked examples that would calibrate
+  it are ransomware, an outside actor, and they are not used as its evidence; they
+  stay in the table of the Board's eighteen because that table records what the
+  source decided. What is missing is a decided case of an interruption caused from
+  within — an administrator deleting the infrastructure, disabling the controls,
+  or locking the systems on the way out.
 - T2 has no decided case, and no GDPR row either. It is the type where an
   organisation can lose the thing it most values and owe nothing to a data
   protection authority, while owing everything to a market authority if the
