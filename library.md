@@ -433,6 +433,35 @@ Poland has an act through one chamber, a named channel, and neither a date
 nor a deadline. Three countries, three different pieces missing, and in each
 case the missing piece is the one an organisation would have assumed.
 
+### Ordonanța de urgență nr. 155/2024 {#ro-oug-155-2024}
+Portal Legislativ, Monitorul Oficial · Romania · read 2026-09-03
+https://legislatie.just.ro/Public/DetaliiDocumentAfis/293121
+Establishes: That Romania transposes the NIS2 cascade without moving a term or an anchor, and that the final report is due within one month of the incident notification.
+
+A close transposition, recorded because a close transposition is a finding
+too. It keeps the Directive's unit for the final report — one month, not
+thirty days — which is where several other Member States quietly part
+company.
+
+Read in the ordinance itself. What it leaves out is the channel.
+
+### Zakon o kibernetičkoj sigurnosti (NN 14/2024) and Uredba o kibernetičkoj sigurnosti (NN 135/2024) {#hr-zks-uredba}
+Narodne novine · Croatia · read 2026-09-03
+https://narodne-novine.nn.hr/clanci/sluzbeni/full/2024_11_135_2217.html
+Establishes: That Croatia places the notification duty in the Act and every deadline in the implementing Uredba, that the anchors are the Directive's, and that the final report is due in thirty days rather than one month.
+
+Two instruments, read because one of them was not enough.
+
+The Act was read first, and searching it for the hours returned nothing.
+That is not an extraction failure: article 37 genuinely sets no deadline.
+The cascade lives in articles 64 to 70 of the Uredba, which also adds a
+fifth kind of notification and bounds the interim report between forty-eight
+hours and seven days.
+
+Worth stating for what it implies about method. A record that reads the
+transposing act and stops will, in Croatia, conclude that there are no
+deadlines. The absence of a term is not evidence that a term is absent.
+
 ## Guidance
 
 ### Guidelines 9/2022 on personal data breach notification under GDPR {#edpb-9-2022}

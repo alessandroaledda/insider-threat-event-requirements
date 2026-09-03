@@ -689,6 +689,24 @@ Channel: Not set by the act.
 Source: [fi-kyberturvallisuuslaki-124-2025]
 Read: 2026-09-03
 
+### csirt · Romania
+Role: csirt
+Country: RO
+Name: The national cyber security incident response team
+URL: https://legislatie.just.ro/Public/DetaliiDocumentAfis/293121
+Channel: Not set by the ordinance.
+Source: [ro-oug-155-2024]
+Read: 2026-09-03
+
+### csirt · Croatia
+Role: csirt
+Country: HR
+Name: The competent CSIRT, under article 37 of the Act
+URL: https://narodne-novine.nn.hr/clanci/sluzbeni/2024_02_14_254.html
+Channel: The Act does not set one. The national platform PiXi is named outside the sources read here.
+Source: [hr-zks-uredba]
+Read: 2026-09-03
+
 ### Market authority
 Role: market
 Bears on: MAR art. 17(1), where the organisation is a listed issuer
@@ -1070,6 +1088,28 @@ Divergence: Not established. The Ministry's own announcement does not give a dat
 Moves: unsettled
 Standing: A ministerial announcement about a bill the Sejm has passed, which is not the same as an act in force. This record therefore names no Polish recipient and no Polish terms. Poland's existing national system rests on the earlier act, which has not been read here.
 Source: [pl-mc-ksc-nowelizacja]
+Read: 2026-09-03
+
+### NIS2 · Romania
+Country: RO
+Act: Ordonanța de urgență nr. 155/2024
+In force: Published in Monitorul Oficial on 31 December 2024. Articles 60 and 61 take effect thirty days after publication.
+Recipient: The national cyber security incident response team
+Divergence: None. The cascade is the Directive's, anchor included: the early warning *«nu mai târziu de 24 de ore de la data la care au luat cunoștință de incidentul semnificativ»*, the incident report *«nu mai târziu de 72 de ore din momentul în care au luat cunoștință»*, an interim report at the team's request, and the final report *«în termen de cel mult o lună de la transmiterea notificării incidentului»*.
+Moves: no
+Standing: Read in the ordinance on the legislative portal. It names the recipient by function — the national incident response team — rather than by name, and does not set the channel.
+Source: [ro-oug-155-2024]
+Read: 2026-09-03
+
+### NIS2 · Croatia
+Country: HR
+Act: Zakon o kibernetičkoj sigurnosti, NN 14/2024, with the Uredba o kibernetičkoj sigurnosti, NN 135/2024
+In force: The Act takes effect on the eighth day after publication, by article 116. The exact date is not printed in the Act.
+Recipient: The competent CSIRT, under article 37 of the Act
+Divergence: In three ways, and the first one is where to look. **The Act sets no deadline at all.** Article 37 states the duty to notify the competent CSIRT and the threshold, and stops. Every term is in the Uredba. **There the anchors hold**: the early warning within *«24 sata od trenutka saznanja za značajan incident»* and the initial notification within *«72 sata»* on the same footing, with trust service providers at twenty-four hours. **The final report is thirty days, not one month.** Article 70 of the Uredba gives *«najkasnije u roku od 30 dana od dana dostave početne obavijesti»*. **The interim report has a window the Directive does not set**: article 69 lets the CSIRT fix the deadline, but *«ne može biti kraći od 48 sati niti duži od sedam dana»*.
+Moves: yes
+Standing: Both instruments were read. The point worth carrying is structural rather than numerical: an organisation that reads the Croatian act and stops has the duty, the recipient and the threshold, and not one hour of the cascade. The thirty days are a real difference from a month, in the months that are longer.
+Source: [hr-zks-uredba]
 Read: 2026-09-03
 
 ## Detection, where it is prescribed rather than advised
