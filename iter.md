@@ -617,6 +617,24 @@ Channel: MijnNCSC, the central reporting point. One report reaches the sectoral 
 Source: [ncsc-nl-meldplicht]
 Read: 2026-09-03
 
+### csirt · Austria
+Role: csirt
+Country: AT
+Name: The NIS-Behörde, within the Bundesministerium für Inneres
+URL: https://www.nis.gv.at/fragen-und-antworten/nis-2-richtlinie/allgemeine-informationen-zu-nis-2.html
+Channel: Not read. The page names the authority and not the channel.
+Source: [nisg-at-faq]
+Read: 2026-09-03
+
+### csirt · Ireland
+Role: csirt
+Country: IE
+Name: The National Cyber Security Centre, Ireland's national cyber security authority and national CSIRT
+URL: https://www.ncsc.gov.ie/nis2/FAQ/
+Channel: Not open. The reporting portal is not available while the legislation is not enacted.
+Source: [ncsc-ie-nis2-faq]
+Read: 2026-09-03
+
 ### Market authority
 Role: market
 Bears on: MAR art. 17(1), where the organisation is a listed issuer
@@ -894,6 +912,26 @@ Recipient: not recorded, see Divergence
 Divergence: None found in the terms. The FAQ gives the Directive's three stages — *«una alerta temprana en las primeras 24 h»*, *«antes de 72 h ... una notificación del incidente»*, *«informe final, a más tardar un mes después de presentar la notificación del incidente»* — all *«desde el conocimiento del mismo»*. The divergence is elsewhere: the page does not say who receives them. *«Tanto los CSIRT de referencia y las autoridades competentes como el punto de contacto único se conocerán con la trasposición de la norma a la legislación española.»*
 Standing: An organisation in Spain therefore holds the terms and not the recipient. This record leaves the Spanish recipient unwritten rather than naming a body the source does not name.
 Source: [incibe-faq-nis2]
+Read: 2026-09-03
+
+### NIS2 · Austria
+Country: AT
+Act: Netz- und Informationssystemsicherheitsgesetz 2024, NISG 2024, named on the authority's own page without a date of entry into force.
+In force: not stated on the page read
+Recipient: The NIS-Behörde, within the Bundesministerium für Inneres
+Divergence: None found. The three stages are the Directive's: a *«24-Stunden-Zeitfenster»* for the early warning, *«binnen 72 Stunden»* for the assessment, and the final report *«ein Monat nach der Meldung»*.
+Standing: The page names the NIS-Behörde as the authority and does not name a CSIRT, so this record does not name one either. Whether a designated team receives the report alongside the authority is not settled here.
+Source: [nisg-at-faq]
+Read: 2026-09-03
+
+### NIS2 · Ireland
+Country: IE
+Act: None. The National Cyber Security Bill has not been enacted.
+In force: not in force
+Recipient: The National Cyber Security Centre, Ireland's national cyber security authority and national CSIRT
+Divergence: The whole of it. On the date below the authority's own page states that *«the NIS2 directive has not yet been transposed into Irish law»* and that *«the transposition deadline of 17th October 2024 was not met»*. It adds that *«there is currently no requirement for entities to register under NIS2, until such time as the legislation is enacted»*, and that guidance on reporting will follow.
+Standing: The recipient is named because the page names it: the Centre holds the lead competent authority role and is the national CSIRT. The duty to report to it under NIS2 does not yet arise in Irish law. An ITER row that rests on NIS2 alone has, in Ireland, no national instrument under it.
+Source: [ncsc-ie-nis2-faq]
 Read: 2026-09-03
 
 ## Detection, where it is prescribed rather than advised

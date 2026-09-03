@@ -285,6 +285,36 @@ recorded here and not in a row, because no ITER row yet turns on that status.
 
 Guidance, and guidance that says it is waiting. No Spanish act has been read.
 
+### Allgemeine Informationen zu NIS-2 {#nisg-at-faq}
+NIS-Behörde, Bundesministerium für Inneres · Austria · read 2026-09-03
+https://www.nis.gv.at/fragen-und-antworten/nis-2-richtlinie/allgemeine-informationen-zu-nis-2.html
+Establishes: That the Austrian authority for NIS2 sits in the Bundesministerium für Inneres, and that the three Austrian notification stages are the Directive's own.
+
+The authority's own explanation of the Directive for the entities it reaches.
+
+It settles the authority and the terms. It leaves two things open, and this
+record leaves them open too: it names no channel, and it names no CSIRT
+beside the authority.
+
+Guidance. The NISG has not been read, and the page does not give the date
+from which it binds.
+
+### NIS2 FAQ {#ncsc-ie-nis2-faq}
+National Cyber Security Centre · Ireland · read 2026-09-03
+https://www.ncsc.gov.ie/nis2/FAQ/
+Establishes: That Ireland had not transposed NIS2 when this was read, that no registration or reporting duty yet arises, and that the National Cyber Security Centre is the lead competent authority and the national CSIRT.
+
+The authority's own account of a duty that does not yet exist.
+
+It earns a place here for the opposite reason to the others. Every other
+national source read so far confirms terms; this one says the terms have no
+national vehicle, that the deadline of 17 October 2024 passed without one,
+and that entities need not register until there is.
+
+It is worth stating what this does not mean. The Regulations in this record —
+the GDPR, DORA, MAR — apply in Ireland whatever the state of this Bill. It is
+the Directive, and only the Directive, that waits.
+
 ## Guidance
 
 ### Guidelines 9/2022 on personal data breach notification under GDPR {#edpb-9-2022}
