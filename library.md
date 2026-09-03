@@ -906,6 +906,28 @@ The decree carries the terms and no channel. This carries the channel, and
 three of them: a form, an address and a telephone number, staffed around the
 clock.
 
+### Varsle om hendelser etter digitalsikkerhetsloven {#nsm-varsle}
+Nasjonal sikkerhetsmyndighet · Norway · read 3 September 2026
+https://nsm.no/regelverk-og-hjelp/digitalsikkerhetsloven-og-forskriften/varsle-om-hendelser-etter-digitalsikkerhetsloven
+Kind: guidance
+Read: 2026-09-03
+Establishes: That Norway has no reporting portal, that the notification is a published form sent by electronic mail to beredskap@nsm.no, and that it goes to the entity's sector supervisor with the National Security Authority copied.
+
+The regulation names the recipient and not the channel. The channel turns out
+to be a form and an address, with a required subject line.
+
+### Rīcība kiberincidenta gadījumā {#cert-lv-riciba}
+CERT.LV · Latvia · read 3 September 2026
+https://cert.lv/lv/riciba-kiberincidenta-gadijuma
+Kind: guidance
+Read: 2026-09-03
+Establishes: That Latvia has no reporting portal, and that each of the five statutory forms is filled in, signed with a secure electronic signature and sent to cert@cert.lv or cert@cert.gov.lv.
+
+Latvia is the country whose act gives the hours and not the moment they start.
+The channel is of a piece with that: the intervals are exact, the machinery is
+an e-mail address, and the thing that gates the report is a signature the
+organisation either already holds or does not.
+
 ## Guidance
 
 ### Guidelines 9/2022 on personal data breach notification under GDPR {#edpb-9-2022}

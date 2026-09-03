@@ -735,8 +735,8 @@ Role: csirt
 Country: LV
 Name: The competent cyber incident prevention institution, which article 34 names by function
 URL: https://likumi.lv/ta/id/353390-nacionalas-kiberdrosibas-likums
-Channel: Electronically, under article 34(2) and (3). The Cabinet of Ministers sets the form.
-Source: [lv-nacionalas-kiberdrosibas-likums]
+Channel: Electronically, under article 34(2) and (3), and there is no portal. The Cabinet of Ministers sets the forms — early warning, initial report, progress report, interim report, final report — and each is filled in, signed with a secure electronic signature and sent to the institution's address, cert@cert.lv or cert@cert.gov.lv. The parties may agree to encrypt with PGP or to identify with eParaksts.
+Source: [lv-nacionalas-kiberdrosibas-likums] [cert-lv-riciba]
 Read: 2026-09-03
 
 ### csirt · Estonia
@@ -791,8 +791,8 @@ Role: csirt
 Country: NO
 Name: The sectoral supervisory authority, with a copy to the National Contact Point, under section 17 of the regulation
 URL: https://lovdata.no/dokument/SF/forskrift/2025-06-20-1131/KAPITTEL_2
-Channel: Not set by the regulation.
-Source: [no-digitalsikkerhetsforskriften]
+Channel: Not set by the regulation, and there is no portal. The Authority publishes a form to be filled in and sent to beredskap@nsm.no, marked *«varsel digitalsikkerhetsloven»*. The notification goes to the entity's own sector supervisory authority, and the National Security Authority takes a copy where another body supervises.
+Source: [no-digitalsikkerhetsforskriften] [nsm-varsle]
 Read: 2026-09-03
 
 ### csirt · Cyprus
