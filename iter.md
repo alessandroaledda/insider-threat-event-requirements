@@ -608,6 +608,15 @@ Channel: MonEspaceNIS2, the Agency's own space for regulated entities.
 Source: [anssi-nis2-declaration]
 Read: 2026-09-03
 
+### csirt · Netherlands
+Role: csirt
+Country: NL
+Name: The sectoral CSIRT and the supervisory authority, both reached by one report
+URL: https://www.ncsc.nl/cyberbeveiligingswet-nis2/meldplicht
+Channel: MijnNCSC, the central reporting point. One report reaches the sectoral CSIRT and the supervisory authority at once.
+Source: [ncsc-nl-meldplicht]
+Read: 2026-09-03
+
 ### Market authority
 Role: market
 Bears on: MAR art. 17(1), where the organisation is a listed issuer
@@ -865,6 +874,26 @@ Recipient: The competent national authority, which is the Agence nationale de la
 Divergence: None found on the first stage. The declaration is due *«sans retard injustifié ou dans les 24 heures après avoir eu connaissance de l'incident important»*, which is the Directive's own anchor. The later stages are not stated on the page read, so nothing is recorded about them.
 Standing: This is the Agency's operational guidance for regulated entities, not the transposing act. Whether the recipient is the Agency as competent authority or a separately designated CSIRT is not settled here.
 Source: [anssi-nis2-declaration]
+Read: 2026-09-03
+
+### NIS2 · Netherlands
+Country: NL
+Act: Cyberbeveiligingswet
+In force: 15 August 2026
+Recipient: The sectoral CSIRT and the supervisory authority, both reached by one report
+Divergence: None found. The three stages are the Directive's own — *«Vroegtijdige waarschuwing binnen 24 uur»*, *«Melding binnen 72 uur»*, *«Eindverslag binnen 1 maand na je melding»* — and the page states the anchor plainly: *«De termijnen tellen vanaf het moment dat je kennis krijgt van het incident»*.
+Standing: This is the NCSC's guidance on the act, not the act. What it adds to the Directive is the channel and the fact that one report discharges the duty to two bodies.
+Source: [ncsc-nl-meldplicht]
+Read: 2026-09-03
+
+### NIS2 · Spain
+Country: ES
+Act: Not complete. Read on the date below, the Spanish CSIRT's own guidance still describes the recipients as something the transposition will settle.
+In force: not settled
+Recipient: not recorded, see Divergence
+Divergence: None found in the terms. The FAQ gives the Directive's three stages — *«una alerta temprana en las primeras 24 h»*, *«antes de 72 h ... una notificación del incidente»*, *«informe final, a más tardar un mes después de presentar la notificación del incidente»* — all *«desde el conocimiento del mismo»*. The divergence is elsewhere: the page does not say who receives them. *«Tanto los CSIRT de referencia y las autoridades competentes como el punto de contacto único se conocerán con la trasposición de la norma a la legislación española.»*
+Standing: An organisation in Spain therefore holds the terms and not the recipient. This record leaves the Spanish recipient unwritten rather than naming a body the source does not name.
+Source: [incibe-faq-nis2]
 Read: 2026-09-03
 
 ## Detection, where it is prescribed rather than advised

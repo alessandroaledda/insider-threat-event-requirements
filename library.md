@@ -251,6 +251,40 @@ about them.
 
 It is guidance. The French transposing act has not been read.
 
+### Meld incidenten onder de Cyberbeveiligingswet {#ncsc-nl-meldplicht}
+Nationaal Cyber Security Centrum · Netherlands · read 2026-09-03
+https://www.ncsc.nl/cyberbeveiligingswet-nis2/meldplicht
+Establishes: That the Dutch act took effect on 15 August 2026, that its three stages run from knowledge of the incident, and that a single report through MijnNCSC reaches both the sectoral CSIRT and the supervisory authority.
+
+The Centre's own guidance for the entities that report to it.
+
+It is useful here for what it settles rather than for what it repeats. The
+stages and the anchor are the Directive's, unchanged. What is national is the
+arrangement: the recipient is a sectoral CSIRT rather than one national body,
+the supervisory authority receives the same report, and both are reached
+through one submission.
+
+Guidance, not the act. The Cyberbeveiligingswet has not been read.
+
+### FAQ NIS2 {#incibe-faq-nis2}
+INCIBE-CERT · Spain · read 2026-09-03
+https://www.incibe.es/incibe-cert/sectores-estrategicos/FAQNIS2
+Establishes: That Spain's three notification stages are the Directive's own and run from knowledge of the incident, and that the reference CSIRTs and competent authorities were still, when this was read, described as awaiting the national transposition.
+
+Published by the body an organisation would most expect to report to, which
+is what makes the omission worth recording.
+
+It sets out the terms and their anchor without departing from the Directive.
+It does not name a recipient. Instead it says the reference CSIRTs, the
+competent authorities and the single point of contact will be known with the
+transposition into Spanish law.
+
+There is one term here that is not the Directive's general rule: trust service
+providers are given 24 hours rather than 72 for the second stage. It is
+recorded here and not in a row, because no ITER row yet turns on that status.
+
+Guidance, and guidance that says it is waiting. No Spanish act has been read.
+
 ## Guidance
 
 ### Guidelines 9/2022 on personal data breach notification under GDPR {#edpb-9-2022}
