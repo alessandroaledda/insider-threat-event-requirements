@@ -578,7 +578,7 @@ Read: 2026-09-03
 Role: csirt
 Bears on: NIS2 art. 23(4), where the organisation is an essential or important entity not displaced
 Country: none written
-Note: The Directive leaves the designation to each Member State. The CSIRTs Network publishes its members on a map rather than as a list, and no readable register was reached.
+Note: The Directive leaves the designation to each Member State, so there is no single text to read. Tried on 3 September 2026 and not reached: the CSIRTs Network site, whose members are drawn on a map fed by a script rather than listed, and which renders no team names into the page; its front-end bundle, which carries the shape of the data and not the data; and two ENISA inventory addresses, both gone. What would settle it is each Member State's own notification of its CSIRT and single point of contact, which is made to the Commission and published nationally.
 Source: not read
 Read: no
 
