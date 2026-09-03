@@ -879,6 +879,7 @@ Act: Decreto legislativo 4 settembre 2024, n. 138
 In force: 16 October 2024
 Recipient: CSIRT Italia, under article 25 of the decree
 Divergence: The national authority describes the complete notification as due within 72 hours **of the pre-notification**, where the Directive puts it within 72 hours of becoming aware. The pre-notification is itself due within 24 hours of becoming aware. Read that way the complete notification falls at 96 hours from awareness rather than at 72, and an organisation working from the Directive alone would hold the wrong date.
+Moves: yes
 Standing: This is how the Agency describes the obligation, not the wording of the decree. Article 25 has not been read.
 Source: [acn-nis-faq]
 Read: 2026-09-03
@@ -889,6 +890,7 @@ Act: Gesetz über das Bundesamt für Sicherheit in der Informationstechnik, in t
 In force: 2025. The date has not been read.
 Recipient: Bundesamt für Sicherheit in der Informationstechnik, which is the competent authority, the CSIRT and the single point of contact at once
 Divergence: None found on the anchor. The early initial report is due within 24 hours **nach Kenntniserlangung**, and the detailed report within 72 hours on the same footing, so both run from becoming aware as the Directive has them. This is the opposite of the Italian reading, where the 72 hours run from the pre-notification.
+Moves: no
 Standing: This is the BSI's own account of the duty. The BSIG article has not been read.
 Source: [bsi-nis2-meldepflicht]
 Read: 2026-09-03
@@ -899,6 +901,7 @@ Act: Not read. The French transposing act has not been opened for this record.
 In force: not read
 Recipient: The competent national authority, which is the Agence nationale de la sécurité des systèmes d'information
 Divergence: None found on the first stage. The declaration is due *«sans retard injustifié ou dans les 24 heures après avoir eu connaissance de l'incident important»*, which is the Directive's own anchor. The later stages are not stated on the page read, so nothing is recorded about them.
+Moves: no
 Standing: This is the Agency's operational guidance for regulated entities, not the transposing act. Whether the recipient is the Agency as competent authority or a separately designated CSIRT is not settled here.
 Source: [anssi-nis2-declaration]
 Read: 2026-09-03
@@ -909,6 +912,7 @@ Act: Cyberbeveiligingswet
 In force: 15 August 2026
 Recipient: The sectoral CSIRT and the supervisory authority, both reached by one report
 Divergence: None found. The three stages are the Directive's own — *«Vroegtijdige waarschuwing binnen 24 uur»*, *«Melding binnen 72 uur»*, *«Eindverslag binnen 1 maand na je melding»* — and the page states the anchor plainly: *«De termijnen tellen vanaf het moment dat je kennis krijgt van het incident»*.
+Moves: no
 Standing: This is the NCSC's guidance on the act, not the act. What it adds to the Directive is the channel and the fact that one report discharges the duty to two bodies.
 Source: [ncsc-nl-meldplicht]
 Read: 2026-09-03
@@ -919,6 +923,7 @@ Act: Not complete. Read on the date below, the Spanish CSIRT's own guidance stil
 In force: not settled
 Recipient: not recorded, see Divergence
 Divergence: None found in the terms. The FAQ gives the Directive's three stages — *«una alerta temprana en las primeras 24 h»*, *«antes de 72 h ... una notificación del incidente»*, *«informe final, a más tardar un mes después de presentar la notificación del incidente»* — all *«desde el conocimiento del mismo»*. The divergence is elsewhere: the page does not say who receives them. *«Tanto los CSIRT de referencia y las autoridades competentes como el punto de contacto único se conocerán con la trasposición de la norma a la legislación española.»*
+Moves: unsettled
 Standing: An organisation in Spain therefore holds the terms and not the recipient. This record leaves the Spanish recipient unwritten rather than naming a body the source does not name.
 Source: [incibe-faq-nis2]
 Read: 2026-09-03
@@ -929,6 +934,7 @@ Act: Netz- und Informationssystemsicherheitsgesetz 2024, NISG 2024, named on the
 In force: not stated on the page read
 Recipient: The NIS-Behörde, within the Bundesministerium für Inneres
 Divergence: None found. The three stages are the Directive's: a *«24-Stunden-Zeitfenster»* for the early warning, *«binnen 72 Stunden»* for the assessment, and the final report *«ein Monat nach der Meldung»*.
+Moves: no
 Standing: The page names the NIS-Behörde as the authority and does not name a CSIRT, so this record does not name one either. Whether a designated team receives the report alongside the authority is not settled here.
 Source: [nisg-at-faq]
 Read: 2026-09-03
@@ -939,17 +945,19 @@ Act: None. The National Cyber Security Bill has not been enacted.
 In force: not in force
 Recipient: The National Cyber Security Centre, Ireland's national cyber security authority and national CSIRT
 Divergence: The whole of it. On the date below the authority's own page states that *«the NIS2 directive has not yet been transposed into Irish law»* and that *«the transposition deadline of 17th October 2024 was not met»*. It adds that *«there is currently no requirement for entities to register under NIS2, until such time as the legislation is enacted»*, and that guidance on reporting will follow.
+Moves: none
 Standing: The recipient is named because the page names it: the Centre holds the lead competent authority role and is the national CSIRT. The duty to report to it under NIS2 does not yet arise in Irish law. An ITER row that rests on NIS2 alone has, in Ireland, no national instrument under it.
 Source: [ncsc-ie-nis2-faq]
 Read: 2026-09-03
 
 ### NIS2 · Portugal
 Country: PT
-Act: Decreto-Lei n.º 125/2025, de 4 de dezembro, read in the Diário da República
+Act: Decreto-Lei n.º 125/2025, de 4 de dezembro
 In force: Article 11 sets it at 120 days after publication. Published 4 December 2025, that falls on 3 April 2026. The date is arithmetic on the act's own wording, not a date the act prints.
 Recipient: The competent cybersecurity authority, which article 2 defines as the Centro Nacional de Cibersegurança or, where one applies, the sectoral national authority under article 15(2)(a)
 Divergence: Substantial, and in four places. **The anchor is not awareness.** Article 42(1) starts the twenty-four hours when the entity *«concluir que existe, ou possa vir a existir, um incidente significativo»* and runs them *«até 24 horas após essa verificação»* — from that determination, and reaching forward to an incident that may yet come to exist. **The seventy-two hour stage is conditional and is an update.** Article 42(3) owes it *«quando necessário»*, as *«uma atualização da notificação inicial»*, where the Directive's second stage is owed in every case. **There is a stage the Directive does not have.** Article 43 requires a notification of the *end* of significant impact, within twenty-four hours of that end. **The final report is measured differently and in a different unit.** Article 44(1) gives *«30 dias úteis a contar da data da notificação do fim de impacto significativo»* — thirty working days from that new stage, where the Directive gives one month from the incident notification.
-Standing: Read in the act itself and not in guidance, which is why it is stated this firmly. One consequence worth holding: article 41(2) provides that where the incident is resolved within two hours of detection, only the end-of-impact notification is owed. An organisation working from the Directive alone would hold the wrong anchor, the wrong final deadline, and would not know the third stage exists.
+Moves: yes
+Standing: Read in the act itself, in the Diário da República, and not in guidance, which is why it is stated this firmly. One consequence worth holding: article 41(2) provides that where the incident is resolved within two hours of detection, only the end-of-impact notification is owed. An organisation working from the Directive alone would hold the wrong anchor, the wrong final deadline, and would not know the third stage exists.
 Source: [pt-dl-125-2025]
 Read: 2026-09-03
 
