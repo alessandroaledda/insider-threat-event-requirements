@@ -784,7 +784,7 @@ Role: csirt
 Country: MT
 Name: CSIRTMalta, in the order as drafted
 URL: https://maltacip.gov.mt/wp-content/uploads/2024/09/Measures-for-A-High-Common-Level-of-Cybersecurity-Across-The-European-Union-Malta-Order-2024.pdf
-Channel: Not set by the order.
+Channel: Not set by the order, and not established. The Department's own page on CSIRTMalta is behind a firewall that refuses the tool, a browser with an ordinary user agent and a headless browser alike. Addresses for the team circulate in third-party directories; this record does not take a channel from those.
 Source: [mt-cybersecurity-order-draft]
 Read: 2026-09-03
 
@@ -802,8 +802,8 @@ Role: csirt
 Country: CY
 Name: The relevant competent authority or the National CSIRT, as the guide puts it
 URL: https://dsa.cy/images/pdf-upload/nis2-guide.pdf
-Channel: Not set out in the document read.
-Source: [cy-dsa-nis2-guide]
+Channel: There is no portal. The national CSIRT states it plainly: *«Μπορείτε να αναφέρετε ένα περιστατικό χρησιμοποιώντας την ηλεκτρονική φόρμα αναφοράς, στέλνοντας την κατάλληλα συμπληρωμένη φόρμα υποβολής περιστατικού στην ηλεκτρονική διεύθυνση REPORTING@CSIRT.CY ή να μας τηλεφωνήσετε στο 1490»* — a form, an address, and a telephone number.
+Source: [cy-dsa-nis2-guide] [csirt-cy-anafora]
 Read: 2026-09-03
 
 ### csirt · Iceland
@@ -1135,7 +1135,7 @@ In force: not settled
 Recipient: not recorded, see Divergence
 Divergence: None found in the terms. The FAQ gives the Directive's three stages — *«una alerta temprana en las primeras 24 h»*, *«antes de 72 h ... una notificación del incidente»*, *«informe final, a más tardar un mes después de presentar la notificación del incidente»* — all *«desde el conocimiento del mismo»*. The divergence is elsewhere: the page does not say who receives them. *«Tanto los CSIRT de referencia y las autoridades competentes como el punto de contacto único se conocerán con la trasposición de la norma a la legislación española.»*
 Moves: unsettled
-Standing: An organisation in Spain therefore holds the terms and not the recipient. This record leaves the Spanish recipient unwritten rather than naming a body the source does not name.
+Standing: An organisation in Spain therefore holds the terms and not the recipient, and with no recipient there is no channel either. The national institute runs a services portal through which collaborating companies notify incidents, which is a different arrangement from the statutory duty and is not recorded as discharging it. This record leaves the Spanish recipient unwritten rather than naming a body the source does not name.
 Source: [incibe-faq-nis2]
 Read: 2026-09-03
 
@@ -1868,11 +1868,23 @@ Read: 2026-09-02
   legitimate interests for delay, and the situations where delay would mislead.
   Those guidelines are not read, so the record states the three conditions and
   supplies no examples of them.
-- Two reporting addresses are recorded, for Italy and Czechia, and both were
-  read on a source rather than inferred from a domain. Nine countries describe a
-  channel without giving an address, and the rest say the act does not set one,
-  which is true of the act and no help at three in the morning. An address
-  carries `Checked` and is due again every three months.
+- Fourteen reporting addresses are recorded, each read on the page that names
+  it and each verified to answer. Five countries take their notifications by
+  electronic mail with a form filled in offline — Cyprus, Greece, Latvia, Norway,
+  Slovenia — and that is the channel, not an absence of one. Five more name a
+  platform this record could not reach: Belgium, Liechtenstein, Portugal, Romania
+  and Slovakia, whose sites refuse automated requests or return nothing. Malta and
+  Bulgaria have neither. Spain has no channel because it has no recipient.
+- Two countries take every instrument at one address. Luxembourg's SERIMA
+  receives the NIS2 notification, the GDPR notification, the electronic
+  communications one and CER, and was built jointly by the regulator and the data
+  protection commission. Nowhere else does the event this record is about produce
+  one submission instead of several.
+- Three countries gate the channel behind a credential that cannot be obtained
+  inside the deadline: eHerkenning at EH2+ in the Netherlands, the national
+  identification system with authorisation granted in advance in Croatia, an
+  activated account in Poland. No instrument mentions this, and it decides whether
+  a report arrives on time.
 - Twenty-nine jurisdictions carry a recipient. The terms are the same across the
   Union; the recipients are not, and eleven of the twenty-nine move a term.
 - T4 has no rows. The four decided examples that would calibrate it are

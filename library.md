@@ -976,6 +976,18 @@ authority, CERT-IS and the police. That address returns 404. The arrangement may
 have existed; the address does not, and it would have entered the record on the
 strength of a description rather than a page.
 
+### Αναφορά Περιστατικού {#csirt-cy-anafora}
+National CSIRT-CY · Cyprus · read 3 September 2026
+https://www.csirt.cy/
+Kind: guidance
+Read: 2026-09-03
+Establishes: That Cyprus has no reporting portal, and that an incident is reported by sending a completed form to REPORTING@CSIRT.CY or by telephone to 1490.
+
+Reached by rendering the page in a browser after the site refused the tool
+directly, which is worth noting because the other Cypriot source in this record
+— the Authority's summary guide, with its six hours where the Directive says
+twenty-four — was a PDF and needed no such thing.
+
 ## Guidance
 
 ### Guidelines 9/2022 on personal data breach notification under GDPR {#edpb-9-2022}
