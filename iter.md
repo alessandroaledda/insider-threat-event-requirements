@@ -1304,7 +1304,7 @@ Read: 2026-09-03
 ### NIS2 · Liechtenstein
 Country: LI
 Act: Cyber Security Act (CSG), 355.13
-In force: The act states its own commencement: *«this Act comes into force must submit the information listed in Art.»*
+In force: Not established. The translation read does not carry a commencement article; it repeals the Cyber Security Act of 4 May 2023, LGBl. 2023 no. 269, and gives entities four weeks from entry into force to register.
 Recipient: The National Cyber Security Unit
 Divergence: None. The cascade is transposed as it stands: the early warning *«without undue delay, and in any event within 24 hours of becoming aware of the significant security incident»*, the incident notification *«within 72 hours of becoming aware»*, an intermediate report at the Unit's request, and *«a final report no later than one month after the submission of the incident notification»*.
 Moves: no
