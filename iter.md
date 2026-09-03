@@ -1390,6 +1390,66 @@ article 32 requires appropriate measures, and the Board treats the ability to
 detect, address and report a breach in good time as one of them. For an Italian
 bank it is stated directly, with a retention period and a requirement to alert.
 
+## T1 · Acts under the General Data Protection Regulation
+
+Personal data has left the organisation, or reached someone who should not have
+it. The instruments are the same as for T5 and the terms are identical. What
+differs is what has to be established, because articles 33 and 34 turn on risk
+to the people whose data it is, and here the data has moved.
+
+### GDPR art. 33(1)
+Applies: All organisations
+Do: Notify the supervisory authority of the breach
+Term: 72 hours
+At: 72
+From: Declared awareness
+Owed to: dpa
+Establish: What data left, whose it is, how many people it concerns, who now holds it, whether it is still intelligible to them, and whether it can be retrieved
+Unless: The breach is unlikely to result in a risk to the rights and freedoms of natural persons
+Public: No. The authority publishes its own decisions
+Implication: Of the fourteen decided examples of this type, the authority had to be told in nine and did not in five. What separated them was not scale. In every one of the five the data was unintelligible to whoever received it, or the recipient was trusted, or the loss was recoverable
+Source: [gdpr] [edpb-1-2021]
+Read: 2026-09-02
+
+### GDPR art. 33(4)
+Applies: All organisations
+Do: Complete an earlier notification with what you did not yet have
+Term: Without undue further delay
+From: The notification it completes
+Anchor: After the notification it completes, which is the 72 hour one above
+Owed to: The same authority
+Establish: Nothing further. This is the provision that allows the notification to go out incomplete
+Public: No
+Source: [gdpr]
+Read: 2026-09-02
+
+### GDPR art. 34(1)
+Applies: All organisations
+Do: Tell each person whose data was disclosed
+Term: Without undue delay
+From: Declared awareness
+Anchor: The same point as the 72 hour notification
+Owed to: Each person whose data was disclosed
+Establish: That the risk to those people is high, which turns on what the data is and on what the person holding it can do with it
+Unless: The risk is not high
+Public: In practice yes, at any scale
+Implication: The people were told in seven of the fourteen decided examples and not in the other seven. Two cases have the authority told and the people not, and one of the two is the insider case: an employee taking business data. That is the shape an insider disclosure takes here
+Source: [gdpr] [edpb-1-2021]
+Read: 2026-09-02
+
+### GDPR art. 33(5)
+Applies: All organisations
+Do: Record the breach, its effects, and what was done about it
+Term: No term
+From: —
+Anchor: Throughout. The Board expects the documentation to be made as the incident develops
+Owed to: Nobody, until asked
+Establish: The facts, the effects, the remedial action
+Public: No
+Implication: Required in all eighteen worked examples, including every one where neither the authority nor the people had to be told. It is the only obligation of the four that never turns off
+Source: [gdpr] [edpb-1-2021]
+Read: 2026-09-02
+
 ## T5 · Acts under the General Data Protection Regulation
 
 ### GDPR art. 33(1)
@@ -1444,7 +1504,7 @@ Public: No
 Source: [gdpr]
 Read: 2026-09-02
 
-## T5 · Acts under DORA, where the organisation is a financial entity
+## T1, T5 · Acts under DORA, where the organisation is a financial entity
 
 ### DORA classification
 Applies: Financial entity
@@ -1517,7 +1577,7 @@ Implication: There is no silent overrun. Missing the term and not saying so befo
 Source: [dora-rts-terms]
 Read: 2026-09-02
 
-## T5 · Acts under NIS2, where the organisation is essential or important
+## T1, T5 · Acts under NIS2, where the organisation is essential or important
 
 ### NIS2 displacement
 Applies: Financial entity
@@ -1561,7 +1621,7 @@ Public: No
 Source: [nis2]
 Read: 2026-09-02
 
-## T5 · Acts under the Market Abuse Regulation
+## T1, T5 · Acts under the Market Abuse Regulation
 
 ### MAR art. 17(1)
 Applies: Listed issuer
@@ -1701,12 +1761,12 @@ record does not either: what it shows is that the interval exists, that it is
 measured in months rather than hours, and that nothing in the instruments fixes
 where inside it awareness fell.
 
-### Borrowed calibration: risk, on an employee taking client data
+### T1, decided: an employee taking client data
 Facts: An employee copies business data during his notice period and uses the contact data months later to approach the clients for his own business. No special categories. Low to medium volume. The database left intact.
 Held: The controller is not in a position to consider the risk to the data subjects low, because it has no reassurance about the intentions of the employee, and more serious abuse is not ruled out.
 Outcome: Documentation required. Notification to the authority required. Communication to the people concerned not required.
 Moves the outcome: Special categories, large volume, or evidence of onward sale.
-Applies to T5: By analogy only. The case is a T1. What carries across is the reasoning on intent, not the outcome.
+Applies to T5: By analogy only. The case is a T1 and it is recorded as one. What carries across to T5 is the reasoning on intent, not the outcome.
 Source: [edpb-1-2021] §72, §74, §77
 Read: 2026-09-02
 
@@ -1721,9 +1781,11 @@ Read: 2026-09-02
   `Checked` date, separate from `Read`. Only Italy and the Netherlands have a
   channel recorded at all. For twenty-five countries the field says the act does
   not set one, which is true of the act and no help at three in the morning.
-- Only Italy is worked. The terms are the same across the Union; the recipients
-  are not.
-- T1 to T4 have no rows, though fourteen of the eighteen decided cases are T1.
+- Twenty-nine jurisdictions carry a recipient. The terms are the same across the
+  Union; the recipients are not, and eleven of the twenty-nine move a term.
+- T2, T3 and T4 have no rows. T1 and T5 are worked. Of the two, T1 is the one
+  the Board has decided: fourteen of its eighteen worked examples are T1, against
+  one national decision for T5.
 - The cutting rule assumes one type per event. Case 4 shows an event can be two.
 - One decided case now exists for T5, from Italy. No other jurisdiction has one
   on this record.
