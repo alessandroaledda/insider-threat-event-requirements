@@ -542,6 +542,22 @@ this source supplies two. The other two are not in this record for
 Luxembourg, and the row says so rather than borrowing them from the
 Directive.
 
+### Measures for a High Common Level of Cybersecurity Across the European Union (Malta) Order, 2024 — consultation draft {#mt-cybersecurity-order-draft}
+Critical Infrastructure Protection Directorate, Ministry for Home Affairs, Security and Employment · Malta · read 2026-09-03
+https://maltacip.gov.mt/wp-content/uploads/2024/09/Measures-for-A-High-Common-Level-of-Cybersecurity-Across-The-European-Union-Malta-Order-2024.pdf
+Establishes: That Malta's proposed order reproduces the Directive's cascade term for term and anchor for anchor, and that the document read is a consultation draft whose commencement is left to the Prime Minister.
+
+Fifty-nine pages that read like an act and are not one yet.
+
+The temptation here was to record a faithful transposition and move on. Two
+things stopped that: the citation is *L.N. of 2024* with the number left
+blank, and every page carries *Public Consultation* in the footer.
+
+So the terms are in this record and the standing is not. That distinction is
+the whole point of keeping a Standing field: a row that says what a draft
+proposes is useful, and a row that presents a draft as binding is worse than
+no row.
+
 ## Guidance
 
 ### Guidelines 9/2022 on personal data breach notification under GDPR {#edpb-9-2022}

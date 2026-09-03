@@ -752,6 +752,15 @@ Channel: Not established. The government's communiqué names a self-registration
 Source: [lu-communique-nis2]
 Read: 2026-09-03
 
+### csirt · Malta
+Role: csirt
+Country: MT
+Name: CSIRTMalta, in the order as drafted
+URL: https://maltacip.gov.mt/wp-content/uploads/2024/09/Measures-for-A-High-Common-Level-of-Cybersecurity-Across-The-European-Union-Malta-Order-2024.pdf
+Channel: Not set by the order.
+Source: [mt-cybersecurity-order-draft]
+Read: 2026-09-03
+
 ### Market authority
 Role: market
 Bears on: MAR art. 17(1), where the organisation is a listed issuer
@@ -1210,6 +1219,17 @@ Divergence: Nothing recorded moves a term, and only one term is recorded. The go
 Moves: no
 Standing: A government communiqué about the law, not the law. This record therefore holds one interval for Luxembourg and neither the anchor nor the rest of the cascade. The same position as France, and recorded the same way.
 Source: [lu-communique-nis2]
+Read: 2026-09-03
+
+### NIS2 · Malta
+Country: MT
+Act: Measures for a High Common Level of Cybersecurity Across the European Union (Malta) Order, 2024 — read in a public consultation draft, not as a made Legal Notice.
+In force: Not fixed. Article 1(3) leaves it to *«such a date as the Prime Minister may by notice in the Gazette establish»*, and different dates may be set for different provisions.
+Recipient: CSIRTMalta, in the order as drafted
+Divergence: The draft moves nothing. Sub-article (6) reproduces the cascade exactly: the early warning *«within twenty-four (24) hours of becoming aware of the significant incident»*, the incident notification *«within seventy-two (72) hours of becoming aware»*, an intermediate report on request, the final report *«not later than one (1) month after the submission of the incident notification»*, and where the incident is still running, a progress report then and a final report within one month of its handling. Trust service providers get twenty-four hours. CSIRTMalta owes a response within twenty-four hours of the early warning. What is unsettled is not the content but the standing: every page of the document read carries the footer *Public Consultation*, and the citation reads *«L.N. of 2024»* with no number.
+Moves: unsettled
+Standing: A consultation draft, published by the Ministry responsible. Whether the order has since been made, and on what date it was brought into force, is not established by this source. The terms are recorded because they were read; the instrument is not recorded as binding, because this document does not show that it is.
+Source: [mt-cybersecurity-order-draft]
 Read: 2026-09-03
 
 ## Detection, where it is prescribed rather than advised
