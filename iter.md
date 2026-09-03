@@ -633,9 +633,11 @@ Role: csirt
 Country: AT
 Name: The NIS-Behörde, within the Bundesministerium für Inneres
 URL: https://www.nis.gv.at/fragen-und-antworten/nis-2-richtlinie/allgemeine-informationen-zu-nis-2.html
-Channel: Not read. The page names the authority and not the channel.
-Source: [nisg-at-faq]
+Portal: https://nis.cert.at/
+Channel: There is no single address. The authority lists four platforms by sector: nis.cert.at for operators of essential services and digital service providers outside energy, nis.energy-cert.at for energy, nis.govcert.gv.at for public administration, and meldeportal.a-healthcert.at for health. All four take mandatory and voluntary reports, and the page does not distinguish NIS from NIS2 reporting.
+Source: [nisg-at-faq] [nis-at-meldungen]
 Read: 2026-09-03
+Checked: 2026-09-03
 
 ### csirt · Ireland
 Role: csirt
@@ -702,9 +704,11 @@ Role: csirt
 Country: FI
 Name: The supervising authority, which is sectoral under § 43. Traficom's Kyberturvallisuuskeskus is the single point of contact under § 18.
 URL: https://www.finlex.fi/fi/lainsaadanto/2025/124
-Channel: Not set by the act.
-Source: [fi-kyberturvallisuuslaki-124-2025]
+Portal: https://eservices.traficom.fi/ContactForms/form/NIS2-ilmoitus
+Channel: Not set by the act. The Cyber Security Centre runs a NIS2 incident reporting application which takes the initial report, the follow-up and the final report, and forwards every notification to its own CSIRT unit as well as to the sector's supervising authority.
+Source: [fi-kyberturvallisuuslaki-124-2025] [traficom-nis2-ilmoitus]
 Read: 2026-09-03
+Checked: 2026-09-03
 
 ### csirt · Romania
 Role: csirt

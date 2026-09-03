@@ -833,6 +833,33 @@ separately from a reading: no Swedish law changed between the act and this page,
 the authority did, and the old address still answers only because someone kept
 the redirect in place.
 
+### NIS2-direktiivin mukainen poikkeamailmoitus {#traficom-nis2-ilmoitus}
+Liikenne- ja viestintävirasto Traficom, Kyberturvallisuuskeskus · Finland · read 3 September 2026
+https://kyberturvallisuuskeskus.fi/fi/ota-yhteytta/asioi-kanssamme/nis2-direktiivin-mukainen-poikkeamailmoitus
+Kind: guidance
+Read: 2026-09-03
+Establishes: That Finnish notifications are made through a NIS2 reporting application that carries all three stages, and that every notification also reaches the Centre's CSIRT unit.
+
+The act owes the report to the supervising authority, which is sectoral. This
+is how one application serves all of them, and it settles something the act
+leaves implicit: the CSIRT sees the report whichever authority supervises the
+entity.
+
+### NIS Meldungen {#nis-at-meldungen}
+NIS-Behörde, Bundesministerium für Inneres · Austria · read 3 September 2026
+https://www.nis.gv.at/nis-meldungen.html
+Kind: guidance
+Read: 2026-09-03
+Establishes: That Austria has four reporting platforms divided by sector rather than one, and that the authority's page does not distinguish NIS from NIS2 reporting on them.
+
+Four addresses, one per sector: the general platform, energy, public
+administration and health.
+
+Worth recording for what it costs an organisation. Everywhere else in this
+record the question at the moment of an incident is when to report and to whom.
+In Austria there is a prior question — which platform — and it has to be
+answered before the clock is usefully running.
+
 ## Guidance
 
 ### Guidelines 9/2022 on personal data breach notification under GDPR {#edpb-9-2022}
