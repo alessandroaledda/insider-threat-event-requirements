@@ -589,6 +589,7 @@ Role: csirt
 Country: IT
 Name: CSIRT Italia, within the Agenzia per la Cybersicurezza Nazionale
 URL: https://segnalazioni.acn.gov.it/
+Portal: https://segnalazioni.acn.gov.it/
 Channel: The Agency's Portale segnalazioni, which carries the incident notification form. The older address, csirt.gov.it/segnalazione, resolves to the same page. The portal states that it is for sending detail about security incidents and not for opening administrative proceedings of any kind.
 Source: [acn-nis-faq]
 Read: 2026-09-03
@@ -662,7 +663,9 @@ Role: csirt
 Country: CZ
 Name: Národní úřad pro kybernetickou a informační bezpečnost
 URL: https://portal.nukib.gov.cz/
+Portal: https://portal.nukib.gov.cz/
 Channel: Portál NÚKIB. Where the portal is unavailable the guidance allows e-mail or a datová schránka.
+Checked: 2026-09-03
 Source: [nukib-hlaseni-incidentu]
 Read: 2026-09-03
 
@@ -1841,11 +1844,11 @@ Read: 2026-09-02
   legitimate interests for delay, and the situations where delay would mislead.
   Those guidelines are not read, so the record states the three conditions and
   supplies no examples of them.
-- The channel each authority requires — portal, form, identifiers — is published
-  by the authorities rather than by the instruments, and it now carries its own
-  `Checked` date, separate from `Read`. Only Italy and the Netherlands have a
-  channel recorded at all. For twenty-five countries the field says the act does
-  not set one, which is true of the act and no help at three in the morning.
+- Two reporting addresses are recorded, for Italy and Czechia, and both were
+  read on a source rather than inferred from a domain. Nine countries describe a
+  channel without giving an address, and the rest say the act does not set one,
+  which is true of the act and no help at three in the morning. An address
+  carries `Checked` and is due again every three months.
 - Twenty-nine jurisdictions carry a recipient. The terms are the same across the
   Union; the recipients are not, and eleven of the twenty-nine move a term.
 - T4 has no rows. The four decided examples that would calibrate it are
