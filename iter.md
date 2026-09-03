@@ -827,7 +827,7 @@ Read: 2026-09-03
 ### Market authority
 Role: market
 Bears on: MAR art. 17(1), where the organisation is a listed issuer
-Note: The body is recorded for thirty countries. The article it reports under, MAR art. 17, has still not been opened for this record, and the act says so.
+Note: The body is recorded for thirty countries, and article 22 is what produces that list: each Member State designates a single administrative authority and tells the Commission and ESMA. The body receives nothing under article 17(1), which is owed to the public. It appears where the issuer delays, under 17(4) and 17(5).
 Source: [esma-mar-nca]
 Read: 2026-09-03
 
@@ -1566,12 +1566,61 @@ Read: 2026-09-02
 Applies: Listed issuer
 Do: Disclose the inside information to the public
 Term: As soon as possible
-From: Declared awareness
-Owed to: market
-Establish: That the information is precise and price-sensitive
+From: The information being inside information. Nothing declares it, and no authority starts the clock
+Owed to: The public. Through a means enabling fast access and complete, correct and timely assessment, and through the officially appointed mechanism where one applies
+Establish: That the information is precise, not public, and would be likely to have a significant effect on price. The test is in article 7(1)(a)
 Public: Yes. This is the only act on the record that is public by design
-Source: not read
-Read: no
+Implication: The issuer also posts it on its own website and keeps it there for at least five years, so the disclosure does not expire
+Source: [mar]
+Read: 2026-09-03
+
+### MAR art. 17(4)
+Applies: Listed issuer
+Do: Delay the disclosure on the issuer's own responsibility, then explain it
+Term: The written explanation is owed immediately after the information is disclosed to the public
+From: The disclosure, not the decision to delay
+Owed to: market
+Establish: All three of, that immediate disclosure would prejudice the issuer's legitimate interests, that delay is not likely to mislead the public, and that confidentiality can be ensured
+Public: No
+Implication: Here the delay is the issuer's own decision and the authority learns of it afterwards. A Member State may require the explanation only on request, so whether it is owed at all is national
+Source: [mar]
+Read: 2026-09-03
+
+### MAR art. 17(5) and (6)
+Applies: Listed issuer
+Do: Where the issuer is a credit institution or a financial institution and the reason is financial stability, obtain the authority's consent before delaying
+Term: None stated. The authority reviews at least weekly for as long as the delay lasts
+From: The notification of the intention to delay
+Owed to: market
+Establish: That disclosure risks undermining the financial stability of the issuer and of the system, that delay is in the public interest, and that confidentiality can be ensured
+Public: No
+Implication: This runs the opposite way to 17(4). The issuer notifies its intention **before** delaying and provides evidence, and where the authority does not consent, the information is disclosed immediately
+Source: [mar]
+Read: 2026-09-03
+
+### MAR art. 17(7)
+Applies: Listed issuer
+Do: Where disclosure was delayed under 17(4) or 17(5), disclose the inside information to the public
+Term: As soon as possible
+From: Confidentiality no longer being ensured
+Owed to: The public. The same disclosure that was delayed
+Establish: That confidentiality is lost. A rumour counts, where it explicitly relates to the delayed information and is sufficiently accurate to indicate that confidentiality is gone
+Public: Yes
+Implication: A leak ends the delay. The trigger sits outside the issuer's control, and a sufficiently accurate rumour is enough on its own
+Source: [mar]
+Read: 2026-09-03
+
+### MAR art. 17(8)
+Applies: Listed issuer
+Do: Where inside information has reached a third party, make complete and effective public disclosure of it
+Term: Simultaneously where the disclosure was intentional, promptly where it was not
+From: The disclosure to the third party
+Owed to: The public
+Establish: That the recipient owes no duty of confidentiality, whether by law, regulation, articles of association or contract
+Public: Yes
+Implication: This is the provision an insider case runs into. Where a person acting for the issuer passes inside information to someone bound by no confidentiality duty, the issuer's own disclosure obligation is triggered by the leak, and the word for an unintentional leak is promptly
+Source: [mar]
+Read: 2026-09-03
 
 ## Calibration
 
@@ -1662,7 +1711,10 @@ Read: 2026-09-02
 
 ## Open
 
-- MAR art. 17 is cited and unread.
+- MAR art. 17 is read. Article 17(11) has ESMA issue guidelines listing the
+  legitimate interests for delay, and the situations where delay would mislead.
+  Those guidelines are not read, so the record states the three conditions and
+  supplies no examples of them.
 - The channel each authority requires — portal, form, identifiers — is published
   by the authorities rather than by the instruments. It is a different kind of
   source and needs its own section and its own rule about how long it stays true.

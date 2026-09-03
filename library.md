@@ -688,6 +688,28 @@ returned nothing, because the law spells the numbers out: *είκοσι τεσσ
 (24) ωρών*. That is the third time in this record that a search returned
 nothing for a reason that had nothing to do with the law.
 
+### Regulation (EU) No 596/2014, Market Abuse Regulation {#mar}
+European Union, consolidated text of 9 January 2024 - read 3 September 2026
+http://publications.europa.eu/resource/celex/02014R0596-20240109
+Establishes: That a listed issuer discloses inside information to the public as soon as possible, that it may delay on conditions, and that a credit institution delaying for financial stability needs the authority's consent rather than its notice.
+
+The only instrument in this record that points outward. Everything else is owed
+to an authority. Article 17(1) is owed to the public.
+
+Four things in it bear on an insider event at a listed bank. The threshold is
+article 7(1)(a): precise, not public, likely to move the price, which is neither
+severity nor volume nor number of people affected. The delay under 17(4) is the
+issuer's own decision, with the explanation owed to the authority only after
+disclosure. The delay under 17(5) is not: a credit institution delaying for
+financial stability notifies its intention in advance, provides evidence and
+obtains consent, and the authority re-evaluates at least weekly. And 17(7) and
+17(8) take the trigger out of the issuer's hands entirely, since a sufficiently
+accurate rumour ends a delay, and inside information reaching a person who owes
+no duty of confidentiality obliges the issuer to disclose promptly.
+
+Reached through CELLAR, the Publications Office archive, after EUR-Lex refused
+the request.
+
 ## Guidance
 
 ### Guidelines 9/2022 on personal data breach notification under GDPR {#edpb-9-2022}
@@ -739,10 +761,9 @@ evidence of onward use and the second line moves.
 Rows drawn from these are marked in the instrument and stay marked until the
 source is opened at its own address.
 
-- **Regulation (EU) No 596/2014, Market Abuse Regulation.** Article 17 is cited
-  for the disclosure of inside information by a listed issuer. Neither the
-  article nor the threshold of precise and price-sensitive information has been
-  read for this record.
+- **ESMA guidelines under MAR article 17(11).** The non-exhaustive list of
+  legitimate interests for delaying disclosure, and of the situations where delay
+  is likely to mislead the public. Article 17(4) is read; these are not.
 - **The channel each authority requires.** Which portal, which form, which
   identifiers. This is published by the authorities rather than by the
   instruments, and it is a different kind of source that will need its own
