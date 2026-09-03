@@ -22,6 +22,11 @@ terms run from one another rather than all from the moment of knowledge.
 Fields are `Applies`, `Term`, `From`, `Owed to`, `Establish`, `Public`,
 `Source`, `Read`, `At`, `Implication`, `Do`, and `Anchor`.
 
+`Owed to` holds a **role** where the recipient is an authority, and the
+authorities table resolves it for the country selected. Where the recipient is
+not an authority — the people concerned, the clients, the organisation's own
+register — it is written out, because it does not vary by country.
+
 `Anchor` is for an act whose term is not stated in hours. It says what the
 act attaches to on the sequence, so that a reader can see when it is
 reasonable to complete it without an hour being invented for it.
@@ -91,6 +96,290 @@ Source: [edpb-9-2022] §31, §34, §36, §40 · guidance, not law
 Implication: Where the period before it is left open and a breach did occur, the delay can be treated as a failure to notify. An unbounded triage is not neutral.
 Read: 2026-09-02
 
+## Authorities
+
+An act names a **role**. This table gives the body that holds the role in each
+country. Where the table has no entry, the act says so rather than naming a
+plausible body.
+
+Only one role is filled. The Board publishes the list of its members, so the
+data protection authority is known for thirty countries. The other three are
+not published as a list that could be read: DORA, NIS2 and MAR do not name a
+body, they name a mechanism by which a Member State designates one, and the
+result has to be looked up country by country.
+
+Fields are `Role`, `Country`, `Name`, `URL`, `Source`, `Read`.
+
+### Supervisory authority
+Role: dpa
+Bears on: GDPR art. 33(1), and every communication ordered under art. 34(4)
+Source: [edpb-members]
+Read: 2026-09-03
+
+### dpa · Austria
+Role: dpa
+Country: AT
+Name: Österreichische Datenschutzbehörde
+URL: http://www.dsb.gv.at/
+Source: [edpb-members]
+Read: 2026-09-03
+
+### dpa · Belgium
+Role: dpa
+Country: BE
+Name: Autorité de la protection des données — Gegevensbeschermingsautoriteit
+URL: https://www.autoriteprotectiondonnees.be
+Source: [edpb-members]
+Read: 2026-09-03
+
+### dpa · Bulgaria
+Role: dpa
+Country: BG
+Name: Commission for Personal Data Protection
+URL: https://www.cpdp.bg/
+Source: [edpb-members]
+Read: 2026-09-03
+
+### dpa · Croatia
+Role: dpa
+Country: HR
+Name: Agencija za zaštitu osobnih podataka
+URL: http://www.azop.hr/
+Source: [edpb-members]
+Read: 2026-09-03
+
+### dpa · Cyprus
+Role: dpa
+Country: CY
+Name: Office of the Commissioner for Personal Data Protection
+URL: http://www.dataprotection.gov.cy/
+Source: [edpb-members]
+Read: 2026-09-03
+
+### dpa · Czechia
+Role: dpa
+Country: CZ
+Name: Office for Personal Data Protection
+URL: https://uoou.gov.cz/
+Source: [edpb-members]
+Read: 2026-09-03
+
+### dpa · Denmark
+Role: dpa
+Country: DK
+Name: Datatilsynet
+URL: http://www.datatilsynet.dk/
+Source: [edpb-members]
+Read: 2026-09-03
+
+### dpa · Estonia
+Role: dpa
+Country: EE
+Name: Andmekaitse Inspektsioon
+URL: http://www.aki.ee/
+Source: [edpb-members]
+Read: 2026-09-03
+
+### dpa · Finland
+Role: dpa
+Country: FI
+Name: Office of the Data Protection Ombudsman
+URL: http://www.tietosuoja.fi/en/
+Source: [edpb-members]
+Read: 2026-09-03
+
+### dpa · France
+Role: dpa
+Country: FR
+Name: Commission Nationale de l'Informatique et des Libertés
+URL: http://www.cnil.fr/
+Source: [edpb-members]
+Read: 2026-09-03
+
+### dpa · Germany
+Role: dpa
+Country: DE
+Name: Die Bundesbeauftragte für den Datenschutz und die Informationsfreiheit
+URL: http://www.bfdi.bund.de/
+Source: [edpb-members]
+Read: 2026-09-03
+
+### dpa · Greece
+Role: dpa
+Country: GR
+Name: Hellenic Data Protection Authority
+URL: http://www.dpa.gr/
+Source: [edpb-members]
+Read: 2026-09-03
+
+### dpa · Hungary
+Role: dpa
+Country: HU
+Name: Hungarian National Authority for Data Protection and Freedom of Information
+URL: http://www.naih.hu/
+Source: [edpb-members]
+Read: 2026-09-03
+
+### dpa · Iceland
+Role: dpa
+Country: IS
+Name: Persónuvernd
+URL: https://www.personuvernd.is
+Source: [edpb-members]
+Read: 2026-09-03
+
+### dpa · Ireland
+Role: dpa
+Country: IE
+Name: Data Protection Commission
+URL: http://www.dataprotection.ie/
+Source: [edpb-members]
+Read: 2026-09-03
+
+### dpa · Italy
+Role: dpa
+Country: IT
+Name: Garante per la protezione dei dati personali
+URL: http://www.garanteprivacy.it/
+Source: [edpb-members]
+Read: 2026-09-03
+
+### dpa · Latvia
+Role: dpa
+Country: LV
+Name: Data State Inspectorate
+URL: https://www.dvi.gov.lv/
+Source: [edpb-members]
+Read: 2026-09-03
+
+### dpa · Liechtenstein
+Role: dpa
+Country: LI
+Name: Data Protection Authority, Principality of Liechtenstein
+URL: https://www.datenschutzstelle.li
+Source: [edpb-members]
+Read: 2026-09-03
+
+### dpa · Lithuania
+Role: dpa
+Country: LT
+Name: State Data Protection Inspectorate
+URL: https://vdai.lrv.lt/
+Source: [edpb-members]
+Read: 2026-09-03
+
+### dpa · Luxembourg
+Role: dpa
+Country: LU
+Name: Commission Nationale pour la Protection des Données
+URL: http://www.cnpd.lu/
+Source: [edpb-members]
+Read: 2026-09-03
+
+### dpa · Malta
+Role: dpa
+Country: MT
+Name: Office of the Information and Data Protection Commissioner
+URL: http://www.idpc.org.mt/
+Source: [edpb-members]
+Read: 2026-09-03
+
+### dpa · Netherlands
+Role: dpa
+Country: NL
+Name: Autoriteit Persoonsgegevens
+URL: https://autoriteitpersoonsgegevens.nl/
+Source: [edpb-members]
+Read: 2026-09-03
+
+### dpa · Norway
+Role: dpa
+Country: NO
+Name: Datatilsynet
+URL: https://www.datatilsynet.no
+Source: [edpb-members]
+Read: 2026-09-03
+
+### dpa · Poland
+Role: dpa
+Country: PL
+Name: Urząd Ochrony Danych Osobowych
+URL: https://uodo.gov.pl/
+Source: [edpb-members]
+Read: 2026-09-03
+
+### dpa · Portugal
+Role: dpa
+Country: PT
+Name: Comissão Nacional de Proteção de Dados
+URL: http://www.cnpd.pt/
+Source: [edpb-members]
+Read: 2026-09-03
+
+### dpa · Romania
+Role: dpa
+Country: RO
+Name: National Supervisory Authority for Personal Data Processing
+URL: http://www.dataprotection.ro/
+Source: [edpb-members]
+Read: 2026-09-03
+
+### dpa · Slovakia
+Role: dpa
+Country: SK
+Name: Úrad na ochranu osobných údajov Slovenskej republiky
+URL: http://www.dataprotection.gov.sk/
+Source: [edpb-members]
+Read: 2026-09-03
+
+### dpa · Slovenia
+Role: dpa
+Country: SI
+Name: Information Commissioner of the Republic of Slovenia
+URL: https://www.ip-rs.si/
+Source: [edpb-members]
+Read: 2026-09-03
+
+### dpa · Spain
+Role: dpa
+Country: ES
+Name: Agencia Española de Protección de Datos
+URL: https://www.aepd.es/
+Source: [edpb-members]
+Read: 2026-09-03
+
+### dpa · Sweden
+Role: dpa
+Country: SE
+Name: Integritetsskyddsmyndigheten
+URL: https://www.imy.se/
+Source: [edpb-members]
+Read: 2026-09-03
+
+### Financial competent authority
+Role: financial
+Bears on: DORA art. 19(4), where the organisation is a financial entity
+Country: none written
+Note: Article 46 names the authority designated under Article 4 of Directive 2013/36/EU rather than a body. For a significant credit institution the report still goes to that national authority, which transmits it to the ECB.
+Source: not read
+Read: no
+
+### CSIRT or competent authority
+Role: csirt
+Bears on: NIS2 art. 23(4), where the organisation is an essential or important entity not displaced
+Country: none written
+Note: The Directive leaves the designation to each Member State. The CSIRTs Network publishes its members on a map rather than as a list, and no readable register was reached.
+Source: not read
+Read: no
+
+### Market authority
+Role: market
+Bears on: MAR art. 17(1), where the organisation is a listed issuer
+Country: none written
+Note: Not read. MAR itself has not been opened for this record either.
+Source: not read
+Read: no
+
 ## Detection, where it is prescribed rather than advised
 
 ### Garante Provvedimento 192/2011
@@ -116,7 +405,7 @@ Do: Notify the supervisory authority of the breach
 Term: 72 hours
 At: 72
 From: Declared awareness
-Owed to: The supervisory authority. IT — Garante per la protezione dei dati personali
+Owed to: dpa
 Establish: Which records were opened; whose they were; how many people they concern; whether risk to those people can be ruled out
 Unless: The breach is unlikely to result in a risk to the rights and freedoms of natural persons
 Public: No. The authority publishes its own decisions
@@ -180,7 +469,7 @@ Do: Submit the initial notification
 Term: Four hours from classification, and no later than 24 hours from awareness. Where classified as major only later, four hours from that classification
 From: Classification, capped from declared awareness
 At: 24 · the cap. Earlier where the incident is classified as major sooner
-Owed to: The competent authority. IT — Banca d'Italia. A significant credit institution reports to the national authority, which transmits to the ECB immediately
+Owed to: financial
 Establish: Whether the incident is major
 Public: No
 Source: [dora] [dora-rts-terms] [ssm]
@@ -249,7 +538,7 @@ Do: Submit the early warning
 Term: 24 hours
 At: 24
 From: Declared awareness
-Owed to: The CSIRT or competent authority. IT — CSIRT Italia
+Owed to: csirt
 Establish: Whether the incident is significant; whether it is suspected of being caused by unlawful or malicious acts; whether it could have cross-border impact
 Public: No
 Source: [nis2]
@@ -286,7 +575,7 @@ Applies: Listed issuer
 Do: Disclose the inside information to the public
 Term: As soon as possible
 From: Declared awareness
-Owed to: The public, and the national authority. IT — Consob
+Owed to: market
 Establish: That the information is precise and price-sensitive
 Public: Yes. This is the only act on the record that is public by design
 Source: not read

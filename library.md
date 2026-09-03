@@ -162,6 +162,21 @@ the mechanism: where a controller assesses the risk as not high and does not
 communicate, the authority can require the communication afterwards, and the
 controller then makes it under order.
 
+### Members of the European Data Protection Board {#edpb-members}
+European Data Protection Board · European Union · read 3 September 2026
+https://www.edpb.europa.eu/about-edpb/about-edpb/members_en
+Establishes: Which body is the supervisory authority in each of thirty European countries, in its own official name.
+
+The Board publishes its own membership, which is the list of national
+supervisory authorities under the Regulation. It is the only one of the four
+recipients this record needs that exists as a readable list: the other three
+instruments name a designation mechanism and leave the result to each Member
+State.
+
+It says who the authority is. It does not say through which channel a
+notification reaches it, which is published by each authority separately and is
+a different kind of source.
+
 ## Guidance
 
 ### Guidelines 9/2022 on personal data breach notification under GDPR {#edpb-9-2022}
