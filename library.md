@@ -960,6 +960,22 @@ EH2+, Croatia wants the national identification system with authorisation
 granted in advance, Poland wants an activated S46 account. Here an entity with
 no account creates one at the moment it needs to report.
 
+### Tilkynna öryggisatvik til CERT-IS {#island-is-tilkynna}
+Ísland.is · Iceland · read 3 September 2026
+https://island.is/tilkynna-oryggisatvik-til-cert-is
+Kind: guidance
+Read: 2026-09-03
+Establishes: That an Icelandic notification is made on an application form on island.is or at cert@cert.is, and that a mandatory notification under the network and information systems act is forwarded from there to the relevant supervisory authority.
+
+Iceland's act sets no interval at all, so this page carries more of the working
+arrangement than the law does.
+
+It also corrected a mistake that had not been made yet. A summary described a
+joint portal at oryggisbrestur.island.is, shared by the data protection
+authority, CERT-IS and the police. That address returns 404. The arrangement may
+have existed; the address does not, and it would have entered the record on the
+strength of a description rather than a page.
+
 ## Guidance
 
 ### Guidelines 9/2022 on personal data breach notification under GDPR {#edpb-9-2022}

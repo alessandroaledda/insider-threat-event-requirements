@@ -811,8 +811,10 @@ Role: csirt
 Country: IS
 Name: The cybersecurity team, netöryggissveit, operated by the telecommunications authority
 URL: https://www.althingi.is/lagas/nuna/2019078.html
-Channel: Not set by the act. A reporting portal exists outside the sources read here.
-Source: [is-log-78-2019]
+Portal: https://cert.is/tilkynna-atvik/
+Checked: 2026-09-03
+Channel: Not set by the act. The cybersecurity team takes notifications on its own reporting page, through an application form on island.is, and at cert@cert.is. The service page adds what the act does not: *«ef um skyldutilkynningu er að ræða ... verður tilkynningin send áfram til viðeigandi eftirlitsstjórnvalds»* — a mandatory notification is passed on to the relevant supervisory authority.
+Source: [is-log-78-2019] [island-is-tilkynna]
 Read: 2026-09-03
 
 ### csirt · Liechtenstein
@@ -820,7 +822,7 @@ Role: csirt
 Country: LI
 Name: The National Cyber Security Unit
 URL: https://www.regierung.li/files/attachments/2025111000-csg-en.pdf
-Channel: Not set by the act.
+Channel: Not set by the act. The Stabsstelle Cyber-Sicherheit publishes an online notification form on the national administration's site, and takes registrations for its warning service by electronic mail. No address is recorded here: the page answers 403 to an automated request, so the form could not be reached and its address could not be confirmed.
 Source: [li-csg]
 Read: 2026-09-03
 
