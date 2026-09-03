@@ -363,7 +363,7 @@ Read: 2026-09-03
 ### Financial competent authority
 Role: financial
 Bears on: DORA art. 19(4), where the organisation is a financial entity
-Scope: The bodies below are the designation for **credit institutions**, under article 4 of Directive 2013/36/EU. Article 46 designates by sector: a payment institution, an investment firm and an insurer are designated under other acts and resolve to other bodies, which this record has not read.
+Scope: This is the designation for **credit institutions**, under article 4 of Directive 2013/36/EU. Article 46 designates by sector: a payment institution, an investment firm and an insurer are designated under other acts and resolve to other bodies, which this record has not read.
 Note: A significant credit institution reports to the national authority below, which transmits the report to the ECB immediately. Supervision moves under the Single Supervisory Mechanism; the report does not.
 Source: [eba-competent-authorities] · [dora]
 Read: 2026-09-03
