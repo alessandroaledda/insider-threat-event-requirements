@@ -339,6 +339,41 @@ The PDF in the Diário da República is encrypted; it was read after installing
 the cipher, in layout mode, and the articles were read whole rather than
 searched for their numbers.
 
+### Loi du 26 avril 2024 établissant un cadre pour la cybersécurité {#be-loi-26-04-2024}
+Moniteur belge, banque de données Justel · Belgium · read 2026-09-03
+https://www.ejustice.just.fgov.be/eli/loi/2024/04/26/2024202344/justel
+Establishes: That Belgium transposes the NIS2 cascade without moving a term or an anchor, that the recipient is the national CSIRT, and that the act took effect on 18 October 2024.
+
+The second national act read whole in this record, and the useful counterpart
+to the Portuguese one: the same Directive, transposed without alteration.
+
+Article 35 is worth reading beside article 42 of the Portuguese decree. Both
+are lawful transpositions of the same provision. One reproduces the anchor
+and one replaces it. That is the case for reading the national act rather
+than the Directive, made without argument.
+
+The site of the agency that receives these notifications refused every
+request made to it — the tool, a browser with a plain user agent, and a
+headless browser alike. The act was reached through the Moniteur belge
+instead, which is the better source in any case.
+
+### Hlášení kybernetických bezpečnostních incidentů, v1.2 {#nukib-hlaseni-incidentu}
+Národní úřad pro kybernetickou a informační bezpečnost · Czechia · read 2026-09-03
+https://portal.nukib.gov.cz/chci-vyridit/hlaseni-kybernetickeho-bezpecnostniho-incidentu/hlaseni-incidentu-dle-noveho-zakona-o-kyberneticke-bezpecnosti/prvotni-hlaseni
+Establishes: That the Czech twenty-four hours run from an internal classification of the event, that the authority rather than the entity determines significant impact after the initial report, and that the final report is due within thirty days of the incident being resolved.
+
+Eight pages published by the office that receives the reports, dated 8 June
+2026, carrying a TLP:CLEAR marking.
+
+The interesting divergence is not a term. It is who holds the judgment. In
+the Directive the entity decides whether an incident is significant and the
+clock runs from its awareness. Here the clock runs from a named person's
+classification, and after the initial report the authority decides whether
+the incident is significant at all. An organisation that has modelled the
+Directive's cascade has modelled a different decision procedure.
+
+It is guidance. The act itself, and the date it began to bind, were not read.
+
 ## Guidance
 
 ### Guidelines 9/2022 on personal data breach notification under GDPR {#edpb-9-2022}

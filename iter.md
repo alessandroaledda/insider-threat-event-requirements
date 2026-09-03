@@ -644,6 +644,24 @@ Channel: Not read here. Article 41(4) leaves the format and procedure to a techn
 Source: [pt-dl-125-2025]
 Read: 2026-09-03
 
+### csirt · Belgium
+Role: csirt
+Country: BE
+Name: The national CSIRT, which article 1, 46° defines functionally as the national computer security incident response centre without naming the body
+URL: https://www.ejustice.just.fgov.be/eli/loi/2024/04/26/2024202344/justel
+Channel: Article 34 §1 leaves the arrangements to a protocol between the national CSIRT and the NCCN. The act does not set them out.
+Source: [be-loi-26-04-2024]
+Read: 2026-09-03
+
+### csirt · Czechia
+Role: csirt
+Country: CZ
+Name: Národní úřad pro kybernetickou a informační bezpečnost
+URL: https://portal.nukib.gov.cz/
+Channel: Portál NÚKIB. Where the portal is unavailable the guidance allows e-mail or a datová schránka.
+Source: [nukib-hlaseni-incidentu]
+Read: 2026-09-03
+
 ### Market authority
 Role: market
 Bears on: MAR art. 17(1), where the organisation is a listed issuer
@@ -959,6 +977,28 @@ Divergence: Substantial, and in four places. **The anchor is not awareness.** Ar
 Moves: yes
 Standing: Read in the act itself, in the Diário da República, and not in guidance, which is why it is stated this firmly. One consequence worth holding: article 41(2) provides that where the incident is resolved within two hours of detection, only the end-of-impact notification is owed. An organisation working from the Directive alone would hold the wrong anchor, the wrong final deadline, and would not know the third stage exists.
 Source: [pt-dl-125-2025]
+Read: 2026-09-03
+
+### NIS2 · Belgium
+Country: BE
+Act: Loi du 26 avril 2024 établissant un cadre pour la cybersécurité des réseaux et des systèmes d'information d'intérêt général pour la sécurité publique
+In force: 18 October 2024, by article 98
+Recipient: The national CSIRT, which article 1, 46° defines functionally as the national computer security incident response centre without naming the body
+Divergence: None. Article 35 §1 transposes the cascade term for term and anchor for anchor: the early warning *«dans les vingt-quatre heures après avoir eu connaissance de l'incident significatif»*, the incident notification *«dans les septante-deux heures»* on the same footing, and the final report *«au plus tard un mois après la présentation de la notification d'incident»*. Trust service providers get twenty-four hours for the second stage under §2. Where an incident is still running when the final report falls due, §1, 5° gives a progress report then and the final report within one month of the incident's definitive handling.
+Moves: no
+Standing: Read in the act, in the Justel database of the Moniteur belge, and not in guidance. One thing the act does not settle: it defines the national CSIRT by what it does rather than by name, so this record does not name it either. Article 34 §1 adds that the CSIRT passes each notification to any sectoral authority immediately, and that notifications from essential entities also go to the NCCN.
+Source: [be-loi-26-04-2024]
+Read: 2026-09-03
+
+### NIS2 · Czechia
+Country: CZ
+Act: Zákon č. 264/2025 Sb., o kybernetické bezpečnosti, with its implementing decrees
+In force: not stated in the material read
+Recipient: Národní úřad pro kybernetickou a informační bezpečnost
+Divergence: In three places, and one of them changes who decides. **The anchor is an internal determination.** The initial report is due *«bez zbytečného odkladu, nejpozději do 24 hodin»*, and the guidance says plainly what starts it: *«tato lhůta se počítá od okamžiku, kdy u konkrétního subjektu osoba k tomu pověřená (například manažer kybernetické bezpečnosti) vyhodnotí zjištěnou událost jako kybernetický bezpečnostní incident»* — from the moment a designated person inside the organisation classifies the event, not from the organisation becoming aware of a significant incident. **The authority decides significance, not the entity.** After the initial report the Úřad tells the provider whether the incident has significant impact; where it does not, the guidance says the reporting ends there. The Directive leaves that assessment with the entity. **The final report is measured from resolution.** *«Po jeho vyřešení nejpozději do 30 dnů závěrečnou zprávu»* — thirty days from the incident being resolved, where the Directive gives one month from the incident notification, with an interim report in the meantime if the incident is still running.
+Moves: yes
+Standing: This is the Úřad's own supporting material on the ZKB and its decrees, not the act. Two things it does not contain: any seventy-two hour stage, and the date from which the act binds. Neither is recorded here as a result. It also states a threshold of its own — the duty reaches incidents where intentional causation cannot be excluded without undue delay and within twenty-four hours, so operational incidents that can be ruled out are not reportable.
+Source: [nukib-hlaseni-incidentu]
 Read: 2026-09-03
 
 ## Detection, where it is prescribed rather than advised
