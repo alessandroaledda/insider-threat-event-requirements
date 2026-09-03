@@ -577,10 +577,18 @@ Read: 2026-09-03
 ### CSIRT or competent authority
 Role: csirt
 Bears on: NIS2 art. 23(4), where the organisation is an essential or important entity not displaced
-Country: none written
 Note: The Directive leaves the designation to each Member State, so there is no single text to read. Tried on 3 September 2026 and not reached: the CSIRTs Network site, whose members are drawn on a map fed by a script rather than listed, and which renders no team names into the page; its front-end bundle, which carries the shape of the data and not the data; and two ENISA inventory addresses, both gone. What would settle it is each Member State's own notification of its CSIRT and single point of contact, which is made to the Commission and published nationally.
-Source: not read
-Read: no
+Source: [acn-nis-faq]
+Read: 2026-09-03
+
+### csirt · Italy
+Role: csirt
+Country: IT
+Name: CSIRT Italia, within the Agenzia per la Cybersicurezza Nazionale
+URL: https://www.csirt.gov.it/segnalazione
+Channel: A form on the Agency's reporting portal. Named here because it is the one channel this record has read; the others are not.
+Source: [acn-nis-faq]
+Read: 2026-09-03
 
 ### Market authority
 Role: market
@@ -797,6 +805,28 @@ Role: market
 Country: NO
 Name: Finanstilsynet
 Source: [esma-mar-nca]
+Read: 2026-09-03
+
+## Transpositions
+
+NIS2 is a Directive. The text that binds is the national act, and a Member State
+may go further than the Directive does. An entry here records the act, when it
+took effect, and the only thing that changes an ITER row: whether it moves a
+term, or moves the point a term runs from.
+
+Where a country has no entry, no national act has been read for it, and the
+rows for that country carry the Directive's own terms.
+
+Fields are `Country`, `Act`, `In force`, `Divergence`, `Source`, `Read`.
+
+### NIS2 · Italy
+Country: IT
+Act: Decreto legislativo 4 settembre 2024, n. 138
+In force: 16 October 2024
+Recipient: CSIRT Italia, under article 25 of the decree
+Divergence: The national authority describes the complete notification as due within 72 hours **of the pre-notification**, where the Directive puts it within 72 hours of becoming aware. The pre-notification is itself due within 24 hours of becoming aware. Read that way the complete notification falls at 96 hours from awareness rather than at 72, and an organisation working from the Directive alone would hold the wrong date.
+Standing: This is how the Agency describes the obligation, not the wording of the decree. Article 25 has not been read.
+Source: [acn-nis-faq]
 Read: 2026-09-03
 
 ## Detection, where it is prescribed rather than advised

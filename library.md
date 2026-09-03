@@ -203,6 +203,22 @@ Directive 2013/36/EU, and this is who that is.
 It covers credit institutions only. Payment institutions, investment firms and
 insurers are designated under other acts, and their authorities are not here.
 
+### Domande frequenti NIS: misure di sicurezza e notifica di incidenti {#acn-nis-faq}
+Agenzia per la Cybersicurezza Nazionale · Italy · read 3 September 2026
+https://www.acn.gov.it/portale/faq/nis/misure-di-sicurezza-e-notifica-di-incidenti
+Establishes: That an Italian NIS entity pre-notifies CSIRT Italia within twenty-four hours of becoming aware, and transmits the complete notification within seventy-two hours of that pre-notification.
+
+The Agency's own account of what article 25 of decree 138/2024 requires. It
+names the recipient, the two stages, and the channel, which is a form on the
+Agency's reporting portal.
+
+It matters to this record for one sentence: *«A seguito della pre-notifica,
+senza ingiustificato ritardo e comunque non oltre 72 ore, i soggetti NIS sono
+tenuti a trasmettere allo CSIRT Italia la notifica completa»*. The Directive
+measures the same seventy-two hours from awareness. Whether the decree itself
+says what the Agency says is not settled here: this is guidance, and the article
+has not been read.
+
 ## Guidance
 
 ### Guidelines 9/2022 on personal data breach notification under GDPR {#edpb-9-2022}
