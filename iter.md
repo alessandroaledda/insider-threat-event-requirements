@@ -779,6 +779,15 @@ Channel: Not set out in the document read.
 Source: [cy-dsa-nis2-guide]
 Read: 2026-09-03
 
+### csirt · Iceland
+Role: csirt
+Country: IS
+Name: The cybersecurity team, netöryggissveit, operated by the telecommunications authority
+URL: https://www.althingi.is/lagas/nuna/2019078.html
+Channel: Not set by the act. A reporting portal exists outside the sources read here.
+Source: [is-log-78-2019]
+Read: 2026-09-03
+
 ### Market authority
 Role: market
 Bears on: MAR art. 17(1), where the organisation is a listed issuer
@@ -1270,6 +1279,17 @@ Divergence: The document read states one deadline that the Directive does not. I
 Moves: unsettled
 Standing: This is the Digital Security Authority's own summary guide **to the Directive**, and the six hours appear in its timeline graphic. This record does not conclude that Cypriot law requires six hours: it records that the national authority's published guide states six where the instrument it summarises states twenty-four. The Cypriot transposing law has not been read, so no Cypriot term is recorded from it, and the recipient is given in the guide's own words rather than named.
 Source: [cy-dsa-nis2-guide]
+Read: 2026-09-03
+
+### NIS2 · Iceland
+Country: IS
+Act: Lög nr. 78/2019 um öryggi net- og upplýsingakerfa mikilvægra innviða
+In force: 1 September 2020
+Recipient: The cybersecurity team, netöryggissveit, operated by the telecommunications authority
+Divergence: There are no hours. Article 8 requires notification *«svo fljótt sem verða má»* — as soon as may be — for serious incidents or risks threatening the security of network and information systems, and sets no interval at all. There is no early warning at twenty-four hours, no notification at seventy-two, and no final report at one month. The act does not cite Directive (EU) 2022/2555 anywhere.
+Moves: yes
+Standing: Read in the consolidated act on the Althingi's site. Iceland is in the EEA and the NIS2 Directive is not what this act implements; the regime in force is the earlier one. An organisation applying the ITER cascade in Iceland is applying terms that Icelandic law does not contain.
+Source: [is-log-78-2019]
 Read: 2026-09-03
 
 ## Detection, where it is prescribed rather than advised

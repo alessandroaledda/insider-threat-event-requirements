@@ -600,6 +600,22 @@ numbers. It was read properly only after writing the passage to a file and
 opening it, which is the general lesson: a figure read through a broken
 encoding is not a figure that has been read.
 
+### Lög nr. 78/2019 um öryggi net- og upplýsingakerfa mikilvægra innviða {#is-log-78-2019}
+Alþingi · Iceland · read 2026-09-03
+https://www.althingi.is/lagas/nuna/2019078.html
+Establishes: That Iceland's regime in force sets no numeric notification deadline at all, requiring notification as soon as may be, and does not implement Directive (EU) 2022/2555.
+
+The clearest case in the record of a term that does not exist.
+
+Every other entry here argues about when a clock starts or how long it runs.
+Article 8 has no clock. It says as soon as may be, names the recipient, and
+stops.
+
+That is worth holding beside the Norwegian entry. Two EEA states, neither
+running the NIS2 cascade, and for different reasons: Norway has the older
+Directive's structure with intervals, Iceland has no intervals to begin
+with. A row that says *within 24 hours* is simply not true in either place.
+
 ## Guidance
 
 ### Guidelines 9/2022 on personal data breach notification under GDPR {#edpb-9-2022}
