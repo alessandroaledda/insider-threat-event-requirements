@@ -788,6 +788,15 @@ Channel: Not set by the act. A reporting portal exists outside the sources read 
 Source: [is-log-78-2019]
 Read: 2026-09-03
 
+### csirt · Liechtenstein
+Role: csirt
+Country: LI
+Name: The National Cyber Security Unit
+URL: https://www.regierung.li/files/attachments/2025111000-csg-en.pdf
+Channel: Not set by the act.
+Source: [li-csg]
+Read: 2026-09-03
+
 ### Market authority
 Role: market
 Bears on: MAR art. 17(1), where the organisation is a listed issuer
@@ -1290,6 +1299,17 @@ Divergence: There are no hours. Article 8 requires notification *«svo fljótt s
 Moves: yes
 Standing: Read in the consolidated act on the Althingi's site. Iceland is in the EEA and the NIS2 Directive is not what this act implements; the regime in force is the earlier one. An organisation applying the ITER cascade in Iceland is applying terms that Icelandic law does not contain.
 Source: [is-log-78-2019]
+Read: 2026-09-03
+
+### NIS2 · Liechtenstein
+Country: LI
+Act: Cyber Security Act (CSG), 355.13
+In force: The act states its own commencement: *«this Act comes into force must submit the information listed in Art.»*
+Recipient: The National Cyber Security Unit
+Divergence: None. The cascade is transposed as it stands: the early warning *«without undue delay, and in any event within 24 hours of becoming aware of the significant security incident»*, the incident notification *«within 72 hours of becoming aware»*, an intermediate report at the Unit's request, and *«a final report no later than one month after the submission of the incident notification»*.
+Moves: no
+Standing: Read in the Government's own English translation, which carries a disclaimer; the binding text is the German. Liechtenstein is the one EEA state in this record that has transposed NIS2 — Norway's regime implements the earlier Directive and Iceland's sets no interval at all.
+Source: [li-csg]
 Read: 2026-09-03
 
 ## Detection, where it is prescribed rather than advised

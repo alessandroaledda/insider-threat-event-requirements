@@ -616,6 +616,23 @@ running the NIS2 cascade, and for different reasons: Norway has the older
 Directive's structure with intervals, Iceland has no intervals to begin
 with. A row that says *within 24 hours* is simply not true in either place.
 
+### Cyber Security Act (CSG), 355.13 — official English translation {#li-csg}
+Regierung des Fürstentums Liechtenstein · Liechtenstein · read 2026-09-03
+https://www.regierung.li/files/attachments/2025111000-csg-en.pdf
+Establishes: That Liechtenstein transposes the NIS2 cascade without moving a term or an anchor, and that the recipient is the National Cyber Security Unit.
+
+The third EEA state in the record, and the only one of the three running the
+Directive's cascade.
+
+That is the point of having all three. Norway, Iceland and Liechtenstein sit
+together in every authorities table this record uses — the Board's, the
+EBA's, ESMA's — which invites the assumption that they sit together here
+too. They do not. One has the older Directive, one has no interval at all,
+and one has NIS2 in full.
+
+An English translation published by the Government, with a disclaimer. The
+German is the text that binds, and it was not read.
+
 ## Guidance
 
 ### Guidelines 9/2022 on personal data breach notification under GDPR {#edpb-9-2022}
