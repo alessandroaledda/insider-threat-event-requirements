@@ -404,6 +404,35 @@ reverse of the Spanish position, where the authority's guidance gives the
 terms and withholds the recipient for the same reason: the designation sits
 somewhere else.
 
+### Kyberturvallisuuslaki 124/2025 {#fi-kyberturvallisuuslaki-124-2025}
+Finlex, Suomen säädöskokoelma · Finland · read 2026-09-03
+https://www.finlex.fi/fi/lainsaadanto/2025/124
+Establishes: That Finland measures both the twenty-four and the seventy-two hours from detection of the significant incident rather than from awareness of it, and that the act has bound since 8 April 2025.
+
+One word, in section 11, and it is the word the whole cascade hangs from.
+
+*Havaitsemisesta* is from the detecting. The Directive's clock starts when
+the entity becomes aware. Whether those are the same moment is exactly the
+question an organisation cannot answer in the hour it matters, and Finland
+is the country where it has to be asked, because the act does not use the
+Directive's word anywhere.
+
+Finlex serves the act through a script, so it was rendered in a browser
+rather than fetched. The text read is the consolidated one.
+
+### Sejm uchwalił nowelizację ustawy o Krajowym Systemie Cyberbezpieczeństwa {#pl-mc-ksc-nowelizacja}
+Ministerstwo Cyfryzacji · Poland · read 2026-09-03
+https://www.gov.pl/web/cyfryzacja/sejm-uchwalil-nowelizacje-ustawy-o-krajowym-systemie-cyberbezpieczenstwa
+Establishes: That Poland's NIS2 amendment had been passed by the Sejm when this was read, that incident reports are to reach the CSIRT teams through the S46 system, and that the announcement gives no date of entry into force and no deadlines.
+
+Recorded for what it withholds, like the Spanish and Irish entries, and
+withholding something different from either.
+
+Spain has terms and no recipient. Ireland has a named authority and no act.
+Poland has an act through one chamber, a named channel, and neither a date
+nor a deadline. Three countries, three different pieces missing, and in each
+case the missing piece is the one an organisation would have assumed.
+
 ## Guidance
 
 ### Guidelines 9/2022 on personal data breach notification under GDPR {#edpb-9-2022}

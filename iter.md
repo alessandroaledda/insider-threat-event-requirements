@@ -680,6 +680,15 @@ Channel: Not set by the act.
 Source: [se-cybersakerhetslag-2025]
 Read: 2026-09-03
 
+### csirt · Finland
+Role: csirt
+Country: FI
+Name: The supervising authority, which is sectoral under § 43. Traficom's Kyberturvallisuuskeskus is the single point of contact under § 18.
+URL: https://www.finlex.fi/fi/lainsaadanto/2025/124
+Channel: Not set by the act.
+Source: [fi-kyberturvallisuuslaki-124-2025]
+Read: 2026-09-03
+
 ### Market authority
 Role: market
 Bears on: MAR art. 17(1), where the organisation is a listed issuer
@@ -1039,6 +1048,28 @@ Divergence: None in the terms. Section 5 owes the first notice *«så snart det 
 Moves: no
 Standing: Read in the act as published in Svensk författningssamling. Because the act designates the recipient by reference rather than by name, this record does not name one for Sweden either. The act also repeals the 2018 act on information security for essential and digital services.
 Source: [se-cybersakerhetslag-2025]
+Read: 2026-09-03
+
+### NIS2 · Finland
+Country: FI
+Act: Kyberturvallisuuslaki 124/2025
+In force: 8 April 2025, by § 47. Given 4 April 2025, published 7 April 2025.
+Recipient: The supervising authority, which is sectoral under § 43. Traficom's Kyberturvallisuuskeskus is the single point of contact under § 18.
+Divergence: The anchor is detection, not awareness. Section 11 reads *«Ensi-ilmoitus on tehtävä 24 tunnin kuluessa merkittävän poikkeaman havaitsemisesta ja jatkoilmoitus 72 tunnin kuluessa merkittävän poikkeaman havaitsemisesta»* — both stages run from *havaitseminen*, the detecting of the significant incident, where the Directive runs them from having become aware of it. The phrase for coming to know, *tuli tietoon*, does not appear in the act at all. The final report keeps the Directive's shape: within a month of the follow-up report, or for a long-running incident within a month of the end of its handling, with an interim report at the latest a month after the follow-up.
+Moves: yes
+Standing: Read in the act as published by Finlex, which serves it through a script and had to be rendered rather than fetched. Whether *havaitseminen* is read in Finnish administrative practice as earlier than awareness is not settled here. What is settled is that the act does not use the Directive's word.
+Source: [fi-kyberturvallisuuslaki-124-2025]
+Read: 2026-09-03
+
+### NIS2 · Poland
+Country: PL
+Act: An amendment to the ustawa o krajowym systemie cyberbezpieczeństwa, passed by the Sejm and reported by the Ministry on 23 January 2026.
+In force: not stated in the source read
+Recipient: not recorded, see Divergence
+Divergence: Not established. The Ministry's own announcement does not give a date of entry into force, and does not give the notification deadlines. What it does say is where the reports will go: *«Usprawnione zostanie też zgłaszanie incydentów – informacje będą przekazywane bezpośrednio do zespołów CSIRT przez system S46.»* It also says administrative fines may first be imposed two years after the act enters into force, which is the only interval the page gives.
+Moves: unsettled
+Standing: A ministerial announcement about a bill the Sejm has passed, which is not the same as an act in force. This record therefore names no Polish recipient and no Polish terms. Poland's existing national system rests on the earlier act, which has not been read here.
+Source: [pl-mc-ksc-nowelizacja]
 Read: 2026-09-03
 
 ## Detection, where it is prescribed rather than advised
