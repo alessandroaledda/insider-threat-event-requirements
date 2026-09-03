@@ -528,6 +528,20 @@ Nothing else in article 30 departs from it.
 Worth being exact about the size of the finding. This is not a longer or a
 shorter deadline. It is the same twenty-four hours, beginning earlier.
 
+### Cybersécurité : l'ILR présente la nouvelle loi NIS 2 {#lu-communique-nis2}
+Le gouvernement luxembourgeois · Luxembourg · read 2026-09-03
+https://gouvernement.lu/fr/actualites/toutes_actualites/communiques/2026/07-juillet/06-cybersecurite-nis-2.html
+Establishes: That Luxembourg's NIS2 law is the law of 5 May 2026, that the Institut Luxembourgeois de Régulation receives incident notifications, and that the preliminary notification is due within twenty-four hours.
+
+An official announcement rather than the act, and recorded for exactly what
+it gives: the law's date, the recipient, and one interval.
+
+It is worth being plain about the limit. Of the four things an ITER row
+needs — the recipient, the term, what the term runs from, and what follows —
+this source supplies two. The other two are not in this record for
+Luxembourg, and the row says so rather than borrowing them from the
+Directive.
+
 ## Guidance
 
 ### Guidelines 9/2022 on personal data breach notification under GDPR {#edpb-9-2022}

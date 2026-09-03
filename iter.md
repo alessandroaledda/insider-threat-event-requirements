@@ -743,6 +743,15 @@ Channel: Not set by the act.
 Source: [si-zinfv-1]
 Read: 2026-09-03
 
+### csirt · Luxembourg
+Role: csirt
+Country: LU
+Name: The Institut Luxembourgeois de Régulation, which organises the regime and receives the notifications
+URL: https://gouvernement.lu/fr/actualites/toutes_actualites/communiques/2026/07-juillet/06-cybersecurite-nis-2.html
+Channel: Not established. The government's communiqué names a self-registration form and does not name the channel for incident notifications.
+Source: [lu-communique-nis2]
+Read: 2026-09-03
+
 ### Market authority
 Role: market
 Bears on: MAR art. 17(1), where the organisation is a listed issuer
@@ -1190,6 +1199,17 @@ Divergence: The anchor is detection. Article 30(1) owes the early message *«naj
 Moves: yes
 Standing: Read in the act as published in the Uradni list. Article 30(3) also puts a deadline on the authority — the CSIRT answers within twenty-four hours of the early message where possible — which Denmark and Estonia do too.
 Source: [si-zinfv-1]
+Read: 2026-09-03
+
+### NIS2 · Luxembourg
+Country: LU
+Act: Loi du 5 mai 2026 concernant des mesures destinées à assurer un niveau élevé de cybersécurité
+In force: not stated in the source read
+Recipient: The Institut Luxembourgeois de Régulation, which organises the regime and receives the notifications
+Divergence: Nothing recorded moves a term, and only one term is recorded. The government's own announcement gives the first stage — *«tout incident ayant un impact important dans un délai de 24 heures»* as a preliminary notification — and stops there. It does not say what the twenty-four hours run from, and it does not give the stages after the first.
+Moves: no
+Standing: A government communiqué about the law, not the law. This record therefore holds one interval for Luxembourg and neither the anchor nor the rest of the cascade. The same position as France, and recorded the same way.
+Source: [lu-communique-nis2]
 Read: 2026-09-03
 
 ## Detection, where it is prescribed rather than advised
