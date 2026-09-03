@@ -670,6 +670,24 @@ lesson is the same as the Cypriot one and worth stating once: a search that
 returns nothing is a claim about the search before it is a claim about the
 law.
 
+### Νόμος 5160/2024 — ενσωμάτωση της Οδηγίας (ΕΕ) 2022/2555 {#gr-nomos-5160-2024}
+Εφημερίδα της Κυβερνήσεως, ΦΕΚ Α΄ 195 · Greece · read 2026-09-03
+http://publications.europa.eu/resource/celex/72022L2555GRC_202405334
+Establishes: That Greece transposes the cascade without moving a term or an anchor, and that the notifications are owed to the National Cybersecurity Authority rather than to a CSIRT.
+
+Reached last, and only by a fourth route.
+
+The Ministry's page, the Authority's site and the Government Gazette's own
+download endpoint each refused every request — the tool, curl with a browser
+user agent, and a headless browser alike. EUR-Lex refused too. The text came
+from CELLAR, the Publications Office's own archive, which serves the national
+transposing measure as a PDF and does not apply the same filter.
+
+Then it was nearly missed a second time. Searching the PDF for *24 ώρες*
+returned nothing, because the law spells the numbers out: *είκοσι τεσσάρων
+(24) ωρών*. That is the third time in this record that a search returned
+nothing for a reason that had nothing to do with the law.
+
 ## Guidance
 
 ### Guidelines 9/2022 on personal data breach notification under GDPR {#edpb-9-2022}

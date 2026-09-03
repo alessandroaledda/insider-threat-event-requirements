@@ -815,6 +815,15 @@ Channel: Not set by the act.
 Source: [bg-zakon-za-kibersigurnost]
 Read: 2026-09-03
 
+### csirt · Greece
+Role: csirt
+Country: GR
+Name: The Εθνική Αρχή Κυβερνοασφάλειας, the National Cybersecurity Authority, to which paragraph 4 owes the submissions
+URL: http://publications.europa.eu/resource/celex/72022L2555GRC_202405334
+Channel: Not set by the law.
+Source: [gr-nomos-5160-2024]
+Read: 2026-09-03
+
 ### Market authority
 Role: market
 Bears on: MAR art. 17(1), where the organisation is a listed issuer
@@ -1350,6 +1359,17 @@ Divergence: The anchor is establishment, not awareness. Both stages run *«сл�
 Moves: yes
 Standing: Read in the consolidated act on Lex.bg, in the version carrying the 2026 amendments that transpose the Directive. The act also puts a duty on the recipient: after the early warning, СЕРИКС returns a response with initial information and, on request, guidance. Bulgaria is the fourth country in this record to replace awareness with a word of its own — *установяване*, alongside Slovakia's *zistenie*, Finland's *havaitseminen* and Slovenia's *zaznava*.
 Source: [bg-zakon-za-kibersigurnost]
+Read: 2026-09-03
+
+### NIS2 · Greece
+Country: GR
+Act: Νόμος 5160/2024, ΦΕΚ Α΄ 195 of 27 November 2024
+In force: not established in the text read
+Recipient: The Εθνική Αρχή Κυβερνοασφάλειας, the National Cybersecurity Authority, to which paragraph 4 owes the submissions
+Divergence: None. The cascade is the Directive's, and the numbers are spelled out: a warning *«εντός είκοσι τεσσάρων (24) ωρών από τη στιγμή που αντιλήφθηκαν το σημαντικό περιστατικό»*, the incident notification *«εντός εβδομήντα δύο (72) ωρών»* on the same anchor, an interim report at the Authority's request, and *«τελική έκθεση το αργότερο εντός ενός (1) μηνός μετά από την υποβολή της κοινοποίησης περιστατικού»*. Where the incident is still running at that point, a progress report then and a final report within one month of the entity's handling of it. Trust service providers have their own derogation.
+Moves: no
+Standing: Read in the law as published in the Government Gazette. One thing is national rather than the Directive's default: the submissions are owed to the National Cybersecurity Authority itself, not to a CSIRT. This entry also settles something about the Cypriot one — the six hours in the Cypriot authority's guide are not a Greek-language convention. Greece, writing in the same language, says twenty-four.
+Source: [gr-nomos-5160-2024]
 Read: 2026-09-03
 
 ## Detection, where it is prescribed rather than advised
