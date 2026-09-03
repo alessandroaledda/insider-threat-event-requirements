@@ -512,6 +512,22 @@ moment with a different one, and none of the three is the same word.
 It also names its channel in the act, which most do not: reports go through
 the single cybersecurity information system.
 
+### Zakon o informacijski varnosti (ZInfV-1) {#si-zinfv-1}
+Uradni list Republike Slovenije, št. 40/25 · Slovenia · read 2026-09-03
+https://www.uradni-list.si/glasilo-uradni-list-rs/vsebina/2025-01-1571
+Establishes: That Slovenia measures both the twenty-four and the seventy-two hours from the detection of the significant incident rather than from awareness of it, and keeps every other term of the Directive's cascade.
+
+The fourth country in this record to move the anchor, and the second to move
+it to detection.
+
+*Zaznava* is the perceiving or detecting. Finland's *havaitseminen* and
+Slovakia's *zistenie* say something close, and Slovenia's article 30 makes
+three Member States that start the clock where the Directive does not.
+Nothing else in article 30 departs from it.
+
+Worth being exact about the size of the finding. This is not a longer or a
+shorter deadline. It is the same twenty-four hours, beginning earlier.
+
 ## Guidance
 
 ### Guidelines 9/2022 on personal data breach notification under GDPR {#edpb-9-2022}

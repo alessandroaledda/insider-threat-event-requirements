@@ -734,6 +734,15 @@ Channel: The jednotný informačný systém kybernetickej bezpečnosti, named in
 Source: [sk-zakon-366-2024]
 Read: 2026-09-03
 
+### csirt · Slovenia
+Role: csirt
+Country: SI
+Name: The competent CSIRT group, under article 30(1)
+URL: https://www.uradni-list.si/glasilo-uradni-list-rs/vsebina/2025-01-1571
+Channel: Not set by the act.
+Source: [si-zinfv-1]
+Read: 2026-09-03
+
 ### Market authority
 Role: market
 Bears on: MAR art. 17(1), where the organisation is a listed issuer
@@ -1170,6 +1179,17 @@ Divergence: The anchor is detection. Both stages run *«od jeho zistenia»* — 
 Moves: yes
 Standing: Read in the amending act as published by Slov-Lex, in the version in force from 1 January 2025. Slovakia is the third country in this record to replace awareness with a word of its own, after Finland's *havaitseminen* and Czechia's internal classification.
 Source: [sk-zakon-366-2024]
+Read: 2026-09-03
+
+### NIS2 · Slovenia
+Country: SI
+Act: Zakon o informacijski varnosti, ZInfV-1, Uradni list RS št. 40/25
+In force: Article 70 puts it on the fifteenth day after publication in the Uradni list. Passed by the Državni zbor on 23 May 2025.
+Recipient: The competent CSIRT group, under article 30(1)
+Divergence: The anchor is detection. Article 30(1) owes the early message *«najpozneje pa v 24 urah po zaznavi pomembnega incidenta»* and the incident notification *«najpozneje pa v 72 urah po zaznavi pomembnega incidenta»* — after the *detection* of the significant incident, where the Directive measures from becoming aware. Trust service providers report within twenty-four hours on the same footing. Everything after the anchor is the Directive's: an interim report on request, the final report within one month of the incident notification, and where the incident is still running, a progress report and the final report within one month of its resolution.
+Moves: yes
+Standing: Read in the act as published in the Uradni list. Article 30(3) also puts a deadline on the authority — the CSIRT answers within twenty-four hours of the early message where possible — which Denmark and Estonia do too.
+Source: [si-zinfv-1]
 Read: 2026-09-03
 
 ## Detection, where it is prescribed rather than advised
