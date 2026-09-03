@@ -85,6 +85,45 @@ facts are established by different means: a disclosure is traced to where the
 data went, a consultation is established by reading why it was made, and no
 instrument sets a term for that.
 
+## The stages of knowing
+
+Every term in this record runs from a moment, and the instruments do not agree
+on which moment. Reading them one at a time makes each difference look like a
+national quirk. Set side by side they fall on one scale, and the scale is short.
+
+- **Occurrence.** The event happens. No instrument in this record starts a term
+  here, and none could: the organisation does not know.
+- **Detection.** Something is noticed — an alert, a log line, a report from a
+  colleague. Nobody has yet decided what it is.
+- **Awareness.** The organisation is taken to know that a significant incident
+  has occurred. This is the Directive's own point, and the Board reads it as a
+  reasonable degree of certainty rather than proof.
+- **Determination.** Someone inside decides the event qualifies. A named officer
+  classifies it, or the entity concludes that a significant incident exists.
+
+The Directive attaches at awareness. Of the twenty-nine transpositions read,
+**four attach earlier, at detection, and two attach later, at determination.**
+
+The two directions are not symmetrical, and this is the finding.
+
+A clock that starts at detection starts before anyone has decided anything. It
+is harsh, and it is verifiable from records the organisation did not write for
+the purpose: the alert has a timestamp.
+
+A clock that starts at determination starts when the organisation says it
+starts. It is comfortable, and it is the one that cannot be checked from
+outside. It is also the one a supervisory authority will ask about, because the
+gap between detection and determination is exactly where an unbounded triage
+hides — and the Board has already said that where that period is left open and a
+breach did occur, the delay can be treated as a failure to notify.
+
+An organisation that has not fixed which of these four it means has not fixed
+the term either, whatever the term says.
+
+`Stage` is assigned by this record and not by the instruments. Each assignment
+is a reading of the wording quoted in the row it sits on, and can be argued with
+against that wording.
+
 ## The moment every term runs from
 
 ### Declared awareness
@@ -1092,6 +1131,7 @@ In force: 16 October 2024
 Recipient: CSIRT Italia, under article 25 of the decree
 Divergence: The national authority describes the complete notification as due within 72 hours **of the pre-notification**, where the Directive puts it within 72 hours of becoming aware. The pre-notification is itself due within 24 hours of becoming aware. Read that way the complete notification falls at 96 hours from awareness rather than at 72, and an organisation working from the Directive alone would hold the wrong date.
 Moves: yes
+Stage: awareness
 Standing: This is how the Agency describes the obligation, not the wording of the decree. Article 25 has not been read.
 Source: [acn-nis-faq]
 Read: 2026-09-03
@@ -1103,6 +1143,7 @@ In force: 2025. The date has not been read.
 Recipient: Bundesamt für Sicherheit in der Informationstechnik, which is the competent authority, the CSIRT and the single point of contact at once
 Divergence: None found on the anchor. The early initial report is due within 24 hours **nach Kenntniserlangung**, and the detailed report within 72 hours on the same footing, so both run from becoming aware as the Directive has them. This is the opposite of the Italian reading, where the 72 hours run from the pre-notification.
 Moves: no
+Stage: awareness
 Standing: This is the BSI's own account of the duty. The BSIG article has not been read.
 Source: [bsi-nis2-meldepflicht]
 Read: 2026-09-03
@@ -1114,6 +1155,7 @@ In force: not read
 Recipient: The competent national authority, which is the Agence nationale de la sécurité des systèmes d'information
 Divergence: None found on the first stage. The declaration is due *«sans retard injustifié ou dans les 24 heures après avoir eu connaissance de l'incident important»*, which is the Directive's own anchor. The later stages are not stated on the page read, so nothing is recorded about them.
 Moves: no
+Stage: awareness
 Standing: This is the Agency's operational guidance for regulated entities, not the transposing act. Whether the recipient is the Agency as competent authority or a separately designated CSIRT is not settled here.
 Source: [anssi-nis2-declaration]
 Read: 2026-09-03
@@ -1125,6 +1167,7 @@ In force: 15 August 2026
 Recipient: The sectoral CSIRT and the supervisory authority, both reached by one report
 Divergence: None found. The three stages are the Directive's own — *«Vroegtijdige waarschuwing binnen 24 uur»*, *«Melding binnen 72 uur»*, *«Eindverslag binnen 1 maand na je melding»* — and the page states the anchor plainly: *«De termijnen tellen vanaf het moment dat je kennis krijgt van het incident»*.
 Moves: no
+Stage: awareness
 Standing: This is the NCSC's guidance on the act, not the act. What it adds to the Directive is the channel and the fact that one report discharges the duty to two bodies.
 Source: [ncsc-nl-meldplicht]
 Read: 2026-09-03
@@ -1136,6 +1179,7 @@ In force: not settled
 Recipient: not recorded, see Divergence
 Divergence: None found in the terms. The FAQ gives the Directive's three stages — *«una alerta temprana en las primeras 24 h»*, *«antes de 72 h ... una notificación del incidente»*, *«informe final, a más tardar un mes después de presentar la notificación del incidente»* — all *«desde el conocimiento del mismo»*. The divergence is elsewhere: the page does not say who receives them. *«Tanto los CSIRT de referencia y las autoridades competentes como el punto de contacto único se conocerán con la trasposición de la norma a la legislación española.»*
 Moves: unsettled
+Stage: not established
 Standing: An organisation in Spain therefore holds the terms and not the recipient, and with no recipient there is no channel either. The national institute runs a services portal through which collaborating companies notify incidents, which is a different arrangement from the statutory duty and is not recorded as discharging it. This record leaves the Spanish recipient unwritten rather than naming a body the source does not name.
 Source: [incibe-faq-nis2]
 Read: 2026-09-03
@@ -1147,6 +1191,7 @@ In force: not stated on the page read
 Recipient: The NIS-Behörde, within the Bundesministerium für Inneres
 Divergence: None found. The three stages are the Directive's: a *«24-Stunden-Zeitfenster»* for the early warning, *«binnen 72 Stunden»* for the assessment, and the final report *«ein Monat nach der Meldung»*.
 Moves: no
+Stage: awareness
 Standing: The page names the NIS-Behörde as the authority and does not name a CSIRT, so this record does not name one either. Whether a designated team receives the report alongside the authority is not settled here.
 Source: [nisg-at-faq]
 Read: 2026-09-03
@@ -1158,6 +1203,7 @@ In force: No date exists, because there is no act to commence.
 Recipient: The National Cyber Security Centre, Ireland's national cyber security authority and national CSIRT
 Divergence: The whole of it. On the date below the authority's own page states that *«the NIS2 directive has not yet been transposed into Irish law»* and that *«the transposition deadline of 17th October 2024 was not met»*. It adds that *«there is currently no requirement for entities to register under NIS2, until such time as the legislation is enacted»*, and that guidance on reporting will follow.
 Moves: none
+Stage: no term
 Standing: The recipient is named because the page names it: the Centre holds the lead competent authority role and is the national CSIRT. The duty to report to it under NIS2 does not yet arise in Irish law. An ITER row that rests on NIS2 alone has, in Ireland, no national instrument under it.
 Source: [ncsc-ie-nis2-faq]
 Read: 2026-09-03
@@ -1169,6 +1215,7 @@ In force: Article 11 sets it at 120 days after publication. Published 4 December
 Recipient: The competent cybersecurity authority, which article 2 defines as the Centro Nacional de Cibersegurança or, where one applies, the sectoral national authority under article 15(2)(a)
 Divergence: Substantial, and in four places. **The anchor is not awareness.** Article 42(1) starts the twenty-four hours when the entity *«concluir que existe, ou possa vir a existir, um incidente significativo»* and runs them *«até 24 horas após essa verificação»* — from that determination, and reaching forward to an incident that may yet come to exist. **The seventy-two hour stage is conditional and is an update.** Article 42(3) owes it *«quando necessário»*, as *«uma atualização da notificação inicial»*, where the Directive's second stage is owed in every case. **There is a stage the Directive does not have.** Article 43 requires a notification of the *end* of significant impact, within twenty-four hours of that end. **The final report is measured differently and in a different unit.** Article 44(1) gives *«30 dias úteis a contar da data da notificação do fim de impacto significativo»* — thirty working days from that new stage, where the Directive gives one month from the incident notification.
 Moves: yes
+Stage: determination
 Standing: Read in the act itself, in the Diário da República, and not in guidance, which is why it is stated this firmly. One consequence worth holding: article 41(2) provides that where the incident is resolved within two hours of detection, only the end-of-impact notification is owed. An organisation working from the Directive alone would hold the wrong anchor, the wrong final deadline, and would not know the third stage exists.
 Source: [pt-dl-125-2025]
 Read: 2026-09-03
@@ -1180,6 +1227,7 @@ In force: 18 October 2024, by article 98
 Recipient: The national CSIRT, which article 1, 46° defines functionally as the national computer security incident response centre without naming the body
 Divergence: None. Article 35 §1 transposes the cascade term for term and anchor for anchor: the early warning *«dans les vingt-quatre heures après avoir eu connaissance de l'incident significatif»*, the incident notification *«dans les septante-deux heures»* on the same footing, and the final report *«au plus tard un mois après la présentation de la notification d'incident»*. Trust service providers get twenty-four hours for the second stage under §2. Where an incident is still running when the final report falls due, §1, 5° gives a progress report then and the final report within one month of the incident's definitive handling.
 Moves: no
+Stage: awareness
 Standing: Read in the act, in the Justel database of the Moniteur belge, and not in guidance. One thing the act does not settle: it defines the national CSIRT by what it does rather than by name, so this record does not name it either. Article 34 §1 adds that the CSIRT passes each notification to any sectoral authority immediately, and that notifications from essential entities also go to the NCCN.
 Source: [be-loi-26-04-2024]
 Read: 2026-09-03
@@ -1191,6 +1239,7 @@ In force: not stated in the material read
 Recipient: Národní úřad pro kybernetickou a informační bezpečnost
 Divergence: In three places, and one of them changes who decides. **The anchor is an internal determination.** The initial report is due *«bez zbytečného odkladu, nejpozději do 24 hodin»*, and the guidance says plainly what starts it: *«tato lhůta se počítá od okamžiku, kdy u konkrétního subjektu osoba k tomu pověřená (například manažer kybernetické bezpečnosti) vyhodnotí zjištěnou událost jako kybernetický bezpečnostní incident»* — from the moment a designated person inside the organisation classifies the event, not from the organisation becoming aware of a significant incident. **The authority decides significance, not the entity.** After the initial report the Úřad tells the provider whether the incident has significant impact; where it does not, the guidance says the reporting ends there. The Directive leaves that assessment with the entity. **The final report is measured from resolution.** *«Po jeho vyřešení nejpozději do 30 dnů závěrečnou zprávu»* — thirty days from the incident being resolved, where the Directive gives one month from the incident notification, with an interim report in the meantime if the incident is still running.
 Moves: yes
+Stage: determination
 Standing: This is the Úřad's own supporting material on the ZKB and its implementing decrees, not the act. Two things it does not contain: any seventy-two hour stage, and the date from which the act binds. Neither is recorded here as a result. It also states a threshold of its own — the duty reaches incidents where intentional causation cannot be excluded without undue delay and within twenty-four hours, so operational incidents that can be ruled out are not reportable.
 Source: [nukib-hlaseni-incidentu]
 Read: 2026-09-03
@@ -1202,6 +1251,7 @@ In force: 1 July 2025, by § 33
 Recipient: The relevant authority and the CSIRT, both of them, under § 12(1)
 Divergence: None. Paragraph 13 keeps every term and every anchor: the early warning *«senest inden for 24 timer efter at enheden har fået kendskab til den væsentlige hændelse»*, the incident notification *«inden for 72 timer»* on the same footing, an interim report on the CSIRT's request, and the final report *«senest 1 måned efter fremsendelsen af den hændelsesunderretning»*. Trust service providers give the second stage within twenty-four hours. Where the incident is still running when the final report falls due, a status report goes then and the final report within one month of the incident being handled.
 Moves: no
+Stage: awareness
 Standing: Read in the act as published by Retsinformation. Two things it settles that the Directive leaves to the Member State: the report is owed to the competent authority **and** the CSIRT, not to one of them, and § 13(3) obliges the CSIRT to answer within twenty-four hours of the early warning. The act does not name the channel.
 Source: [dk-lov-434-2025]
 Read: 2026-09-03
@@ -1213,6 +1263,7 @@ In force: 15 January 2026, by the transitional provisions
 Recipient: The authority the Government designates, which the act itself does not name
 Divergence: None in the terms. Section 5 owes the first notice *«så snart det kan ske, dock senast 24 timmar efter det att verksamhetsutövaren har fått kännedom om incidenten»*; section 6 gives trust service providers twenty-four hours and everyone else *«senast 72 timmar efter sådan kännedom»*; section 8 puts the final report *«senast en månad efter incidentanmälan»*, with a situation report instead where the incident is still running. What the act does not do is name the recipient: sections 5 and 6 owe the report to *«den myndighet som regeringen bestämmer»*.
 Moves: no
+Stage: awareness
 Standing: Read in the act as published in Svensk författningssamling. The act designates the recipient by reference rather than by name; the designation is answered outside the act, by the National Cybersecurity Centre that receives the reports. The act also repeals the 2018 act on information security for essential and digital services.
 Source: [se-cybersakerhetslag-2025]
 Read: 2026-09-03
@@ -1224,6 +1275,7 @@ In force: 8 April 2025, by § 47. Given 4 April 2025, published 7 April 2025.
 Recipient: The supervising authority, which is sectoral under § 43. Traficom's Kyberturvallisuuskeskus is the single point of contact under § 18.
 Divergence: The anchor is detection, not awareness. Section 11 reads *«Ensi-ilmoitus on tehtävä 24 tunnin kuluessa merkittävän poikkeaman havaitsemisesta ja jatkoilmoitus 72 tunnin kuluessa merkittävän poikkeaman havaitsemisesta»* — both stages run from *havaitseminen*, the detecting of the significant incident, where the Directive runs them from having become aware of it. The phrase for coming to know, *tuli tietoon*, does not appear in the act at all. The final report keeps the Directive's shape: within a month of the follow-up report, or for a long-running incident within a month of the end of its handling, with an interim report at the latest a month after the follow-up.
 Moves: yes
+Stage: detection
 Standing: Read in the act as published by Finlex, which serves it through a script and had to be rendered rather than fetched. Whether *havaitseminen* is read in Finnish administrative practice as earlier than awareness is not settled here. What is settled is that the act does not use the Directive's word.
 Source: [fi-kyberturvallisuuslaki-124-2025]
 Read: 2026-09-03
@@ -1235,6 +1287,7 @@ In force: not stated in the source read
 Recipient: not recorded, see Divergence
 Divergence: Not established. The Ministry's own announcement does not give a date of entry into force, and does not give the notification deadlines. What it does say is where the reports will go: *«Usprawnione zostanie też zgłaszanie incydentów – informacje będą przekazywane bezpośrednio do zespołów CSIRT przez system S46.»* It also says administrative fines may first be imposed two years after the act enters into force, which is the only interval the page gives.
 Moves: unsettled
+Stage: not established
 Standing: A ministerial announcement about a bill the Sejm has passed, which is not the same as an act in force. The channel exists already, under the system now in force: reports go through System S46, whose instructions the Ministry publishes at gov.pl/web/system-s46/zgloszenie-incydentu. Access is granted rather than open — an account is activated from a link the S46 team sends — so it is a prerequisite and not a step. This record therefore names no Polish recipient and no Polish terms. Poland's existing national system rests on the earlier act, which has not been read here.
 Source: [pl-mc-ksc-nowelizacja]
 Read: 2026-09-03
@@ -1246,6 +1299,7 @@ In force: Published in Monitorul Oficial on 31 December 2024. Articles 60 and 61
 Recipient: The national cyber security incident response team
 Divergence: None. The cascade is the Directive's, anchor included: the early warning *«nu mai târziu de 24 de ore de la data la care au luat cunoștință de incidentul semnificativ»*, the incident report *«nu mai târziu de 72 de ore din momentul în care au luat cunoștință»*, an interim report at the team's request, and the final report *«în termen de cel mult o lună de la transmiterea notificării incidentului»*.
 Moves: no
+Stage: awareness
 Standing: Read in the ordinance on the legislative portal. It names the recipient by function — the national incident response team — rather than by name, and does not set the channel.
 Source: [ro-oug-155-2024]
 Read: 2026-09-03
@@ -1257,6 +1311,7 @@ In force: The Act takes effect on the eighth day after publication, by article 1
 Recipient: The competent CSIRT, under article 37 of the Act
 Divergence: In three ways, and the first one is where to look. **The Act sets no deadline at all.** Article 37 states the duty to notify the competent CSIRT and the threshold, and stops. Every term is in the Uredba. **There the anchors hold**: the early warning within *«24 sata od trenutka saznanja za značajan incident»* and the initial notification within *«72 sata»* on the same footing, with trust service providers at twenty-four hours. **The final report is thirty days, not one month.** Article 70 of the Uredba gives *«najkasnije u roku od 30 dana od dana dostave početne obavijesti»*. **The interim report has a window the Directive does not set**: article 69 lets the CSIRT fix the deadline, but *«ne može biti kraći od 48 sati niti duži od sedam dana»*.
 Moves: yes
+Stage: awareness
 Standing: Both instruments were read: the Act, and the Uredba o kibernetičkoj sigurnosti, NN 135/2024, which is where the cascade actually is. The point worth carrying is structural rather than numerical: an organisation that reads the Croatian act and stops has the duty, the recipient and the threshold, and not one hour of the cascade. The thirty days are a real difference from a month, in the months that are longer.
 Source: [hr-zks-uredba]
 Read: 2026-09-03
@@ -1268,6 +1323,7 @@ In force: 1 September 2024, by article 64. Adopted by the Saeima on 20 June 2024
 Recipient: The competent cyber incident prevention institution, which article 34 names by function
 Divergence: The hours are the Directive's. The point they run from is not stated. Article 34(2) reads *«Nozīmīga kiberincidenta gadījumā subjekts nekavējoties, bet ne vēlāk kā 24 stundu laikā ... iesniedz ... agrīno brīdinājumu»*, and 34(3) puts the initial report at seventy-two hours, twenty-four for a trust service provider, in the same construction. Neither names an anchor. The nearest thing to one is 34(1), which speaks of *«Konstatējot kiberincidentu»* — on establishing a cyber incident. The final report keeps the Directive's measure: *«mēneša laikā pēc šā panta trešajā daļā minētā ziņojuma iesniegšanas»*, one month after the initial report, with a progress report where the incident cannot be resolved in time and the final report after it is.
 Moves: yes
+Stage: unstated
 Standing: Read in the act on Likumi.lv, in the version in force. An organisation in Latvia holds the intervals and has to supply the starting point from somewhere else. Whether *konstatējot* in 34(1) carries into 34(2) is a question of Latvian construction that this record does not answer.
 Source: [lv-nacionalas-kiberdrosibas-likums]
 Read: 2026-09-03
@@ -1279,6 +1335,7 @@ In force: The act dates from 2018. The provisions read here are those in force f
 Recipient: Riigi Infosüsteemi Amet, the State Information System Authority
 Divergence: Not in the terms. Section 8(1) owes the first notice *«viivitamata, kuid hiljemalt 24 tundi pärast teada saamist küberintsidendist»*, section 8(4¹) the incident notice *«hiljemalt 72 tundi pärast olulise mõjuga küberintsidendist teada saamist»*, section 8(4²) twenty-four hours for a trust service provider, and section 8(7) the final report one month from the incident notice. All of it runs from learning of the incident, as the Directive has it. What is wider is the trigger: section 8(1) reaches not only an incident with significant impact but one *«mille oluline mõju ... ei ole ilmne, kuid seda võib»* — where the significant impact is not evident but may arise.
 Moves: no
+Stage: awareness
 Standing: Read in the consolidated act on Riigi Teataja, which serves it through a script and had to be rendered. Section 12(3¹) puts a deadline on the authority as Denmark's does: the Amet answers within twenty-four hours where possible. The act does not set the channel.
 Source: [ee-kuberturvalisuse-seadus]
 Read: 2026-09-03
@@ -1290,6 +1347,7 @@ In force: 1 January 2025, by article VII
 Recipient: The Národný bezpečnostný úrad, through the single cybersecurity information system
 Divergence: The anchor is detection. Both stages run *«od jeho zistenia»* — from the ascertaining of the significant incident: the early warning *«najneskôr do 24 hodín od jeho zistenia»*, the notification *«najneskôr do 72 hodín od jeho zistenia»*, twenty-four hours for a trust service provider. The Directive runs both from becoming aware. The final report keeps the month: *«najneskôr jeden mesiac po nahlásení oznámenia»*. What follows it does not: where a cross-border incident is still running, letter (e) requires an updated final report within **thirty days** of normal operation being restored, and where the incident is still running when the final report is due, further information and an updated final report within thirty days of its resolution.
 Moves: yes
+Stage: detection
 Standing: Read in the amending act as published by Slov-Lex, in the version in force from 1 January 2025. Slovakia is the third country in this record to replace awareness with a word of its own, after Finland's *havaitseminen* and Czechia's internal classification.
 Source: [sk-zakon-366-2024]
 Read: 2026-09-03
@@ -1301,6 +1359,7 @@ In force: Article 70 puts it on the fifteenth day after publication in the Uradn
 Recipient: The competent CSIRT group, under article 30(1)
 Divergence: The anchor is detection. Article 30(1) owes the early message *«najpozneje pa v 24 urah po zaznavi pomembnega incidenta»* and the incident notification *«najpozneje pa v 72 urah po zaznavi pomembnega incidenta»* — after the *detection* of the significant incident, where the Directive measures from becoming aware. Trust service providers report within twenty-four hours on the same footing. Everything after the anchor is the Directive's: an interim report on request, the final report within one month of the incident notification, and where the incident is still running, a progress report and the final report within one month of its resolution.
 Moves: yes
+Stage: detection
 Standing: Read in the act as published in the Uradni list. Article 30(3) also puts a deadline on the authority — the CSIRT answers within twenty-four hours of the early message where possible — which Denmark and Estonia do too.
 Source: [si-zinfv-1]
 Read: 2026-09-03
@@ -1312,6 +1371,7 @@ In force: not stated in the source read
 Recipient: The Institut Luxembourgeois de Régulation, which organises the regime and receives the notifications
 Divergence: Nothing recorded moves a term, and only one term is recorded. The government's own announcement gives the first stage — *«tout incident ayant un impact important dans un délai de 24 heures»* as a preliminary notification — and stops there. It does not say what the twenty-four hours run from, and it does not give the stages after the first.
 Moves: no
+Stage: awareness
 Standing: A government communiqué about the law, not the law. This record therefore holds one interval for Luxembourg and neither the anchor nor the rest of the cascade. The same position as France, and recorded the same way.
 Source: [lu-communique-nis2]
 Read: 2026-09-03
@@ -1323,6 +1383,7 @@ In force: Not fixed. Article 1(3) leaves it to *«such a date as the Prime Minis
 Recipient: CSIRTMalta, in the order as drafted
 Divergence: The draft moves nothing. Sub-article (6) reproduces the cascade exactly: the early warning *«within twenty-four (24) hours of becoming aware of the significant incident»*, the incident notification *«within seventy-two (72) hours of becoming aware»*, an intermediate report on request, the final report *«not later than one (1) month after the submission of the incident notification»*, and where the incident is still running, a progress report then and a final report within one month of its handling. Trust service providers get twenty-four hours. CSIRTMalta owes a response within twenty-four hours of the early warning. What is unsettled is not the content but the standing: every page of the document read carries the footer *Public Consultation*, and the citation reads *«L.N. of 2024»* with no number.
 Moves: unsettled
+Stage: not established
 Standing: A consultation draft, published by the Ministry responsible. Whether the order has since been made, and on what date it was brought into force, is not established by this source. The terms are recorded because they were read; the instrument is not recorded as binding, because this document does not show that it is.
 Source: [mt-cybersecurity-order-draft]
 Read: 2026-09-03
@@ -1334,6 +1395,7 @@ In force: 1 October 2025
 Recipient: The sectoral supervisory authority, with a copy to the National Contact Point, under section 17 of the regulation
 Divergence: Norway is not running the same cascade. **The law implements the first NIS Directive, not NIS2.** Neither the regulation nor the authority's guidance page mentions NIS2 at all. **The final report is measured from the first warning, not from the second stage.** Section 17 reads *«Innen en måned fra varsel som nevnt i første ledd er sendt, skal tilbyderen gi tilsynsmyndigheten en hendelsesrapport»* — one month from the *first* warning, where the Directive measures its final report from the incident notification. **The seventy-two hours have no anchor in the regulation**: it says only *«Informasjonen i varselet skal oppdateres innen 72 timer»*. **And the regulation and the guidance use different words for the moment.** The regulation runs the twenty-four hours *«etter at en tilbyder ... fikk kjennskap til hendelsen»*, from obtaining knowledge; the authority's own page says *«innen 24 timer etter at dere oppdaget hendelsen»*, after you discovered it.
 Moves: yes
+Stage: conflict
 Standing: Read in the regulation on Lovdata and in the National Security Authority's guidance, which is where the second wording comes from. The recipient also differs in kind: the warning goes to the sectoral supervisory authority with a copy to the National Contact Point, not to a CSIRT.
 Source: [no-digitalsikkerhetsforskriften]
 Read: 2026-09-03
@@ -1345,6 +1407,7 @@ In force: not established
 Recipient: The relevant competent authority or the National CSIRT, as the guide puts it
 Divergence: The document read states one deadline that the Directive does not. Its notification timeline gives the stages as **6 h** *ΕΓΚΑΙΡΗ ΠΡΟΕΙΔΟΠΟΙΗΣΗ (EARLY WARNING)*, **72 h** *ΚΟΙΝΟΠΟΙΗΣΗ ΠΕΡΙΣΤΑΤΙΚΟΥ*, an intermediate progress report *όπως απαιτείται*, and **1 μήνας** for the *ΤΕΛΙΚΗ ΕΚΘΕΣΗ*, which it explains as due *«το αργότερο ένα μήνα μετά την κοινοποίηση του συμβάντος»*. Article 23(4)(a) of the Directive gives twenty-four hours for the early warning, not six. The other three stages match.
 Moves: unsettled
+Stage: not established
 Standing: This is the Digital Security Authority's own summary guide **to the Directive**, and the six hours appear in its timeline graphic. This record does not conclude that Cypriot law requires six hours: it records that the national authority's published guide states six where the instrument it summarises states twenty-four. The Cypriot transposing law has not been read, so no Cypriot term is recorded from it, and the recipient is given in the guide's own words rather than named.
 Source: [cy-dsa-nis2-guide]
 Read: 2026-09-03
@@ -1356,6 +1419,7 @@ In force: 1 September 2020
 Recipient: The cybersecurity team, netöryggissveit, operated by the telecommunications authority
 Divergence: There are no hours. Article 8 requires notification *«svo fljótt sem verða má»* — as soon as may be — for serious incidents or risks threatening the security of network and information systems, and sets no interval at all. There is no early warning at twenty-four hours, no notification at seventy-two, and no final report at one month. The act does not cite Directive (EU) 2022/2555 anywhere.
 Moves: yes
+Stage: no term
 Standing: Read in the consolidated act on the Althingi's site. Iceland is in the EEA and the NIS2 Directive is not what this act implements; the regime in force is the earlier one. An organisation applying the ITER cascade in Iceland is applying terms that Icelandic law does not contain.
 Source: [is-log-78-2019]
 Read: 2026-09-03
@@ -1367,6 +1431,7 @@ In force: Not established. The translation read does not carry a commencement ar
 Recipient: The National Cyber Security Unit
 Divergence: None. The cascade is transposed as it stands: the early warning *«without undue delay, and in any event within 24 hours of becoming aware of the significant security incident»*, the incident notification *«within 72 hours of becoming aware»*, an intermediate report at the Unit's request, and *«a final report no later than one month after the submission of the incident notification»*.
 Moves: no
+Stage: awareness
 Standing: Read in the Government's own English translation, which carries a disclaimer; the binding text is the German. Liechtenstein is the one EEA state in this record that has transposed NIS2 — Norway's regime implements the earlier Directive and Iceland's sets no interval at all.
 Source: [li-csg]
 Read: 2026-09-03
@@ -1378,6 +1443,7 @@ In force: 1 January 2025, by § 82(1), with § 120(1) a day later. The implement
 Recipient: The national cybersecurity incident handling centre, the Központ, with the SZTFH as the supervisory authority
 Divergence: None in the terms, but they are not where an organisation would look. **The act contains no hour at all** — a search of its whole text returns no expression of hours for notification, because § 66 states the duty and leaves the detail to a government decree. The terms are in § 77 of decree 418/2024: a first notification *«a kiberbiztonsági incidensről való tudomásszerzéstől számított 24 órán belül»*, an event notification *«72 órán belül»* on the same anchor, an interim situation report at the Centre's request, and a closing report *«legkésőbb a 3. pont szerinti eseménybejelentés benyújtását követő egy hónapon belül»*. All of it runs from becoming aware, as the Directive has it.
 Moves: no
+Stage: awareness
 Standing: Both instruments were read: the act, and the decree that carries the cascade. Hungary is the second country in this record built this way, after Croatia. In both, reading the transposing act and stopping produces the conclusion that there are no deadlines.
 Source: [hu-418-2024-korm-rendelet]
 Read: 2026-09-03
@@ -1389,6 +1455,7 @@ In force: not established in the text read
 Recipient: СЕРИКС, as the act names the recipient
 Divergence: The anchor is establishment, not awareness. Both stages run *«след установяването»* of the significant incident: the early warning *«до 24 часа след установяването на значителен инцидент»*, the incident notification *«до 72 часа след установяването на значителния инцидент»*, with twenty-four hours for trust service providers. The Directive measures both from becoming aware. Everything after that is the Directive's: an interim report at the recipient's request, a final report *«не по-късно от един месец след подаването на уведомлението за инцидента»*, and where the incident is not resolved by then, an interim report and the final report within one month of resolving it.
 Moves: yes
+Stage: detection
 Standing: Read in the consolidated act on Lex.bg, in the version carrying the 2026 amendments that transpose the Directive. The act also puts a duty on the recipient: after the early warning, СЕРИКС returns a response with initial information and, on request, guidance. Bulgaria is the fourth country in this record to replace awareness with a word of its own — *установяване*, alongside Slovakia's *zistenie*, Finland's *havaitseminen* and Slovenia's *zaznava*.
 Source: [bg-zakon-za-kibersigurnost]
 Read: 2026-09-03
@@ -1400,6 +1467,7 @@ In force: not established in the text read
 Recipient: The Εθνική Αρχή Κυβερνοασφάλειας, the National Cybersecurity Authority, to which paragraph 4 owes the submissions
 Divergence: None. The cascade is the Directive's, and the numbers are spelled out: a warning *«εντός είκοσι τεσσάρων (24) ωρών από τη στιγμή που αντιλήφθηκαν το σημαντικό περιστατικό»*, the incident notification *«εντός εβδομήντα δύο (72) ωρών»* on the same anchor, an interim report at the Authority's request, and *«τελική έκθεση το αργότερο εντός ενός (1) μηνός μετά από την υποβολή της κοινοποίησης περιστατικού»*. Where the incident is still running at that point, a progress report then and a final report within one month of the entity's handling of it. Trust service providers have their own derogation.
 Moves: no
+Stage: awareness
 Standing: Read in the law as published in the Government Gazette. One thing is national rather than the Directive's default: the submissions are owed to the National Cybersecurity Authority itself, not to a CSIRT. This entry also settles something about the Cypriot one — the six hours in the Cypriot authority's guide are not a Greek-language convention. Greece, writing in the same language, says twenty-four.
 Source: [gr-nomos-5160-2024]
 Read: 2026-09-03
