@@ -585,10 +585,11 @@ Read: 2026-09-03
 Role: csirt
 Country: IT
 Name: CSIRT Italia, within the Agenzia per la Cybersicurezza Nazionale
-URL: https://www.csirt.gov.it/segnalazione
-Channel: A form on the Agency's reporting portal. Named here because it is the one channel this record has read; the others are not.
+URL: https://segnalazioni.acn.gov.it/
+Channel: The Agency's Portale segnalazioni, which carries the incident notification form. The older address, csirt.gov.it/segnalazione, resolves to the same page. The portal states that it is for sending detail about security incidents and not for opening administrative proceedings of any kind.
 Source: [acn-nis-faq]
 Read: 2026-09-03
+Checked: 2026-09-03
 
 ### csirt · Germany
 Role: csirt
@@ -1716,8 +1717,10 @@ Read: 2026-09-02
   Those guidelines are not read, so the record states the three conditions and
   supplies no examples of them.
 - The channel each authority requires — portal, form, identifiers — is published
-  by the authorities rather than by the instruments. It is a different kind of
-  source and needs its own section and its own rule about how long it stays true.
+  by the authorities rather than by the instruments, and it now carries its own
+  `Checked` date, separate from `Read`. Only Italy and the Netherlands have a
+  channel recorded at all. For twenty-five countries the field says the act does
+  not set one, which is true of the act and no help at three in the morning.
 - Only Italy is worked. The terms are the same across the Union; the recipients
   are not.
 - T1 to T4 have no rows, though fourteen of the eighteen decided cases are T1.
