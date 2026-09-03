@@ -579,6 +579,27 @@ anchor did it in the act. Here the act and the guidance say different
 things, and an organisation reading only the page is reading the earlier of
 the two moments.
 
+### Συνοπτικός Οδηγός αναφορικά με την Οδηγία NIS2 {#cy-dsa-nis2-guide}
+Αρχή Ψηφιακής Ασφάλειας · Cyprus · read 2026-09-03
+https://dsa.cy/images/pdf-upload/nis2-guide.pdf
+Establishes: That the Cypriot Digital Security Authority's published summary of NIS2 puts the early warning at six hours, where article 23(4)(a) of the Directive puts it at twenty-four.
+
+Twenty-two pages summarising the Directive for the entities the Authority
+supervises. Its timeline reads 6 h, 72 h, on request, 1 month.
+
+The Directive reads 24 h, 72 h, on request, 1 month.
+
+Nothing here settles what Cypriot law requires, and this record does not
+claim it. What it does record is narrower and still worth having: an
+organisation in Cyprus reading the authority's own guide is told to warn
+four times sooner than the instrument the guide is summarising says.
+
+The number was nearly missed. The Greek text came out of the PDF as question
+marks in the terminal, and the figure sat next to what looked like page
+numbers. It was read properly only after writing the passage to a file and
+opening it, which is the general lesson: a figure read through a broken
+encoding is not a figure that has been read.
+
 ## Guidance
 
 ### Guidelines 9/2022 on personal data breach notification under GDPR {#edpb-9-2022}

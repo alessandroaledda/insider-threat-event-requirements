@@ -770,6 +770,15 @@ Channel: Not set by the regulation.
 Source: [no-digitalsikkerhetsforskriften]
 Read: 2026-09-03
 
+### csirt · Cyprus
+Role: csirt
+Country: CY
+Name: The relevant competent authority or the National CSIRT, as the guide puts it
+URL: https://dsa.cy/images/pdf-upload/nis2-guide.pdf
+Channel: Not set out in the document read.
+Source: [cy-dsa-nis2-guide]
+Read: 2026-09-03
+
 ### Market authority
 Role: market
 Bears on: MAR art. 17(1), where the organisation is a listed issuer
@@ -1250,6 +1259,17 @@ Divergence: Norway is not running the same cascade. **The law implements the fir
 Moves: yes
 Standing: Read in the regulation on Lovdata and in the National Security Authority's guidance, which is where the second wording comes from. The recipient also differs in kind: the warning goes to the sectoral supervisory authority with a copy to the National Contact Point, not to a CSIRT.
 Source: [no-digitalsikkerhetsforskriften]
+Read: 2026-09-03
+
+### NIS2 · Cyprus
+Country: CY
+Act: Not read. The document read is the Authority's summary guide to the Directive, not the Cypriot transposing law.
+In force: not established
+Recipient: The relevant competent authority or the National CSIRT, as the guide puts it
+Divergence: The document read states one deadline that the Directive does not. Its notification timeline gives the stages as **6 h** *ΕΓΚΑΙΡΗ ΠΡΟΕΙΔΟΠΟΙΗΣΗ (EARLY WARNING)*, **72 h** *ΚΟΙΝΟΠΟΙΗΣΗ ΠΕΡΙΣΤΑΤΙΚΟΥ*, an intermediate progress report *όπως απαιτείται*, and **1 μήνας** for the *ΤΕΛΙΚΗ ΕΚΘΕΣΗ*, which it explains as due *«το αργότερο ένα μήνα μετά την κοινοποίηση του συμβάντος»*. Article 23(4)(a) of the Directive gives twenty-four hours for the early warning, not six. The other three stages match.
+Moves: unsettled
+Standing: This is the Digital Security Authority's own summary guide **to the Directive**, and the six hours appear in its timeline graphic. This record does not conclude that Cypriot law requires six hours: it records that the national authority's published guide states six where the instrument it summarises states twenty-four. The Cypriot transposing law has not been read, so no Cypriot term is recorded from it, and the recipient is given in the guide's own words rather than named.
+Source: [cy-dsa-nis2-guide]
 Read: 2026-09-03
 
 ## Detection, where it is prescribed rather than advised
