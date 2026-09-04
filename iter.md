@@ -25,7 +25,7 @@ Fields are `Applies`, `Term`, `From`, `Owed to`, `Establish`, `Public`,
 `Owed to` holds a **role** where the recipient is an authority, and the
 authorities table resolves it for the country selected. Where the recipient is
 not an authority, and it may be the people concerned, the clients or the
-organisation's own register, it is written out, because it does not vary by
+organization's own register, it is written out, because it does not vary by
 country.
 
 `Anchor` is for an act whose term is not stated in hours. It says what the
@@ -52,13 +52,13 @@ arithmetic rests on an assumption, the assumption is written in the field.
 ## Types
 
 ### T1 · Disclosure of personal data
-What it is: Personal data leaves the organisation's control.
+What it is: Personal data leaves the organization's control.
 Added: 2026-09-02
 Updated: 2026-09-03
 Rows: written under the GDPR, DORA, NIS2 and MAR.
 
 ### T2 · Disclosure of proprietary information
-What it is: Non-personal information of value leaves the organisation's control: trade secrets, plans, strategy. Nothing is owed under the General Data Protection Regulation, because there is no personal data in it. Where the material also contains personal data the event is a T1 as well, and both sets of obligations run.
+What it is: Non-personal information of value leaves the organization's control: trade secrets, plans, strategy. Nothing is owed under the General Data Protection Regulation, because there is no personal data in it. Where the material also contains personal data the event is a T1 as well, and both sets of obligations run.
 Added: 2026-09-02
 Updated: 2026-09-03
 Rows: written under DORA, NIS2 and MAR. None under the GDPR, because the type is defined by the absence of personal data.
@@ -70,13 +70,13 @@ Updated: 2026-09-03
 Rows: written under the GDPR, DORA, NIS2 and MAR.
 
 ### T4 · Interruption of an operational service
-What it is: Availability. A service stops, or the records behind it cannot be reached when they are needed. Article 4(12) names destruction and loss alongside disclosure, so the same obligations arise; and where the organisation is a financial entity or an essential one, availability is the limb its sector regime is built around.
+What it is: Availability. A service stops, or the records behind it cannot be reached when they are needed. Article 4(12) names destruction and loss alongside disclosure, so the same obligations arise; and where the organization is a financial entity or an essential one, availability is the limb its sector regime is built around.
 Added: 2026-09-02
 Updated: 2026-09-03
 Rows: written under the GDPR, DORA, NIS2 and MAR. No decided case: the four worked examples that would calibrate it are ransomware, which is an outside actor.
 
-### T5 · Unauthorised consultation, without extraction
-What it is: An employee opens records they had no business opening. Nothing leaves the organisation. Under article 4(12) GDPR this is a breach on its own, because unauthorised access is in the definition.
+### T5 · Unauthorized consultation, without extraction
+What it is: An employee opens records they had no business opening. Nothing leaves the organization. Under article 4(12) GDPR this is a breach on its own, because unauthorized access is in the definition.
 Added: 2026-09-02
 Updated: 2026-09-02
 
@@ -94,8 +94,8 @@ per instrument named in the act tables above. `Reaches` states who it binds;
 
 ### GDPR
 Full name: Regulation (EU) 2016/679, General Data Protection Regulation
-What: It governs the processing of personal data. Where a breach of security leads to the destruction, loss, alteration, unauthorised disclosure of or access to personal data, article 33 requires a notification to the supervisory authority, and article 34 a communication to the people concerned where the risk to their rights and freedoms is high
-Reaches: Every organisation that processes personal data, whatever its sector and whatever its size. No threshold and no sector list stands between a reader and this one
+What: It governs the processing of personal data. Where a breach of security leads to the destruction, loss, alteration, unauthorized disclosure of or access to personal data, article 33 requires a notification to the supervisory authority, and article 34 a communication to the people concerned where the risk to their rights and freedoms is high
+Reaches: Every organization that processes personal data, whatever its sector and whatever its size. No threshold and no sector list stands between a reader and this one
 Reports to: The supervisory authority of the Member State, and where the risk is high, the people whose data it is
 Anchor: Articles 33 and 34, with article 4(12) for what a personal data breach is
 Source: [gdpr], [edpb-9-2022]
@@ -139,10 +139,10 @@ on which moment. Reading them one at a time makes each difference look like a
 national quirk. Set side by side they fall on one scale, and the scale is short.
 
 - **Occurrence.** The event happens. No instrument in this record starts a term
-  here, and none could: the organisation does not know.
+  here, and none could: the organization does not know.
 - **Detection.** Something is noticed: an alert, a log line, a report from a
   colleague. Nobody has yet decided what it is.
-- **Awareness.** The organisation is taken to know that a significant incident
+- **Awareness.** The organization is taken to know that a significant incident
   has occurred. This is the Directive's own point, and the Board reads it as a
   reasonable degree of certainty rather than proof.
 - **Determination.** Someone inside decides the event qualifies. A named officer
@@ -153,11 +153,11 @@ The Directive attaches at awareness. Of the twenty-nine transpositions read,
 
 The two directions differ in who fixes the moment.
 
-Detection is fixed by a record the organisation made for another purpose: an
+Detection is fixed by a record the organization made for another purpose: an
 alert carries a timestamp written before anyone considered reporting. It is
-established from outside the organisation's account of itself.
+established from outside the organization's account of itself.
 
-Determination is fixed by the organisation, at the point it decides the event
+Determination is fixed by the organization, at the point it decides the event
 qualifies. Nothing outside its own record establishes when that happened. The
 interval between the two is the period the Board addresses in Guidelines
 9/2022: a short investigation may precede awareness, and where it is left open
@@ -447,7 +447,7 @@ Read: 2026-09-03
 
 ### Financial competent authority
 Role: financial
-Bears on: DORA art. 19(4), where the organisation is a financial entity
+Bears on: DORA art. 19(4), where the organization is a financial entity
 Scope: This is the designation for **credit institutions**, under article 4 of Directive 2013/36/EU. Article 46 designates by sector: a payment institution, an investment firm and an insurer are designated under other acts and resolve to other bodies, which this record has not read.
 Note: A significant credit institution reports to the national authority below, which transmits the report to the ECB immediately. Supervision moves under the Single Supervisory Mechanism; the report does not.
 Source: [eba-competent-authorities] · [dora]
@@ -665,7 +665,7 @@ Read: 2026-09-03
 
 ### CSIRT or competent authority
 Role: csirt
-Bears on: NIS2 art. 23(4), where the organisation is an essential or important entity not displaced
+Bears on: NIS2 art. 23(4), where the organization is an essential or important entity not displaced
 Note: The Directive leaves the designation to each Member State, so there is no single text to read. Tried on 3 September 2026 and not reached: the CSIRTs Network site, whose members are drawn on a map fed by a script rather than listed, and which renders no team names into the page; its front-end bundle, which carries the shape of the data and not the data; and two ENISA inventory addresses, both gone. What would settle it is each Member State's own notification of its CSIRT and single point of contact, which is made to the Commission and published nationally.
 Source: [acn-nis-faq]
 Read: 2026-09-03
@@ -746,7 +746,7 @@ Read: 2026-09-03
 ### csirt · Belgium
 Role: csirt
 Country: BE
-Name: The national CSIRT, which article 1, 46° defines functionally as the national computer security incident response centre without naming the body
+Name: The national CSIRT, which article 1, 46° defines functionally as the national computer security incident response center without naming the body
 URL: https://www.ejustice.just.fgov.be/eli/loi/2024/04/26/2024202344/justel
 Channel: Article 34 §1 leaves the arrangements to a protocol between the national CSIRT and the NCCN. The act does not set them out. The Centre publishes the platform on its own pages, at notif.safeonweb.be, with a telephone line for an emergency. No address is recorded in this row: every host in the Centre's estate answers 403 to an automated request, so the host is known to exist and the path could not be confirmed.
 Source: [be-loi-26-04-2024]
@@ -811,7 +811,7 @@ Country: HR
 Name: The competent CSIRT, under article 37 of the Act. NCSC-HR for the public sector, the Nacionalni CERT at CARNET for the private
 URL: https://narodne-novine.nn.hr/clanci/sluzbeni/2024_02_14_254.html
 Portal: https://pixi.carnet.hr/
-Channel: The Act does not set one. The competent CSIRT runs the PiXi platform, and access to it is *«isključivo ovlaštene osobe putem Nacionalnog identifikacijskog i autentifikacijskog sustava»*: authorised persons only, through the national identification system, with the authorisation granted beforehand by the entity's legal representative through e-Ovlaštenja. Which CSIRT is competent depends on the entity: NCSC-HR for state bodies, public-law bodies and local government, the Nacionalni CERT for the private sector.
+Channel: The Act does not set one. The competent CSIRT runs the PiXi platform, and access to it is *«isključivo ovlaštene osobe putem Nacionalnog identifikacijskog i autentifikacijskog sustava»*: authorized persons only, through the national identification system, with the authorization granted beforehand by the entity's legal representative through e-Ovlaštenja. Which CSIRT is competent depends on the entity: NCSC-HR for state bodies, public-law bodies and local government, the Nacionalni CERT for the private sector.
 Source: [hr-zks-uredba] [cert-hr-zks-incident]
 Read: 2026-09-03
 Checked: 2026-09-03
@@ -857,7 +857,7 @@ Read: 2026-09-03
 ### csirt · Luxembourg
 Role: csirt
 Country: LU
-Name: The Institut Luxembourgeois de Régulation, which organises the regime and receives the notifications
+Name: The Institut Luxembourgeois de Régulation, which organizes the regime and receives the notifications
 URL: https://gouvernement.lu/fr/actualites/toutes_actualites/communiques/2026/07-juillet/06-cybersecurite-nis-2.html
 Portal: https://serima.lu/notification
 Checked: 2026-09-03
@@ -915,7 +915,7 @@ Read: 2026-09-03
 ### csirt · Hungary
 Role: csirt
 Country: HU
-Name: The national cybersecurity incident handling centre, the Központ, with the SZTFH as the supervisory authority
+Name: The national cybersecurity incident handling center, the Központ, with the SZTFH as the supervisory authority
 URL: https://njt.jog.gov.hu/jogszabaly/2024-418-20-22
 Portal: https://incidens.nki.gov.hu/
 Channel: The National Cyber Security Institute takes notifications around the clock, on a web form at incidens.nki.gov.hu, by e-mail to CSIRT@nki.gov.hu, and by telephone. It also runs an anonymous route, which is a different thing from the duty in the decree and is not it.
@@ -943,7 +943,7 @@ Read: 2026-09-03
 
 ### Market authority
 Role: market
-Bears on: MAR art. 17(1), where the organisation is a listed issuer
+Bears on: MAR art. 17(1), where the organization is a listed issuer
 Note: The body is recorded for thirty countries, and article 22 is what produces that list: each Member State designates a single administrative authority and tells the Commission and ESMA. The body receives nothing under article 17(1), which is owed to the public. It appears where the issuer delays, under 17(4) and 17(5).
 Source: [esma-mar-nca]
 Read: 2026-09-03
@@ -1175,7 +1175,7 @@ Country: IT
 Act: Decreto legislativo 4 settembre 2024, n. 138
 In force: 16 October 2024
 Recipient: CSIRT Italia, under article 25 of the decree
-Divergence: The national authority describes the complete notification as due within 72 hours **of the pre-notification**, where the Directive puts it within 72 hours of becoming aware. The pre-notification is itself due within 24 hours of becoming aware. Read that way the complete notification falls at 96 hours from awareness rather than at 72, and an organisation working from the Directive alone would hold the wrong date.
+Divergence: The national authority describes the complete notification as due within 72 hours **of the pre-notification**, where the Directive puts it within 72 hours of becoming aware. The pre-notification is itself due within 24 hours of becoming aware. Read that way the complete notification falls at 96 hours from awareness rather than at 72, and an organization working from the Directive alone would hold the wrong date.
 Moves: yes
 Stage: awareness
 Standing: This is how the Agency describes the obligation, not the wording of the decree. Article 25 has not been read.
@@ -1226,7 +1226,7 @@ Recipient: not recorded, see Divergence
 Divergence: None found in the terms. The FAQ gives the Directive's three stages, *«una alerta temprana en las primeras 24 h»*, *«antes de 72 h ... una notificación del incidente»*, *«informe final, a más tardar un mes después de presentar la notificación del incidente»*, all *«desde el conocimiento del mismo»*. The divergence is elsewhere: the page does not say who receives them. *«Tanto los CSIRT de referencia y las autoridades competentes como el punto de contacto único se conocerán con la trasposición de la norma a la legislación española.»*
 Moves: unsettled
 Stage: not established
-Standing: An organisation in Spain therefore holds the terms and not the recipient, and with no recipient there is no channel either. The national institute runs a services portal through which collaborating companies notify incidents, which is a different arrangement from the statutory duty and is not recorded as discharging it. This record leaves the Spanish recipient unwritten rather than naming a body the source does not name.
+Standing: An organization in Spain therefore holds the terms and not the recipient, and with no recipient there is no channel either. The national institute runs a services portal through which collaborating companies notify incidents, which is a different arrangement from the statutory duty and is not recorded as discharging it. This record leaves the Spanish recipient unwritten rather than naming a body the source does not name.
 Source: [incibe-faq-nis2]
 Read: 2026-09-03
 
@@ -1262,7 +1262,7 @@ Recipient: The competent cybersecurity authority, which article 2 defines as the
 Divergence: Substantial, and in four places. **The anchor is not awareness.** Article 42(1) starts the twenty-four hours when the entity *«concluir que existe, ou possa vir a existir, um incidente significativo»* and runs them *«até 24 horas após essa verificação»*, from that determination, and reaching forward to an incident that may yet come to exist. **The seventy-two hour stage is conditional and is an update.** Article 42(3) owes it *«quando necessário»*, as *«uma atualização da notificação inicial»*, where the Directive's second stage is owed in every case. **There is a stage the Directive does not have.** Article 43 requires a notification of the *end* of significant impact, within twenty-four hours of that end. **The final report is measured differently and in a different unit.** Article 44(1) gives *«30 dias úteis a contar da data da notificação do fim de impacto significativo»*, thirty working days from that new stage, where the Directive gives one month from the incident notification.
 Moves: yes
 Stage: determination
-Standing: Read in the act itself, in the Diário da República, and not in guidance. One consequence worth holding: article 41(2) provides that where the incident is resolved within two hours of detection, only the end-of-impact notification is owed. An organisation working from the Directive alone would hold the wrong anchor, the wrong final deadline, and would not know the third stage exists.
+Standing: Read in the act itself, in the Diário da República, and not in guidance. One consequence worth holding: article 41(2) provides that where the incident is resolved within two hours of detection, only the end-of-impact notification is owed. An organization working from the Directive alone would hold the wrong anchor, the wrong final deadline, and would not know the third stage exists.
 Source: [pt-dl-125-2025]
 Read: 2026-09-03
 
@@ -1270,7 +1270,7 @@ Read: 2026-09-03
 Country: BE
 Act: Loi du 26 avril 2024 établissant un cadre pour la cybersécurité des réseaux et des systèmes d'information d'intérêt général pour la sécurité publique
 In force: 18 October 2024, by article 98
-Recipient: The national CSIRT, which article 1, 46° defines functionally as the national computer security incident response centre without naming the body
+Recipient: The national CSIRT, which article 1, 46° defines functionally as the national computer security incident response center without naming the body
 Divergence: None. Article 35 §1 transposes the cascade term for term and anchor for anchor: the early warning *«dans les vingt-quatre heures après avoir eu connaissance de l'incident significatif»*, the incident notification *«dans les septante-deux heures»* on the same footing, and the final report *«au plus tard un mois après la présentation de la notification d'incident»*. Trust service providers get twenty-four hours for the second stage under §2. Where an incident is still running when the final report falls due, §1, 5° gives a progress report then and the final report within one month of the incident's definitive handling.
 Moves: no
 Stage: awareness
@@ -1283,7 +1283,7 @@ Country: CZ
 Act: Zákon č. 264/2025 Sb., o kybernetické bezpečnosti
 In force: not stated in the material read
 Recipient: Národní úřad pro kybernetickou a informační bezpečnost
-Divergence: In three places, and one of them changes who decides. **The anchor is an internal determination.** The initial report is due *«bez zbytečného odkladu, nejpozději do 24 hodin»*, and the guidance says plainly what starts it: *«tato lhůta se počítá od okamžiku, kdy u konkrétního subjektu osoba k tomu pověřená (například manažer kybernetické bezpečnosti) vyhodnotí zjištěnou událost jako kybernetický bezpečnostní incident»*, from the moment a designated person inside the organisation classifies the event, not from the organisation becoming aware of a significant incident. **The authority decides significance, not the entity.** After the initial report the Úřad tells the provider whether the incident has significant impact; where it does not, the guidance says the reporting ends there. The Directive leaves that assessment with the entity. **The final report is measured from resolution.** *«Po jeho vyřešení nejpozději do 30 dnů závěrečnou zprávu»*, thirty days from the incident being resolved, where the Directive gives one month from the incident notification, with an interim report in the meantime if the incident is still running.
+Divergence: In three places, and one of them changes who decides. **The anchor is an internal determination.** The initial report is due *«bez zbytečného odkladu, nejpozději do 24 hodin»*, and the guidance says plainly what starts it: *«tato lhůta se počítá od okamžiku, kdy u konkrétního subjektu osoba k tomu pověřená (například manažer kybernetické bezpečnosti) vyhodnotí zjištěnou událost jako kybernetický bezpečnostní incident»*, from the moment a designated person inside the organization classifies the event, not from the organization becoming aware of a significant incident. **The authority decides significance, not the entity.** After the initial report the Úřad tells the provider whether the incident has significant impact; where it does not, the guidance says the reporting ends there. The Directive leaves that assessment with the entity. **The final report is measured from resolution.** *«Po jeho vyřešení nejpozději do 30 dnů závěrečnou zprávu»*, thirty days from the incident being resolved, where the Directive gives one month from the incident notification, with an interim report in the meantime if the incident is still running.
 Moves: yes
 Stage: determination
 Standing: This is the Úřad's own supporting material on the ZKB and its implementing decrees, not the act. Two things it does not contain: any seventy-two hour stage, and the date from which the act binds. Neither is recorded here as a result. It also states a threshold of its own: the duty reaches incidents where intentional causation cannot be excluded without undue delay and within twenty-four hours, so operational incidents that can be ruled out are not reportable.
@@ -1358,7 +1358,7 @@ Recipient: The competent CSIRT, under article 37 of the Act
 Divergence: In three ways, and the first one is where to look. **The Act sets no deadline at all.** Article 37 states the duty to notify the competent CSIRT and the threshold, and stops. Every term is in the Uredba. **There the anchors hold**: the early warning within *«24 sata od trenutka saznanja za značajan incident»* and the initial notification within *«72 sata»* on the same footing, with trust service providers at twenty-four hours. **The final report is thirty days, not one month.** Article 70 of the Uredba gives *«najkasnije u roku od 30 dana od dana dostave početne obavijesti»*. **The interim report has a window the Directive does not set**: article 69 lets the CSIRT fix the deadline, but *«ne može biti kraći od 48 sati niti duži od sedam dana»*.
 Moves: yes
 Stage: awareness
-Standing: Both instruments were read: the Act, and the Uredba o kibernetičkoj sigurnosti, NN 135/2024, which is where the cascade actually is. The point worth carrying is structural rather than numerical: an organisation that reads the Croatian act and stops has the duty, the recipient and the threshold, and not one hour of the cascade. The thirty days are a real difference from a month, in the months that are longer.
+Standing: Both instruments were read: the Act, and the Uredba o kibernetičkoj sigurnosti, NN 135/2024, which is where the cascade actually is. The point worth carrying is structural rather than numerical: an organization that reads the Croatian act and stops has the duty, the recipient and the threshold, and not one hour of the cascade. The thirty days are a real difference from a month, in the months that are longer.
 Source: [hr-zks-uredba]
 Read: 2026-09-03
 
@@ -1370,7 +1370,7 @@ Recipient: The competent cyber incident prevention institution, which article 34
 Divergence: The hours are the Directive's. The point they run from is not stated. Article 34(2) reads *«Nozīmīga kiberincidenta gadījumā subjekts nekavējoties, bet ne vēlāk kā 24 stundu laikā ... iesniedz ... agrīno brīdinājumu»*, and 34(3) puts the initial report at seventy-two hours, twenty-four for a trust service provider, in the same construction. Neither names an anchor. The nearest thing to one is 34(1), which speaks of *«Konstatējot kiberincidentu»*, on establishing a cyber incident. The final report keeps the Directive's measure: *«mēneša laikā pēc šā panta trešajā daļā minētā ziņojuma iesniegšanas»*, one month after the initial report, with a progress report where the incident cannot be resolved in time and the final report after it is.
 Moves: yes
 Stage: unstated
-Standing: Read in the act on Likumi.lv, in the version in force. An organisation in Latvia holds the intervals and has to supply the starting point from somewhere else. Whether *konstatējot* in 34(1) carries into 34(2) is a question of Latvian construction that this record does not answer.
+Standing: Read in the act on Likumi.lv, in the version in force. An organization in Latvia holds the intervals and has to supply the starting point from somewhere else. Whether *konstatējot* in 34(1) carries into 34(2) is a question of Latvian construction that this record does not answer.
 Source: [lv-nacionalas-kiberdrosibas-likums]
 Read: 2026-09-03
 
@@ -1414,7 +1414,7 @@ Read: 2026-09-03
 Country: LU
 Act: Loi du 5 mai 2026 concernant des mesures destinées à assurer un niveau élevé de cybersécurité
 In force: not stated in the source read
-Recipient: The Institut Luxembourgeois de Régulation, which organises the regime and receives the notifications
+Recipient: The Institut Luxembourgeois de Régulation, which organizes the regime and receives the notifications
 Divergence: Nothing recorded moves a term, and only one term is recorded. The government's own announcement gives the first stage, *«tout incident ayant un impact important dans un délai de 24 heures»* as a preliminary notification, and stops there. It does not say what the twenty-four hours run from, and it does not give the stages after the first.
 Moves: no
 Stage: awareness
@@ -1454,7 +1454,7 @@ Recipient: The relevant competent authority or the National CSIRT, as the guide 
 Divergence: The document read states one deadline that the Directive does not. Its notification timeline gives the stages as **6 h** *ΕΓΚΑΙΡΗ ΠΡΟΕΙΔΟΠΟΙΗΣΗ (EARLY WARNING)*, **72 h** *ΚΟΙΝΟΠΟΙΗΣΗ ΠΕΡΙΣΤΑΤΙΚΟΥ*, an intermediate progress report *όπως απαιτείται*, and **1 μήνας** for the *ΤΕΛΙΚΗ ΕΚΘΕΣΗ*, which it explains as due *«το αργότερο ένα μήνα μετά την κοινοποίηση του συμβάντος»*. Article 23(4)(a) of the Directive gives twenty-four hours for the early warning, not six. The other three stages match.
 Moves: unsettled
 Stage: not established
-Standing: This is the Digital Security Authority's own summary guide **to the Directive**, and the six hours appear in its timeline graphic. This record does not conclude that Cypriot law requires six hours: it records that the national authority's published guide states six where the instrument it summarises states twenty-four. The Cypriot transposing law has not been read, so no Cypriot term is recorded from it, and the recipient is given in the guide's own words rather than named.
+Standing: This is the Digital Security Authority's own summary guide **to the Directive**, and the six hours appear in its timeline graphic. This record does not conclude that Cypriot law requires six hours: it records that the national authority's published guide states six where the instrument it summarizes states twenty-four. The Cypriot transposing law has not been read, so no Cypriot term is recorded from it, and the recipient is given in the guide's own words rather than named.
 Source: [cy-dsa-nis2-guide]
 Read: 2026-09-03
 
@@ -1466,7 +1466,7 @@ Recipient: The cybersecurity team, netöryggissveit, operated by the telecommuni
 Divergence: There are no hours. Article 8 requires notification *«svo fljótt sem verða má»*, as soon as may be, for serious incidents or risks threatening the security of network and information systems, and sets no interval at all. There is no early warning at twenty-four hours, no notification at seventy-two, and no final report at one month. The act does not cite Directive (EU) 2022/2555 anywhere.
 Moves: yes
 Stage: no term
-Standing: Read in the consolidated act on the Althingi's site. Iceland is in the EEA and the NIS2 Directive is not what this act implements; the regime in force is the earlier one. An organisation applying the ITER cascade in Iceland is applying terms that Icelandic law does not contain.
+Standing: Read in the consolidated act on the Althingi's site. Iceland is in the EEA and the NIS2 Directive is not what this act implements; the regime in force is the earlier one. An organization applying the ITER cascade in Iceland is applying terms that Icelandic law does not contain.
 Source: [is-log-78-2019]
 Read: 2026-09-03
 
@@ -1486,8 +1486,8 @@ Read: 2026-09-03
 Country: HU
 Act: 2024. évi LXIX. törvény Magyarország kiberbiztonságáról
 In force: 1 January 2025, by § 82(1), with § 120(1) a day later. The implementing decree is 418/2024. (XII. 23.) Korm. rendelet.
-Recipient: The national cybersecurity incident handling centre, the Központ, with the SZTFH as the supervisory authority
-Divergence: None in the terms, but they are not where an organisation would look. **The act contains no hour at all**: a search of its whole text returns no expression of hours for notification, because § 66 states the duty and leaves the detail to a government decree. The terms are in § 77 of decree 418/2024: a first notification *«a kiberbiztonsági incidensről való tudomásszerzéstől számított 24 órán belül»*, an event notification *«72 órán belül»* on the same anchor, an interim situation report at the Centre's request, and a closing report *«legkésőbb a 3. pont szerinti eseménybejelentés benyújtását követő egy hónapon belül»*. All of it runs from becoming aware, as the Directive has it.
+Recipient: The national cybersecurity incident handling center, the Központ, with the SZTFH as the supervisory authority
+Divergence: None in the terms, but they are not where an organization would look. **The act contains no hour at all**: a search of its whole text returns no expression of hours for notification, because § 66 states the duty and leaves the detail to a government decree. The terms are in § 77 of decree 418/2024: a first notification *«a kiberbiztonsági incidensről való tudomásszerzéstől számított 24 órán belül»*, an event notification *«72 órán belül»* on the same anchor, an interim situation report at the Centre's request, and a closing report *«legkésőbb a 3. pont szerinti eseménybejelentés benyújtását követő egy hónapon belül»*. All of it runs from becoming aware, as the Directive has it.
 Moves: no
 Stage: awareness
 Standing: Both instruments were read: the act, and the decree that carries the cascade. Hungary is the second country in this record built this way, after Croatia. In both, reading the transposing act and stopping produces the conclusion that there are no deadlines.
@@ -1537,13 +1537,13 @@ bank it is stated directly, with a retention period and a requirement to alert.
 
 ## T1 · Acts under the General Data Protection Regulation
 
-Personal data has left the organisation, or reached someone who should not have
+Personal data has left the organization, or reached someone who should not have
 it. The instruments are the same as for T5 and the terms are identical. What
 differs is what has to be established, because articles 33 and 34 turn on risk
 to the people whose data it is, and here the data has moved.
 
 ### GDPR art. 33(1)
-Applies: All organisations
+Applies: All organizations
 Do: Notify the supervisory authority of the breach
 Term: 72 hours
 At: 72
@@ -1557,7 +1557,7 @@ Source: [gdpr] [edpb-1-2021]
 Read: 2026-09-02
 
 ### GDPR art. 33(4)
-Applies: All organisations
+Applies: All organizations
 Do: Complete an earlier notification with what you did not yet have
 Term: Without undue further delay
 From: The notification it completes
@@ -1569,7 +1569,7 @@ Source: [gdpr]
 Read: 2026-09-02
 
 ### GDPR art. 34(1)
-Applies: All organisations
+Applies: All organizations
 Do: Tell each person whose data was disclosed
 Term: Without undue delay
 From: Declared awareness
@@ -1583,7 +1583,7 @@ Source: [gdpr] [edpb-1-2021]
 Read: 2026-09-02
 
 ### GDPR art. 33(5)
-Applies: All organisations
+Applies: All organizations
 Do: Record the breach, its effects, and what was done about it
 Term: No term
 From: No term, so no starting point
@@ -1597,14 +1597,14 @@ Read: 2026-09-02
 
 ## T3 · Acts under the General Data Protection Regulation
 
-Article 4(12) defines a breach as destruction, loss, alteration, unauthorised
+Article 4(12) defines a breach as destruction, loss, alteration, unauthorized
 disclosure of, or access to personal data. The first three are this type. The
 terms are the same as for T1 and T5; what has to be established is not, because
 the question is no longer who saw the data but whether it can still be relied
 on.
 
 ### GDPR art. 33(1)
-Applies: All organisations
+Applies: All organizations
 Do: Notify the supervisory authority of the breach
 Term: 72 hours
 At: 72
@@ -1618,7 +1618,7 @@ Source: [gdpr]
 Read: 2026-09-02
 
 ### GDPR art. 33(4)
-Applies: All organisations
+Applies: All organizations
 Do: Complete an earlier notification with what you did not yet have
 Term: Without undue further delay
 From: The notification it completes
@@ -1631,7 +1631,7 @@ Source: [gdpr]
 Read: 2026-09-02
 
 ### GDPR art. 34(1)
-Applies: All organisations
+Applies: All organizations
 Do: Tell each person whose records were altered or destroyed
 Term: Without undue delay
 From: Declared awareness
@@ -1645,7 +1645,7 @@ Source: [gdpr]
 Read: 2026-09-02
 
 ### GDPR art. 33(5)
-Applies: All organisations
+Applies: All organizations
 Do: Record the breach, its effects, and what was done about it
 Term: No term
 From: No term, so no starting point
@@ -1666,7 +1666,7 @@ and becomes whether it was there when someone needed it, which is a question
 about a period rather than about an act.
 
 ### GDPR art. 33(1)
-Applies: All organisations
+Applies: All organizations
 Do: Notify the supervisory authority of the breach
 Term: 72 hours
 At: 72
@@ -1680,7 +1680,7 @@ Source: [gdpr]
 Read: 2026-09-02
 
 ### GDPR art. 33(4)
-Applies: All organisations
+Applies: All organizations
 Do: Complete an earlier notification with what you did not yet have
 Term: Without undue further delay
 From: The notification it completes
@@ -1693,7 +1693,7 @@ Source: [gdpr]
 Read: 2026-09-02
 
 ### GDPR art. 34(1)
-Applies: All organisations
+Applies: All organizations
 Do: Tell each person who could not be served
 Term: Without undue delay
 From: Declared awareness
@@ -1707,7 +1707,7 @@ Source: [gdpr]
 Read: 2026-09-02
 
 ### GDPR art. 33(5)
-Applies: All organisations
+Applies: All organizations
 Do: Record the breach, its effects, and what was done about it
 Term: No term
 From: No term, so no starting point
@@ -1715,14 +1715,14 @@ Anchor: Throughout. The Board expects the documentation to be made as the incide
 Owed to: Nobody, until asked
 Establish: The facts, the effects, the remedial action
 Public: No
-Implication: Here the documentation has to be made while the response is under way, which is the moment an organisation has least attention for it
+Implication: Here the documentation has to be made while the response is under way, which is the moment an organization has least attention for it
 Source: [gdpr]
 Read: 2026-09-02
 
 ## T5 · Acts under the General Data Protection Regulation
 
 ### GDPR art. 33(1)
-Applies: All organisations
+Applies: All organizations
 Do: Notify the supervisory authority of the breach
 Term: 72 hours
 At: 72
@@ -1731,12 +1731,12 @@ Owed to: dpa
 Establish: Which records were opened; whose they were; how many people they concern; whether risk to those people can be ruled out
 Unless: The breach is unlikely to result in a risk to the rights and freedoms of natural persons
 Public: No. The authority publishes its own decisions
-Implication: A notification made after 72 hours is not refused. It has to arrive carrying the reasons for the delay, which puts the length of the triage on the record in the organisation's own words.
+Implication: A notification made after 72 hours is not refused. It has to arrive carrying the reasons for the delay, which puts the length of the triage on the record in the organization's own words.
 Source: [gdpr]
 Read: 2026-09-02
 
 ### GDPR art. 33(4)
-Applies: All organisations
+Applies: All organizations
 Do: Complete an earlier notification with what you did not yet have
 Term: Without undue further delay
 From: The notification it completes
@@ -1748,7 +1748,7 @@ Source: [gdpr]
 Read: 2026-09-02
 
 ### GDPR art. 34(1)
-Applies: All organisations
+Applies: All organizations
 Do: Tell each person whose records were opened
 Term: Without undue delay
 From: Declared awareness
@@ -1762,7 +1762,7 @@ Source: [gdpr]
 Read: 2026-09-02
 
 ### GDPR art. 33(5)
-Applies: All organisations
+Applies: All organizations
 Do: Record the breach, its effects, and what was done about it
 Term: No term
 From: No term, so no starting point
@@ -1773,7 +1773,7 @@ Public: No
 Source: [gdpr]
 Read: 2026-09-02
 
-## T1, T2, T3, T4, T5 · Acts under DORA, where the organisation is a financial entity
+## T1, T2, T3, T4, T5 · Acts under DORA, where the organization is a financial entity
 
 ### DORA classification
 Applies: Financial entity
@@ -1846,7 +1846,7 @@ Implication: There is no silent overrun. Missing the term and not saying so befo
 Source: [dora-rts-terms]
 Read: 2026-09-02
 
-## T1, T2, T3, T4, T5 · Acts under NIS2, where the organisation is essential or important
+## T1, T2, T3, T4, T5 · Acts under NIS2, where the organization is essential or important
 
 ### NIS2 displacement
 Applies: Financial entity
@@ -2019,13 +2019,13 @@ for T5 what case 8 could only suggest for T1. Two things carry.
 
 **The controller's own view of the risk does not close the question.** Article
 34(4) lets the authority require the communication after the fact. An
-organisation that decides the risk is not high has not disposed of the
+organization that decides the risk is not high has not disposed of the
 obligation; it has taken a position that may be reversed, and the communication
 then goes out under order.
 
 **The distance between the alert and the notification is the whole subject of
 this record.** The alert fired on 9 October 2023. The definitive notification is
-dated 17 July 2024. The decision does not characterise that interval, and this
+dated 17 July 2024. The decision does not characterize that interval, and this
 record does not either: what it shows is that the interval exists, that it is
 measured in months rather than hours, and that nothing in the instruments fixes
 where inside it awareness fell.
@@ -2059,7 +2059,7 @@ Read: 2026-09-02
   one submission instead of several.
 - Three countries gate the channel behind a credential that cannot be obtained
   inside the deadline: eHerkenning at EH2+ in the Netherlands, the national
-  identification system with authorisation granted in advance in Croatia, an
+  identification system with authorization granted in advance in Croatia, an
   activated account in Poland. No instrument mentions this, and it decides whether
   a report arrives on time.
 - Twenty-nine jurisdictions carry a recipient. The terms are the same across the
@@ -2071,7 +2071,7 @@ Read: 2026-09-02
   within: an administrator deleting the infrastructure, disabling the controls,
   or locking the systems on the way out.
 - T2 has no decided case, and no GDPR row either. It is the type where an
-  organisation can lose the thing it most values and owe nothing to a data
+  organization can lose the thing it most values and owe nothing to a data
   protection authority, while owing everything to a market authority if the
   information was price-sensitive.
 - T3 has no decided case. The eighteen worked examples contain alteration only

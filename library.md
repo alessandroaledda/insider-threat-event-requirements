@@ -21,10 +21,10 @@ European Parliament and Council · European Union · 27 April 2016
 https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679
 Kind: act
 Read: 2026-09-02
-Establishes: That unauthorised access to personal data is itself a breach; that the notification to the supervisory authority runs seventy-two hours from awareness; that the notification may be made in phases where the information cannot be given at once; and that the documentation obligation applies whether or not anything is notified.
+Establishes: That unauthorized access to personal data is itself a breach; that the notification to the supervisory authority runs seventy-two hours from awareness; that the notification may be made in phases where the information cannot be given at once; and that the documentation obligation applies whether or not anything is notified.
 
 Article 4(12) defines a personal data breach as a breach of security leading to
-the accidental or unlawful destruction, loss, alteration, unauthorised
+the accidental or unlawful destruction, loss, alteration, unauthorized
 disclosure of, or access to, personal data. Access is in the definition, so an
 employee who opens records they had no business opening has caused a breach
 without anything leaving the building.
@@ -150,7 +150,7 @@ It settles two things. The controller's own assessment that the risk is not high
 does not close the question, because article 34(4) allows the authority to
 require the communication afterwards. And it places on the record an interval of
 nine months between the alert and the definitive notification, without
-characterising it.
+characterizing it.
 
 ### Members of the European Data Protection Board {#edpb-members}
 European Data Protection Board · European Union · read 3 September 2026
@@ -265,7 +265,7 @@ Kind: guidance
 Read: 2026-09-03
 Establishes: That Spain's three notification stages are the Directive's own and run from knowledge of the incident, and that the reference CSIRTs and competent authorities were still, when this was read, described as awaiting the national transposition.
 
-Published by the body an organisation would most expect to
+Published by the body an organization would most expect to
 report to, which is what makes the omission material.
 
 It gives the three stages and their anchor without departing from the Directive.
@@ -351,8 +351,8 @@ Supporting material published by the office that
 receives the reports, on the act and its implementing decrees.
 
 It moves three things. The twenty-four hours run from the moment a designated
-person inside the organisation classifies the event as an incident, not from the
-organisation becoming aware of a significant one. After the initial report the
+person inside the organization classifies the event as an incident, not from the
+organization becoming aware of a significant one. After the initial report the
 office, not the entity, determines whether the incident has significant impact,
 and where it does not the reporting ends. The final report is due within thirty
 days of the incident being resolved.
@@ -385,7 +385,7 @@ Establishes: That Sweden's terms and anchors are the Directive's, that the act t
 Short, and faithful on every term.
 
 It is here for what it withholds. Sections 5 and 6 owe the notification to
-the authority the Government determines. An organisation reading the act
+the authority the Government determines. An organization reading the act
 alone learns exactly when it must report and not to whom, which is the
 reverse of the Spanish position, where the authority's guidance gives the
 terms and withholds the recipient for the same reason: the designation sits
@@ -419,7 +419,7 @@ withholding something different from either.
 Spain has terms and no recipient. Ireland has a named authority and no act.
 Poland has an act through one chamber, a named channel, and neither a date
 nor a deadline. Three countries, three different pieces missing, and in each
-case the missing piece is the one an organisation would have assumed.
+case the missing piece is the one an organization would have assumed.
 
 ### Ordonanța de urgență nr. 155/2024 {#ro-oug-155-2024}
 Portal Legislativ, Monitorul Oficial · Romania · read 2026-09-03
@@ -468,7 +468,7 @@ incident rather than becoming aware of it.
 Set beside Finland, which replaced the anchor with detection, and Czechia,
 which replaced it with an internal classification, the pattern is that the
 anchor is the least stable part of the cascade in transposition, the part
-an organisation is most likely to assume, and least likely to find.
+an organization is most likely to assume, and least likely to find.
 
 ### Küberturvalisuse seadus {#ee-kuberturvalisuse-seadus}
 Riigi Teataja · Estonia · read 2026-09-03
@@ -573,7 +573,7 @@ Kind: guidance
 Read: 2026-09-03
 Establishes: That the Cypriot Digital Security Authority's published summary of NIS2 puts the early warning at six hours, where article 23(4)(a) of the Directive puts it at twenty-four.
 
-Twenty-two pages summarising the Directive, published by
+Twenty-two pages summarizing the Directive, published by
 the authority that supervises the entities it reaches.
 
 Its notification timeline gives the early warning at **6 h**. Article 23(4)(a)
@@ -689,7 +689,7 @@ Read: 2026-09-03
 Establishes: That the Dutch reporting point is at mijn.ncsc.nl, and that reaching it requires eHerkenning at level EH2+ or Single Sign On Rijk.
 
 The address, from the page that names it rather than from a guess about the
-domain. It also names the credential, which is the part an organisation cannot
+domain. It also names the credential, which is the part an organization cannot
 obtain in the twenty-four hours it has to report.
 
 ### Hændelsesunderretning {#digst-haendelsesunderretning}
@@ -777,7 +777,7 @@ Nacionalni CERT, CARNET · Croatia · read 3 September 2026
 https://www.cert.hr/zks-incident
 Kind: guidance
 Read: 2026-09-03
-Establishes: That Croatian notifications go through the PiXi platform at pixi.carnet.hr, that access is only through the national identification system with authorisation granted in advance, and which of the two CSIRTs is competent for which kind of entity.
+Establishes: That Croatian notifications go through the PiXi platform at pixi.carnet.hr, that access is only through the national identification system with authorization granted in advance, and which of the two CSIRTs is competent for which kind of entity.
 
 The Act names a competent CSIRT and does not say which. This does: NCSC-HR for
 the public sector, the Nacionalni CERT for the private one. It also gives the
@@ -816,7 +816,7 @@ Establishes: That Latvia has no reporting portal, and that each of the five stat
 Latvia is the country whose act gives the hours and not the moment they start.
 The channel is of a piece with that: the intervals are exact, the machinery is
 an e-mail address, and the thing that gates the report is a signature the
-organisation either already holds or does not.
+organization either already holds or does not.
 
 ### Αναφορά Συμβάντων {#cyber-gov-gr-anafora}
 Εθνική Αρχή Κυβερνοασφάλειας · Greece · read 3 September 2026
@@ -890,7 +890,7 @@ aware. Paragraph 36 expects those preliminary actions to be completed soon after
 the initial alert and says a longer period should be exceptional.
 
 Paragraph 37 names the technical measures the Board has in mind: data flow and
-log analysers, from which events and alerts are defined by correlating log data.
+log analyzers, from which events and alerts are defined by correlating log data.
 Paragraph 39 expects security events to reach a person whose task is
 establishing that a breach exists and assessing the risk. Paragraph 40 states
 the consequence of drift: where a controller fails to act in time and it becomes
