@@ -935,3 +935,56 @@ source is opened at its own address.
   identifiers. This is published by the authorities rather than by the
   instruments, and it is a different kind of source that will need its own
   section and its own rule about how long it stays true.
+
+### Ustawa z dnia 23 stycznia 2026 r. o zmianie ustawy o krajowym systemie cyberbezpieczeństwa oraz niektórych innych ustaw {#pl-dz-u-2026-252}
+Dziennik Ustaw · Poland · read 2026-09-04
+https://dziennikustaw.gov.pl/D2026000025201.pdf
+Kind: act
+Read: 2026-09-04
+Establishes: That Poland's NIS2 amendment was promulgated on 2 March 2026 as poz. 252 and enters into force one month after promulgation by its article 49; that the early warning and the notification of a serious incident run from the moment of its detection, at twenty-four and seventy-two hours; that the final report is owed within a month of the notification; and that all three are owed to the competent sectoral CSIRT.
+
+Read in the gazette's own PDF, one hundred and two pages. The provisions are in
+the amended article 11 of the 2018 act, on page twenty of the gazette. What it
+does not settle is the channel: the system of article 46(1) is named for the
+register of entities and for service of documents, and the provisions read do
+not say that a notification travels through it.
+
+### Avancement de la transposition de la directive NIS 2 {#anssi-nis2-avancement}
+Agence nationale de la sécurité des systèmes d'information · France · read 2026-09-04
+https://aide.monespacenis2.cyber.gouv.fr/fr/article/avancement-de-la-transposition-de-la-directive-nis-2-1b3j1da/
+Kind: guidance
+Read: 2026-09-04
+Establishes: That the French transposing bill had passed the Senate on 12 March 2025 and the special committee of the Assemblée nationale on 10 September 2025, and had not been promulgated when the Agency updated the note on 19 September 2025.
+
+Recorded for the date it carries. A note that says a bill is a bill, with the
+day it was last checked, is the only kind of source that can establish that a
+law does not yet exist.
+
+### El Consejo de Ministros aprueba el anteproyecto de Ley de Coordinación y Gobernanza de la Ciberseguridad {#dsn-anteproyecto-ciberseguridad}
+Departamento de Seguridad Nacional · Spain · read 2026-09-04
+https://www.dsn.gob.es/en/node/24160
+Kind: announcement
+Read: 2026-09-04
+Establishes: That the Council of Ministers approved the draft transposing law on 14 January 2025, and that the draft would make a National Cybersecurity Center the single competent authority. It gives no date for the Cortes and no deadlines.
+
+### Real Decreto 43/2021, de 26 de enero, por el que se desarrolla el Real Decreto-ley 12/2018 {#es-rd-43-2021}
+Boletín Oficial del Estado · Spain · read 2026-09-04
+https://www.boe.es/diario_boe/txt.php?id=BOE-A-2021-1192
+Kind: act
+Read: 2026-09-04
+Establishes: That under the act transposing the first Directive the CCN-CERT, with INCIBE-CERT and ESPDEF-CERT, runs the Plataforma Nacional de Notificación y Seguimiento de Ciberincidentes (article 11), and that operators of essential services notify through it as soon as they hold the information to determine that an incident is reportable, with intermediate and final notifications set by severity in the annex.
+
+Recorded because it is what exists. Spain's NIS2 recipient is unwritten; the
+platform an operator uses today rests on this decree, and a reader who finds
+it should know which duty it discharges.
+
+### National implementing measures notified for Directive (EU) 2022/2555 {#eurlex-nim-nis2}
+Publications Office of the European Union · European Union · read 2026-09-04
+https://eur-lex.europa.eu/legal-content/EN/NIM/?uri=CELEX:32022L2555
+Kind: register
+Read: 2026-09-04
+Establishes: Which national acts each Member State has notified to the Commission as transposing the Directive, with each act's title, official publication and date. For Lithuania, twenty-two measures, among them the law amending the cyber security law, No XIV-2902, published in the Teisės aktų registras as 2024-13535 on 24 July 2024.
+
+A register of what was notified, not of what the acts say. It is used here for
+the one state whose own portals refuse an automated reader, and it establishes
+existence and identity, nothing further.

@@ -1158,6 +1158,33 @@ Name: Finanstilsynet
 Source: [esma-mar-nca]
 Read: 2026-09-03
 
+### csirt · Poland
+Role: csirt
+Country: PL
+Name: CSIRT NASK, and the competent sectoral CSIRT for the entity's sector
+URL: https://cert.pl/
+Channel: The amended act owes each stage of a serious-incident notification to the competent sectoral CSIRT. The Ministry's announcement of the bill said reports would reach the CSIRT teams through the S46 system; the provisions read name the system of article 46(1) for the register and for service, and no address is recorded here
+Source: [pl-dz-u-2026-252] [pl-mc-ksc-nowelizacja]
+Read: 2026-09-04
+
+### csirt · Spain
+Role: csirt
+Country: ES
+Name: INCIBE-CERT, the CSIRT of reference for the private sector under Real Decreto-ley 12/2018
+URL: https://www.incibe.es/incibe-cert
+Channel: Under the earlier act, the Plataforma Nacional de Notificación y Seguimiento de Ciberincidentes, run by the CCN-CERT with INCIBE-CERT and ESPDEF-CERT under article 11 of Real Decreto 43/2021. No NIS2 recipient is designated, and the platform is recorded as the existing regime's channel and not as discharging the NIS2 duty
+Source: [es-rd-43-2021] [incibe-faq-nis2]
+Read: 2026-09-04
+
+### csirt · Lithuania
+Role: csirt
+Country: LT
+Name: Nacionalinis kibernetinio saugumo centras prie Krašto apsaugos ministerijos
+URL: https://www.nksc.lt/
+Channel: Not recorded. The Centre's site answers an automated reader with an interstitial, and the act's text could not be opened
+Source: [eurlex-nim-nis2]
+Read: 2026-09-04
+
 ## Transpositions
 
 NIS2 is a Directive. The text that binds is the national act, and a Member State
@@ -1196,15 +1223,15 @@ Read: 2026-09-03
 
 ### NIS2 · France
 Country: FR
-Act: Not read. The French transposing act has not been opened for this record.
-In force: not read
+Act: Projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité. A bill, not a law
+In force: Not in force. The Agency's own note, updated 19 September 2025, records the Senate's adoption on 12 March 2025 and the vote of the Assemblée nationale's special committee on 10 September 2025, and states that the bill has not been promulgated
 Recipient: The competent national authority, which is the Agence nationale de la sécurité des systèmes d'information
-Divergence: None found on the first stage. The declaration is due *«sans retard injustifié ou dans les 24 heures après avoir eu connaissance de l'incident important»*, which is the Directive's own anchor. The later stages are not stated on the page read, so nothing is recorded about them.
+Divergence: None found on the first stage. The declaration is due *«sans retard injustifié ou dans les 24 heures après avoir eu connaissance de l'incident important»*, which is the Directive's own anchor. The later stages are not stated on the page read, so nothing is recorded about them
 Moves: no
 Stage: awareness
-Standing: This is the Agency's operational guidance for regulated entities, not the transposing act. Whether the recipient is the Agency as competent authority or a separately designated CSIRT is not settled here.
-Source: [anssi-nis2-declaration]
-Read: 2026-09-03
+Standing: The terms are read in the Agency's operational guidance for regulated entities, not in a transposing act, because there is none: the Agency states that *«NIS 2 rentrera donc en vigueur en France dès lors que l'ensemble des textes de transposition (loi, décrets, arrêtés) auront été promulgués»*. Whether the recipient is the Agency as competent authority or a separately designated CSIRT is not settled here
+Source: [anssi-nis2-declaration] [anssi-nis2-avancement]
+Read: 2026-09-04
 
 ### NIS2 · Netherlands
 Country: NL
@@ -1220,15 +1247,15 @@ Read: 2026-09-03
 
 ### NIS2 · Spain
 Country: ES
-Act: Not complete. Read on the date below, the Spanish CSIRT's own guidance still describes the recipients as something the transposition will settle.
-In force: not settled
+Act: Anteproyecto de Ley de Coordinación y Gobernanza de la Ciberseguridad. A draft, approved by the Council of Ministers on 14 January 2025 and not published in the Boletín Oficial del Estado when this was read
+In force: not in force
 Recipient: not recorded, see Divergence
 Divergence: None found in the terms. The FAQ gives the Directive's three stages, *«una alerta temprana en las primeras 24 h»*, *«antes de 72 h ... una notificación del incidente»*, *«informe final, a más tardar un mes después de presentar la notificación del incidente»*, all *«desde el conocimiento del mismo»*. The divergence is elsewhere: the page does not say who receives them. *«Tanto los CSIRT de referencia y las autoridades competentes como el punto de contacto único se conocerán con la trasposición de la norma a la legislación española.»*
 Moves: unsettled
 Stage: not established
-Standing: An organization in Spain therefore holds the terms and not the recipient, and with no recipient there is no channel either. The national institute runs a services portal through which collaborating companies notify incidents, which is a different arrangement from the statutory duty and is not recorded as discharging it. This record leaves the Spanish recipient unwritten rather than naming a body the source does not name.
-Source: [incibe-faq-nis2]
-Read: 2026-09-03
+Standing: An organization in Spain therefore holds the terms and not the recipient. What exists is the regime that transposed the first Directive: Real Decreto-ley 12/2018 and Real Decreto 43/2021, whose article 11 has the CCN-CERT, with INCIBE-CERT and ESPDEF-CERT, run the *«Plataforma Nacional de Notificación y Seguimiento de Ciberincidentes»*. That platform is the channel for operators of essential services under the earlier act, with its own deadlines by severity, and it is recorded in the authorities table as that and not as the NIS2 duty. This record leaves the NIS2 recipient unwritten rather than naming a body the source does not name
+Source: [incibe-faq-nis2] [dsn-anteproyecto-ciberseguridad] [es-rd-43-2021]
+Read: 2026-09-04
 
 ### NIS2 · Austria
 Country: AT
@@ -1328,16 +1355,28 @@ Read: 2026-09-03
 
 ### NIS2 · Poland
 Country: PL
-Act: An amendment to the ustawa o krajowym systemie cyberbezpieczeństwa, passed by the Sejm and reported by the Ministry on 23 January 2026.
-In force: not stated in the source read
-Recipient: not recorded, see Divergence
-Divergence: Not established. The Ministry's own announcement does not give a date of entry into force, and does not give the notification deadlines. What it does say is where the reports will go: *«Usprawnione zostanie też zgłaszanie incydentów – informacje będą przekazywane bezpośrednio do zespołów CSIRT przez system S46.»* It also says administrative fines may first be imposed two years after the act enters into force, which is the only interval the page gives.
+Act: Ustawa z dnia 23 stycznia 2026 r. o zmianie ustawy o krajowym systemie cyberbezpieczeństwa oraz niektórych innych ustaw, Dz.U. 2026 poz. 252
+In force: 3 April 2026, one month after promulgation in the Dziennik Ustaw on 2 March 2026, by article 49
+Recipient: csirt
+Divergence: In two places. **The anchor is detection.** The amended article 11 owes the early warning *«niezwłocznie, nie później niż w ciągu 24 godzin od momentu jego wykrycia»* and the notification *«nie później niż w ciągu 72 godzin od momentu jego wykrycia»*, where the Directive runs both from having become aware. The final report is owed *«nie później niż w ciągu miesiąca od dnia zgłoszenia»*, from the day of the notification, which is the Directive's own anchor for that stage. **The recipient is sectoral.** Each of the three is owed *«do właściwego CSIRT sektorowego»*, the competent sectoral CSIRT, and not to a single national team
+Moves: yes
+Stage: detection
+Standing: Read in the act as promulgated in the Dziennik Ustaw. The date of entry into force is computed from article 49 and the promulgation date, a month counted the way Polish law counts one. The act names the system of its article 46(1) for the register of entities and for service of documents; whether serious-incident notifications go through the same system is not stated in the provisions read. The recipient is resolved in the authorities table to the national CSIRT, with the sectoral routing and the channel noted there
+Source: [pl-dz-u-2026-252]
+Read: 2026-09-04
+
+
+### NIS2 · Lithuania
+Country: LT
+Act: Lietuvos Respublikos kibernetinio saugumo įstatymo Nr. XII-1428 pakeitimo įstatymas Nr. XIV-2902, Teisės aktų registras 2024-13535
+In force: Not read. Promulgated on 24 July 2024 by the Union register's entry; the date it took effect is in a text this record could not open
+Recipient: csirt
+Divergence: Not established. The act is notified to the Commission as transposing the Directive and the register names it, its number and its publication. Its text is served by e-tar.lt, e-seimas.lrs.lt and the Centre's own site, and every one of the three answers an automated reader with an interstitial that never resolves; the Publications Office holds no copy. The terms and the point they run from are therefore not recorded
 Moves: unsettled
 Stage: not established
-Standing: A ministerial announcement about a bill the Sejm has passed, which is not the same as an act in force. The channel exists already, under the system now in force: reports go through System S46, whose instructions the Ministry publishes at gov.pl/web/system-s46/zgloszenie-incydentu. Access is granted rather than open, an account is activated from a link the S46 team sends, so it is a prerequisite and not a step. This record therefore names no Polish recipient and no Polish terms. Poland's existing national system rests on the earlier act, which has not been read here.
-Source: [pl-mc-ksc-nowelizacja]
-Read: 2026-09-03
-
+Standing: Read in the Union's register of national implementing measures, which establishes that the act exists, what it is called and when it was published, and nothing about what it says. Twenty-two measures are notified for Lithuania, and this is the one that amends the cyber security law
+Source: [eurlex-nim-nis2]
+Read: 2026-09-04
 ### NIS2 · Romania
 Country: RO
 Act: Ordonanța de urgență nr. 155/2024
