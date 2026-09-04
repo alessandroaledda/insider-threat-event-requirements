@@ -429,8 +429,8 @@ Read: 2026-09-03
 Establishes: That Romania transposes the NIS2 cascade without moving a term or an anchor, and that the final report is due within one month of the incident notification.
 
 A close transposition, recorded because a close transposition is a finding
-too. It keeps the Directive's unit for the final report — one month, not
-thirty days — which is where several other Member States quietly part
+too. It keeps the Directive's unit for the final report, one month rather than
+thirty days, which is where several other Member States quietly part
 company.
 
 Read in the ordinance itself. What it leaves out is the channel.
@@ -467,7 +467,7 @@ incident rather than becoming aware of it.
 
 Set beside Finland, which replaced the anchor with detection, and Czechia,
 which replaced it with an internal classification, the pattern is that the
-anchor is the least stable part of the cascade in transposition — the part
+anchor is the least stable part of the cascade in transposition, the part
 an organisation is most likely to assume, and least likely to find.
 
 ### Küberturvalisuse seadus {#ee-kuberturvalisuse-seadus}
@@ -511,8 +511,8 @@ Establishes: That Slovenia measures both the twenty-four and the seventy-two hou
 
 The act, as published in the Uradni list.
 
-Article 30 measures both stages *po zaznavi* — after the detecting of the
-significant incident — where the Directive measures from having become aware.
+Article 30 measures both stages *po zaznavi*, after the detecting of the
+significant incident, where the Directive measures from having become aware.
 Everything after the anchor is the Directive's, including a final report one
 month from the incident notification and, where the incident is still running, a
 progress report and a final report one month from its resolution.
@@ -530,7 +530,7 @@ It gives the law's date, the body that receives notifications, and one interval:
 the preliminary notification within twenty-four hours. It does not say what the
 twenty-four hours run from, and it does not give the stages after the first.
 
-### Measures for a High Common Level of Cybersecurity Across the European Union (Malta) Order, 2024 — consultation draft {#mt-cybersecurity-order-draft}
+### Measures for a High Common Level of Cybersecurity Across the European Union (Malta) Order, 2024, consultation draft {#mt-cybersecurity-order-draft}
 Critical Infrastructure Protection Directorate, Ministry for Home Affairs, Security and Employment · Malta · read 2026-09-03
 https://maltacip.gov.mt/wp-content/uploads/2024/09/Measures-for-A-High-Common-Level-of-Cybersecurity-Across-The-European-Union-Malta-Order-2024.pdf
 Kind: announcement
@@ -589,12 +589,12 @@ Establishes: That Iceland's regime in force sets no numeric notification deadlin
 
 The consolidated act, on the Althingi's site.
 
-Article 8 requires notification *svo fljótt sem verða má* — as soon as may be —
+Article 8 requires notification *svo fljótt sem verða má*, as soon as may be,
 for serious incidents, and sets no interval. There is no early warning at
 twenty-four hours, no notification at seventy-two, and no final report at one
 month. The act does not cite Directive (EU) 2022/2555.
 
-### Cyber Security Act (CSG), 355.13 — official English translation {#li-csg}
+### Cyber Security Act (CSG), 355.13, official English translation {#li-csg}
 Regierung des Fürstentums Liechtenstein · Liechtenstein · read 2026-09-03
 https://www.regierung.li/files/attachments/2025111000-csg-en.pdf
 Kind: act
@@ -636,8 +636,8 @@ Establishes: That Bulgaria measures both the twenty-four and the seventy-two hou
 The consolidated act, in the version carrying
 the 2026 amendments that transpose the Directive.
 
-Both stages run *след установяването* of the significant incident — after its
-establishing — where the Directive runs them from having become aware. Trust
+Both stages run *след установяването* of the significant incident, after its
+establishing, where the Directive runs them from having become aware. Trust
 service providers have twenty-four hours for the second stage. The later stages
 are the Directive's, including a final report one month from the incident
 notification, and the act obliges the recipient to return a response with
@@ -823,7 +823,7 @@ organisation either already holds or does not.
 https://cyber.gov.gr/kyvernoepitheseis/anafora-symvanton/
 Kind: guidance
 Read: 2026-09-03
-Establishes: That Greece has no reporting portal for the NIS2 duty, and that the Authority takes two dated forms by electronic mail at incident@cyber.gov.gr — a simple one for the early warning, an analytical one for the later stages.
+Establishes: That Greece has no reporting portal for the NIS2 duty, and that the Authority takes two dated forms by electronic mail at incident@cyber.gov.gr: a simple one for the early warning, an analytical one for the later stages.
 
 The law, read in the Government Gazette, gives the cascade and no channel. This
 gives the channel and something more useful than an address: the forms are split
