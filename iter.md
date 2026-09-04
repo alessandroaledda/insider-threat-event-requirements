@@ -106,7 +106,9 @@ Full name: Directive (EU) 2022/2555, on measures for a high common level of cybe
 What: It sets cybersecurity obligations for entities in the sectors it lists. Article 23 requires an early warning within twenty-four hours, a notification within seventy-two, and a final report within one month. It is a directive, so it binds through the national act, and the national act is where the procedure and sometimes the starting point are fixed
 Reaches: Essential and important entities: the sectors of annexes I and II, above the size threshold or caught by name
 Reports to: The CSIRT, or the competent authority where the national act names one instead
-Anchor: Article 23, with article 3 for essential and important entities
+Annex I: Energy, Transport, Banking, Financial market infrastructures, Health, Drinking water, Waste water, Digital infrastructure, ICT service management, Public administration, Space
+Annex II: Postal and courier services, Waste management, Chemicals, Food, Manufacturing, Digital providers, Research
+Anchor: Article 23, with article 3 for essential and important entities, and annexes I and II for the sectors
 Source: [nis2]
 Read: 2026-09-04
 
@@ -116,7 +118,8 @@ What: It sets digital operational resilience requirements for financial entities
 Reaches: The financial entities listed in article 2: credit institutions, payment and electronic money institutions, investment firms, insurance and reinsurance undertakings, and the rest of that list
 Displaces: NIS2. Where a sector-specific Union act covers the same ground with requirements at least equivalent in effect, the incident reporting in the Directive does not apply
 Reports to: The competent authority for the entity, which for a significant credit institution is the European Central Bank under the SSM Regulation
-Anchor: Article 19, with Delegated Regulation (EU) 2025/301 for the terms and (EU) 2024/1772 for what makes an incident major
+Entities: Credit institutions, Payment institutions, Electronic money institutions, Investment firms, Crypto-asset service providers, Central securities depositories, Central counterparties, Trading venues, Trade repositories, Managers of alternative investment funds, Management companies, Data reporting service providers, Insurance and reinsurance undertakings, Insurance intermediaries, Institutions for occupational retirement provision, Credit rating agencies, Administrators of critical benchmarks, Crowdfunding service providers, Securitisation repositories, ICT third-party service providers
+Anchor: Article 19, with Delegated Regulation (EU) 2025/301 for the terms and (EU) 2024/1772 for what makes an incident major, and article 2 for the entities it reaches
 Source: [dora], [dora-rts-terms], [dora-rts-class], [ssm]
 Read: 2026-09-04
 
