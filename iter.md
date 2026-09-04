@@ -85,6 +85,49 @@ facts are established by different means: a disclosure is traced to where the
 data went, a consultation is established by reading why it was made, and no
 instrument sets a term for that.
 
+## Instruments
+
+What each instrument is, and what it requires when an event occurs. One block
+per instrument named in the act tables above. `Reaches` states who it binds;
+`Displaces` is written only where an instrument sets aside another.
+
+### GDPR
+Full name: Regulation (EU) 2016/679, General Data Protection Regulation
+What: It governs the processing of personal data. Where a breach of security leads to the destruction, loss, alteration, unauthorised disclosure of or access to personal data, article 33 requires a notification to the supervisory authority, and article 34 a communication to the people concerned where the risk to their rights and freedoms is high
+Reaches: Every organisation that processes personal data, whatever its sector and whatever its size. No threshold and no sector list stands between a reader and this one
+Reports to: The supervisory authority of the Member State, and where the risk is high, the people whose data it is
+Anchor: Articles 33 and 34, with article 4(12) for what a personal data breach is
+Source: [gdpr], [edpb-9-2022]
+Read: 2026-09-04
+
+### NIS2
+Full name: Directive (EU) 2022/2555, on measures for a high common level of cybersecurity across the Union
+What: It sets cybersecurity obligations for entities in the sectors it lists. Article 23 requires an early warning within twenty-four hours, a notification within seventy-two, and a final report within one month. It is a directive, so it binds through the national act, and the national act is where the procedure and sometimes the starting point are fixed
+Reaches: Essential and important entities: the sectors of annexes I and II, above the size threshold or caught by name
+Reports to: The CSIRT, or the competent authority where the national act names one instead
+Anchor: Article 23, with article 3 for essential and important entities
+Source: [nis2]
+Read: 2026-09-04
+
+### DORA
+Full name: Regulation (EU) 2022/2554, on digital operational resilience for the financial sector
+What: It sets digital operational resilience requirements for financial entities. Article 19 requires a major ICT-related incident to be reported to the competent authority, and Delegated Regulation (EU) 2025/301 fixes the intervals: an initial notification within four hours of classification and in any case within twenty-four hours of becoming aware, an intermediate report within seventy-two hours of that notification, and a final report within one month of the intermediate one
+Reaches: The financial entities listed in article 2: credit institutions, payment and electronic money institutions, investment firms, insurance and reinsurance undertakings, and the rest of that list
+Displaces: NIS2. Where a sector-specific Union act covers the same ground with requirements at least equivalent in effect, the incident reporting in the Directive does not apply
+Reports to: The competent authority for the entity, which for a significant credit institution is the European Central Bank under the SSM Regulation
+Anchor: Article 19, with Delegated Regulation (EU) 2025/301 for the terms and (EU) 2024/1772 for what makes an incident major
+Source: [dora], [dora-rts-terms], [dora-rts-class], [ssm]
+Read: 2026-09-04
+
+### MAR
+Full name: Regulation (EU) No 596/2014, Market Abuse Regulation
+What: It governs market abuse. Article 17 requires an issuer to disclose inside information concerning it to the public as soon as possible, permits a delay on the issuer's own responsibility under stated conditions, and ends that delay where confidentiality is lost. It is the one instrument here whose recipient is the public rather than an authority
+Reaches: Issuers whose financial instruments are admitted to trading, and issuers who have requested or approved admission
+Reports to: The public, through a means enabling fast access and complete assessment; and the competent authority, where disclosure was delayed
+Anchor: Article 17, with article 7(1)(a) for what inside information is
+Source: [mar]
+Read: 2026-09-04
+
 ## The stages of knowing
 
 Every term in this record runs from a moment, and the instruments do not agree
