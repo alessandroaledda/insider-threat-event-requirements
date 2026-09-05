@@ -73,7 +73,7 @@ Rows: written under the GDPR, DORA, NIS2 and MAR.
 What it is: Availability. A service stops, or the records behind it cannot be reached when they are needed. Article 4(12) names destruction and loss alongside disclosure, so the same obligations arise; and where the organization is a financial entity or an essential one, availability is the limb its sector regime is built around.
 Added: 2026-09-02
 Updated: 2026-09-03
-Rows: written under the GDPR, DORA, NIS2 and MAR. No decided case: the four worked examples that would calibrate it are ransomware, which is an outside actor.
+Rows: written under the GDPR, DORA, NIS2 and MAR. Calibrated on the availability limb by cases 1 to 3 of Guidelines 01/2021, whose actor is external and whose reasoning does not turn on it.
 
 ### T5 · Unauthorized consultation, without extraction
 What it is: An employee opens records they had no business opening. Nothing leaves the organization. Under article 4(12) GDPR this is a breach on its own, because unauthorized access is in the definition.
@@ -1463,13 +1463,13 @@ Read: 2026-09-03
 
 ### NIS2 · Malta
 Country: MT
-Act: Measures for a High Common Level of Cybersecurity Across the European Union (Malta) Order, 2024, read in a public consultation draft, not as a made Legal Notice.
+Act: Measures for a High Common Level of Cybersecurity Across the European Union (Malta) Order, 2024
 In force: Not fixed. Article 1(3) leaves it to *«such a date as the Prime Minister may by notice in the Gazette establish»*, and different dates may be set for different provisions.
 Recipient: CSIRTMalta, in the order as drafted
 Divergence: The draft moves nothing. Sub-article (6) reproduces the cascade exactly: the early warning *«within twenty-four (24) hours of becoming aware of the significant incident»*, the incident notification *«within seventy-two (72) hours of becoming aware»*, an intermediate report on request, the final report *«not later than one (1) month after the submission of the incident notification»*, and where the incident is still running, a progress report then and a final report within one month of its handling. Trust service providers get twenty-four hours. CSIRTMalta owes a response within twenty-four hours of the early warning. What is unsettled is not the content but the standing: every page of the document read carries the footer *Public Consultation*, and the citation reads *«L.N. of 2024»* with no number.
 Moves: unsettled
 Stage: not established
-Standing: A consultation draft, published by the Ministry responsible. Whether the order has since been made, and on what date it was brought into force, is not established by this source. The terms are recorded because they were read; the instrument is not recorded as binding, because this document does not show that it is.
+Standing: Read in a public consultation draft, not as a made Legal Notice. A consultation draft, published by the Ministry responsible. Whether the order has since been made, and on what date it was brought into force, is not established by this source. The terms are recorded because they were read; the instrument is not recorded as binding, because this document does not show that it is.
 Source: [mt-cybersecurity-order-draft]
 Read: 2026-09-03
 
@@ -2069,11 +2069,22 @@ record does not either: what it shows is that the interval exists, that it is
 measured in months rather than hours, and that nothing in the instruments fixes
 where inside it awareness fell.
 
+### T4, decided: data unavailable, with a backup and without
+Facts: Three of the Board's eighteen. Case 1, ransomware with a proper and separate backup and no exfiltration, restored within hours. Case 2, ransomware with no electronic backup and no encryption at rest; the data had to be re-entered from paper. Case 3, ransomware in a hospital with a backup, restored over several days, special categories throughout.
+Held: In each the risk arises from the lack of availability of the data, not from its confidentiality. What moves the assessment is whether a backup exists, how long the data is unavailable, and what the data is for. In case 2 the controller cannot say from an absent log entry that nothing was exfiltrated, and the risk includes the loss.
+Outcome: Case 1, documentation only. Case 2, documentation and notification to the authority. Case 3, documentation, notification to the authority, and communication to the people concerned, because the unavailability delayed their care.
+Moves the outcome: A backup that is separate and restores quickly, the duration of the unavailability, and whether the service the data serves is one people depend on in the interval.
+Applies to T4: On the availability limb. The actor in all three is external, and nothing in the Board's reasoning turns on it: an administrator who deletes the data and the backups puts the organization in case 2, and one who deletes them in a hospital in case 3.
+Applies to T3: On the alteration limb, from case 1. The Board's own words are that the breach *«led to unlawful alteration and unauthorized access to personal data stored»*; case 2 adds destruction, since data with no backup is lost. What is decided is that alteration and loss are breaches in themselves, with no disclosure; what is not decided is anything about who did it.
+Source: [edpb-1-2021] §17, §24, §26 to §35, §36 to §41
+Read: 2026-09-05
+
 ### T1, decided: an employee taking client data
 Facts: An employee copies business data during his notice period and uses the contact data months later to approach the clients for his own business. No special categories. Low to medium volume. The database left intact.
 Held: The controller is not in a position to consider the risk to the data subjects low, because it has no reassurance about the intentions of the employee, and more serious abuse is not ruled out.
 Outcome: Documentation required. Notification to the authority required. Communication to the people concerned not required.
 Moves the outcome: Special categories, large volume, or evidence of onward sale.
+Applies to T2: On the Board's own title. The material copied was business data, the clientele's contact list, and the Board decided the personal data inside it. The T2 obligations that would attach under DORA, NIS2 or MAR were not before it, so the case decides the personal-data limb of a T2 and nothing further.
 Applies to T5: By analogy only. The case is a T1 and it is recorded as one. What carries across to T5 is the reasoning on intent, not the outcome.
 Source: [edpb-1-2021] §72, §74, §77
 Read: 2026-09-02
