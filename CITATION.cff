@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+title: "Insider Threat Event Requirements (ITER)"
+abstract: >-
+  A living record of what an insider event obliges in Europe: the event
+  types, the reporting acts each one obliges, the term on each, whom it is
+  owed to and the point the term runs from, the bodies and addresses a report
+  goes to in each jurisdiction, the national acts that move a term, and the
+  decided cases on the tests the instruments leave open, each stated from a
+  source that has been read.
+type: dataset
+message: "If you use this record, please cite it."
+authors:
+  - family-names: Aledda
+    given-names: Alessandro
+    website: "https://alessandroaledda.com/about.html"
+url: "https://alessandroaledda.com/iter/"
+repository-code: "https://github.com/alessandroaledda/insider-threat-event-requirements"
+license: CC-BY-4.0
+version: "1.0"
+date-released: "2026-09-05"
+keywords:
+  - insider threat
+  - insider risk
+  - breach notification
+  - incident reporting
+  - GDPR
+  - NIS2
+  - DORA
+  - market abuse
+  - Europe
