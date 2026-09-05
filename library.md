@@ -159,7 +159,7 @@ Kind: register
 Read: 2026-09-03
 Establishes: Which body is the supervisory authority in each of thirty European countries, in its own official name.
 
-The Board's list of its members: the supervisory authority
+The EDPB's list of its members: the supervisory authority
 designated by each State under article 51.
 
 It names the body. It does not say through which channel a notification reaches
@@ -880,7 +880,7 @@ European Data Protection Board · European Union · 4 April 2023, version 2.0
 https://www.edpb.europa.eu/system/files/2023-04/edpb_guidelines_202209_personal_data_breach_notification_v2.0_en.pdf
 Kind: guidance
 Read: 2026-09-02
-Establishes: How the Board reads the moment of awareness, that a short period of investigation precedes it, and that an unbounded one can be treated as a failure to notify.
+Establishes: How the EDPB reads the moment of awareness, that a short period of investigation precedes it, and that an unbounded one can be treated as a failure to notify.
 
 Paragraph 31 puts awareness at a reasonable degree of certainty that a security
 incident has occurred that has led to personal data being compromised.
@@ -889,7 +889,7 @@ breach has in fact occurred, during which the controller may not be regarded as
 aware. Paragraph 36 expects those preliminary actions to be completed soon after
 the initial alert and says a longer period should be exceptional.
 
-Paragraph 37 names the technical measures the Board has in mind: data flow and
+Paragraph 37 names the technical measures the EDPB has in mind: data flow and
 log analyzers, from which events and alerts are defined by correlating log data.
 Paragraph 39 expects security events to reach a person whose task is
 establishing that a breach exists and assessing the risk. Paragraph 40 states
@@ -911,7 +911,7 @@ Establishes: Eighteen worked cases, each with the facts, the risk assessment and
 Case 8 is an employee who copies client contact data during his notice period
 and uses it months later to approach those clients for his own business. No
 special categories, low to medium volume, the database left intact. On those
-facts the Board still refuses to call the risk low, at paragraph 74, because the
+facts the EDPB still refuses to call the risk low, at paragraph 74, because the
 controller has no reassurance about the intentions of the employee and more
 serious abuse is not ruled out. The outcome at paragraph 77: documentation
 required, notification to the authority required, communication to the people

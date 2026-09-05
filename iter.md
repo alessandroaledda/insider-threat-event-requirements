@@ -143,7 +143,7 @@ national quirk. Set side by side they fall on one scale, and the scale is short.
 - **Detection.** Something is noticed: an alert, a log line, a report from a
   colleague. Nobody has yet decided what it is.
 - **Awareness.** The organization is taken to know that a significant incident
-  has occurred. This is the Directive's own point, and the Board reads it as a
+  has occurred. This is the Directive's own point, and the EDPB reads it as a
   reasonable degree of certainty rather than proof.
 - **Determination.** Someone inside decides the event qualifies. A named officer
   classifies it, or the entity concludes that a significant incident exists.
@@ -159,7 +159,7 @@ established from outside the organization's account of itself.
 
 Determination is fixed by the organization, at the point it decides the event
 qualifies. Nothing outside its own record establishes when that happened. The
-interval between the two is the period the Board addresses in Guidelines
+interval between the two is the period the EDPB addresses in Guidelines
 9/2022: a short investigation may precede awareness, and where it is left open
 and a breach did occur, the delay can be treated as a failure to notify.
 
@@ -174,7 +174,7 @@ against that wording.
 
 ### Declared awareness
 Do: Declare and record the moment the organization is taken to know
-No instrument defines it. The Board reads it as a reasonable degree of certainty
+No instrument defines it. The EDPB reads it as a reasonable degree of certainty
 that a security incident has occurred that has led to personal data being
 compromised. A short period of investigation may precede it, during which the
 controller may not be regarded as aware, and that period is expected to be
@@ -191,7 +191,7 @@ An act names a **role**. This table gives the body that holds the role in each
 country. Where the table has no entry, the act says so rather than naming a
 plausible body.
 
-Only one role is filled. The Board publishes the list of its members, so the
+Only one role is filled. The EDPB publishes the list of its members, so the
 data protection authority is known for thirty countries. The other three are
 not published as a list that could be read: DORA, NIS2 and MAR do not name a
 body, they name a mechanism by which a Member State designates one, and the
@@ -1570,7 +1570,7 @@ Source: [garante-192-2011]
 Read: 2026-09-02
 
 Everywhere else on this record, the ability to detect is reached indirectly:
-article 32 requires appropriate measures, and the Board treats the ability to
+article 32 requires appropriate measures, and the EDPB treats the ability to
 detect, address and report a breach in good time as one of them. For an Italian
 bank it is stated directly, with a retention period and a requirement to alert.
 
@@ -1626,7 +1626,7 @@ Applies: All organizations
 Do: Record the breach, its effects, and what was done about it
 Term: No term
 From: No term, so no starting point
-Anchor: Throughout. The Board expects the documentation to be made as the incident develops
+Anchor: Throughout. The EDPB expects the documentation to be made as the incident develops
 Owed to: Nobody, until asked
 Establish: The facts, the effects, the remedial action
 Public: No
@@ -1688,7 +1688,7 @@ Applies: All organizations
 Do: Record the breach, its effects, and what was done about it
 Term: No term
 From: No term, so no starting point
-Anchor: Throughout. The Board expects the documentation to be made as the incident develops
+Anchor: Throughout. The EDPB expects the documentation to be made as the incident develops
 Owed to: Nobody, until asked
 Establish: The facts, the effects, the remedial action
 Public: No
@@ -1750,7 +1750,7 @@ Applies: All organizations
 Do: Record the breach, its effects, and what was done about it
 Term: No term
 From: No term, so no starting point
-Anchor: Throughout. The Board expects the documentation to be made as the incident develops
+Anchor: Throughout. The EDPB expects the documentation to be made as the incident develops
 Owed to: Nobody, until asked
 Establish: The facts, the effects, the remedial action
 Public: No
@@ -1805,7 +1805,7 @@ Applies: All organizations
 Do: Record the breach, its effects, and what was done about it
 Term: No term
 From: No term, so no starting point
-Anchor: Throughout. The Board expects the documentation to be made as the incident develops
+Anchor: Throughout. The EDPB expects the documentation to be made as the incident develops
 Owed to: Nobody, until asked
 Establish: The facts, the effects, the remedial action
 Public: No
@@ -1996,12 +1996,12 @@ Read: 2026-09-03
 Where an instrument leaves a test open, the record carries the case in which a
 body applied it. It does not supply a threshold of its own.
 
-The Board decided eighteen cases in Guidelines 01/2021. Each reached three
+The EDPB decided eighteen cases in Guidelines 01/2021. Each reached three
 outcomes: whether to document, whether to tell the authority, whether to tell
 the people concerned. Documentation was required in all eighteen, which is the
 Article 33(5) obligation behaving as written.
 
-Type is assigned by this record, not by the Board.
+Type is assigned by this record, not by the EDPB.
 
 | # | Case | Type | Document | Authority | People |
 |---|---|---|---|---|---|
@@ -2070,12 +2070,12 @@ measured in months rather than hours, and that nothing in the instruments fixes
 where inside it awareness fell.
 
 ### T4, decided: data unavailable, with a backup and without
-Facts: Three of the Board's eighteen. Case 1, ransomware with a proper and separate backup and no exfiltration, restored within hours. Case 2, ransomware with no electronic backup and no encryption at rest; the data had to be re-entered from paper. Case 3, ransomware in a hospital with a backup, restored over several days, special categories throughout.
+Facts: Three of the EDPB's eighteen. Case 1, ransomware with a proper and separate backup and no exfiltration, restored within hours. Case 2, ransomware with no electronic backup and no encryption at rest; the data had to be re-entered from paper. Case 3, ransomware in a hospital with a backup, restored over several days, special categories throughout.
 Held: In each the risk arises from the lack of availability of the data, not from its confidentiality. What moves the assessment is whether a backup exists, how long the data is unavailable, and what the data is for. In case 2 the controller cannot say from an absent log entry that nothing was exfiltrated, and the risk includes the loss.
 Outcome: Case 1, documentation only. Case 2, documentation and notification to the authority. Case 3, documentation, notification to the authority, and communication to the people concerned, because the unavailability delayed their care.
 Moves the outcome: A backup that is separate and restores quickly, the duration of the unavailability, and whether the service the data serves is one people depend on in the interval.
-Applies to T4: On the availability limb. The actor in all three is external, and nothing in the Board's reasoning turns on it: an administrator who deletes the data and the backups puts the organization in case 2, and one who deletes them in a hospital in case 3.
-Applies to T3: On the alteration limb, from case 1. The Board's own words are that the breach *«led to unlawful alteration and unauthorized access to personal data stored»*; case 2 adds destruction, since data with no backup is lost. What is decided is that alteration and loss are breaches in themselves, with no disclosure; what is not decided is anything about who did it.
+Applies to T4: On the availability limb. The actor in all three is external, and nothing in the EDPB's reasoning turns on it: an administrator who deletes the data and the backups puts the organization in case 2, and one who deletes them in a hospital in case 3.
+Applies to T3: On the alteration limb, from case 1. The EDPB's own words are that the breach *«led to unlawful alteration and unauthorized access to personal data stored»*; case 2 adds destruction, since data with no backup is lost. What is decided is that alteration and loss are breaches in themselves, with no disclosure; what is not decided is anything about who did it.
 Source: [edpb-1-2021] §17, §24, §26 to §35, §36 to §41
 Read: 2026-09-05
 
@@ -2084,7 +2084,7 @@ Facts: An employee copies business data during his notice period and uses the co
 Held: The controller is not in a position to consider the risk to the data subjects low, because it has no reassurance about the intentions of the employee, and more serious abuse is not ruled out.
 Outcome: Documentation required. Notification to the authority required. Communication to the people concerned not required.
 Moves the outcome: Special categories, large volume, or evidence of onward sale.
-Applies to T2: On the Board's own title. The material copied was business data, the clientele's contact list, and the Board decided the personal data inside it. The T2 obligations that would attach under DORA, NIS2 or MAR were not before it, so the case decides the personal-data limb of a T2 and nothing further.
+Applies to T2: On the EDPB's own title. The material copied was business data, the clientele's contact list, and the EDPB decided the personal data inside it. The T2 obligations that would attach under DORA, NIS2 or MAR were not before it, so the case decides the personal-data limb of a T2 and nothing further.
 Applies to T5: By analogy only. The case is a T1 and it is recorded as one. What carries across to T5 is the reasoning on intent, not the outcome.
 Source: [edpb-1-2021] §72, §74, §77
 Read: 2026-09-02
@@ -2116,7 +2116,7 @@ Read: 2026-09-02
   Union; the recipients are not, and eleven of the twenty-nine move a term.
 - T4 has rows and no decided case. The four worked examples that would calibrate
   it are ransomware, an outside actor, and they are not used as its evidence; they
-  stay in the table of the Board's eighteen because that table records what the
+  stay in the table of the EDPB's eighteen because that table records what the
   source decided. What is missing is a decided case of an interruption caused from
   within: an administrator deleting the infrastructure, disabling the controls,
   or locking the systems on the way out.
