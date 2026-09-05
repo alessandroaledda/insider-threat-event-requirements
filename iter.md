@@ -2232,13 +2232,17 @@ Read: 2026-09-02
   legitimate interests for delay, and the situations where delay would mislead.
   Those guidelines are not read, so the record states the three conditions and
   supplies no examples of them.
-- Fourteen reporting addresses are recorded, each read on the page that names
+- Fifteen reporting addresses are recorded, each read on the page that names
   it and each verified to answer. Five countries take their notifications by
   electronic mail with a form filled in offline: Cyprus, Greece, Latvia, Norway
-  and Slovenia. That is the channel, not an absence of one. Five more name a
-  platform this record could not reach: Belgium, Liechtenstein, Portugal, Romania
-  and Slovakia, whose sites refuse automated requests or return nothing. Malta and
-  Bulgaria have neither. Spain has no channel because it has no recipient.
+  and Slovenia. That is the channel, not an absence of one. Three name a
+  platform this record could not open: Liechtenstein, Portugal and Romania, whose
+  sites refuse automated requests; Lithuania's Centre refuses them too, and its
+  act is recorded from the Commission's notification, unread. Belgium leaves the
+  arrangements to a protocol, Poland owes each stage to the sectoral CSIRT, Spain
+  has only the platform of the earlier regime, and Malta and Bulgaria have
+  neither. The United Kingdom's regulation names no portal, and the Swiss
+  Office's page on the duty answered 404.
 - Two countries take every instrument at one address. Luxembourg's SERIMA
   receives the NIS2 notification, the GDPR notification, the electronic
   communications one and CER, and was built jointly by the regulator and the data
@@ -2249,22 +2253,28 @@ Read: 2026-09-02
   identification system with authorization granted in advance in Croatia, an
   activated account in Poland. No instrument mentions this, and it decides whether
   a report arrives on time.
-- Twenty-nine jurisdictions carry a recipient. The terms are the same across the
-  Union; the recipients are not, and eleven of the twenty-nine move a term.
-- T4 has rows and no decided case. The four worked examples that would calibrate
-  it are ransomware, an outside actor, and they are not used as its evidence; they
-  stay in the table of the EDPB's eighteen because that table records what the
-  source decided. What is missing is a decided case of an interruption caused from
-  within: an administrator deleting the infrastructure, disabling the controls,
-  or locking the systems on the way out.
-- T2 has no decided case, and no GDPR row either. It is the type where an
-  organization can lose the thing it most values and owe nothing to a data
-  protection authority, while owing everything to a market authority if the
-  information was price-sensitive.
-- T3 has no decided case. The eighteen worked examples contain alteration only
-  inside the ransomware group, which is left out for the same reason as T4.
+- Thirty-one jurisdictions carry a recipient, and thirty transpositions are
+  recorded. The terms are the same across the Union; the recipients are not, and
+  the rows that move a term say so. Two states outside the Union carry what
+  binds there instead of the four instruments, read as equivalents: the retained
+  UK GDPR and UK MAR with the NIS Regulations 2018, and the Swiss FADP with the
+  ISG's reporting duty. The Cyber Security and Resilience Bill that would replace
+  the NIS Regulations is not read.
+- T2, T3 and T4 are calibrated on the EDPB's own cases on their limbs: business
+  data copied by an employee for T2, alteration and loss for T3, unavailability
+  with and without a backup for T4. In each the reasoning does not turn on who
+  acted, and in the T3 and T4 cases the actor is external. What is missing is a
+  decided national case with an insider actor on those limbs: an administrator
+  deleting the infrastructure or the backups, disabling the controls, or locking
+  the systems on the way out. The registers this record cites were searched for
+  one, in English, German and Dutch, and none was found.
+- T2 has no GDPR row. It is the type where an organization can lose the thing
+  it most values and owe nothing to a data protection authority, while owing
+  everything to a market authority if the information was price-sensitive.
 - The cutting rule assumes one type per event. Case 4 shows an event can be two.
-- One decided case now exists for T5, from Italy. No other jurisdiction has one
-  on this record.
+- One decided case exists for T5, from Italy. A sanction decision followed
+  it in 2026, and the Authority's site states it was removed under an interim
+  court order; it is not read, and nothing here rests on it. No other
+  jurisdiction has a T5 case on this record.
 - Detection is prescribed for Italian banks and reached only indirectly
   everywhere else. Whether other jurisdictions prescribe it is unread.
