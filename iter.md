@@ -43,7 +43,7 @@ this field: it goes in the inference lane, marked, where a reader can see that
 the sources stopped and somebody started. A `Term` is written as the instrument writes it.
 Where an instrument states a term in words, the words are the term.
 
-`At` is hours from declared awareness, reached by arithmetic on terms the
+`At` is hours from awareness, reached by arithmetic on terms the
 instruments state. It exists so a timeline has something to sort on. Where a
 term is stated in words, or runs from something with no fixed position, the
 field is absent and the act is drawn outside the ordered part. Where the
@@ -172,8 +172,17 @@ against that wording.
 
 ## The moment every term runs from
 
-### Declared awareness
-Do: Declare and record the moment the organization is taken to know
+Awareness is a standard, not a declaration. The organization is taken to know
+when it has a reasonable degree of certainty that a breach has occurred, and
+that is a fact about what it knew, fixed by the standard and not by the
+organization. What the organization fixes in advance is the evidence at which
+it will treat the standard as met, and who establishes that it has been. The
+record it then makes of the moment is its evidence of when the standard was
+met: it does not create the moment, and a record made late is a late record,
+since the term has run from the standard.
+
+### Awareness
+Do: Establish and record the moment the organization is taken to know
 No instrument defines it. The EDPB reads it as a reasonable degree of certainty
 that a security incident has occurred that has led to personal data being
 compromised. A short period of investigation may precede it, during which the
@@ -182,7 +191,8 @@ short. Where it is left open and a breach did occur, the delay can be treated as
 a failure to notify.
 
 Source: [edpb-9-2022] §31, §34, §36, §40 · guidance, not law
-Implication: Where the period before it is left open and a breach did occur, the delay can be treated as a failure to notify. An unbounded triage is not neutral.
+Implication: Where the period before it is left open and a breach did occur, the delay can be treated as a failure to notify
+Reading: An unbounded triage is not neutral. The period before awareness is the organization's to bound, and left unbounded it is what a regulator measures afterwards
 Read: 2026-09-02
 
 ## Authorities
@@ -1700,8 +1710,8 @@ Applies: Banks, Italy
 Do: Trace inquiries into customer data, keep the logs, and run the alerts
 Requires: Tracing of inquiry operations on customer data; retention of those logs for not less than twenty-four months from the date the operation was recorded; alerts to detect intrusions or anomalous access to banking data capable of amounting to unlawful processing
 Why the retention: So that the people concerned can learn that their data was accessed, and on what grounds
-Implication: For an Italian bank the alert is not a control it chose. Its absence is a failure against a prescription, before any question of the breach itself.
-Bears on: The moment of declared awareness. An alert required by this provision is what produced the first knowledge in the decided case below
+Reading: For an Italian bank the alert is not a control it chose. Its absence is a failure against a prescription, before any question of the breach itself
+Bears on: The moment of awareness. An alert required by this provision is what produced the first knowledge in the decided case below
 Source: [garante-192-2011]
 Read: 2026-09-02
 
@@ -1722,12 +1732,13 @@ Applies: All organizations
 Do: Notify the supervisory authority of the breach
 Term: 72 hours
 At: 72
-From: Declared awareness
+From: Awareness
 Owed to: dpa
 Establish: What data left, whose it is, how many people it concerns, who now holds it, whether it is still intelligible to them, and whether it can be retrieved
 Unless: The breach is unlikely to result in a risk to the rights and freedoms of natural persons
 Public: No. The authority publishes its own decisions
-Implication: Of the fourteen decided examples of this type, the authority had to be told in nine and did not in five. What separated them was not scale. In every one of the five the data was unintelligible to whoever received it, or the recipient was trusted, or the loss was recoverable
+Implication: Of the fourteen decided examples of this type, the authority had to be told in nine and did not in five. In every one of the five the data was unintelligible to whoever received it, or the recipient was trusted, or the loss was recoverable
+Reading: What separated the nine from the five was not scale
 Source: [gdpr] [edpb-1-2021]
 Read: 2026-09-02
 
@@ -1749,13 +1760,14 @@ After: GDPR art. 33(1)
 Applies: All organizations
 Do: Tell each person whose data was disclosed
 Term: Without undue delay
-From: Declared awareness
+From: Awareness
 Anchor: The same point as the 72 hour notification
 Owed to: Each person whose data was disclosed
 Establish: That the risk to those people is high, which turns on what the data is and on what the person holding it can do with it
 Unless: The risk is not high
 Public: In practice yes, at any scale
-Implication: The people were told in seven of the fourteen decided examples and not in the other seven. Two cases have the authority told and the people not, and one of the two is the insider case: an employee taking business data. That is the shape an insider disclosure takes here
+Implication: The people were told in seven of the fourteen decided examples and not in the other seven. Two cases have the authority told and the people not, and one of the two is the insider case: an employee taking business data
+Reading: That is the shape an insider disclosure takes here: the authority told, the people not
 Source: [gdpr] [edpb-1-2021]
 Read: 2026-09-02
 
@@ -1786,12 +1798,12 @@ Applies: All organizations
 Do: Notify the supervisory authority of the breach
 Term: 72 hours
 At: 72
-From: Declared awareness
+From: Awareness
 Owed to: dpa
 Establish: What was altered or destroyed, whose data it is, whether the original can be restored, and whether anything was decided on the strength of the altered records before the alteration was found
 Unless: The breach is unlikely to result in a risk to the rights and freedoms of natural persons
 Public: No. The authority publishes its own decisions
-Implication: Restoring the data from backup ends the loss and does not end the breach. The alteration happened, and the period in which the records were wrong is part of what has to be established
+Reading: Restoring the data from backup ends the loss and does not end the breach. The alteration happened, and the period in which the records were wrong is part of what has to be established
 Source: [gdpr]
 Read: 2026-09-02
 
@@ -1805,7 +1817,7 @@ Anchor: After the notification it completes, which is the 72 hour one above
 Owed to: The same authority
 Establish: Nothing further. This is the provision that allows the notification to go out incomplete
 Public: No
-Implication: This type is the one most likely to need it. Where records were altered, the extent is often established after the notification rather than before it
+Reading: This type is the one most likely to need it. Where records were altered, the extent is often established after the notification rather than before it
 Source: [gdpr]
 Read: 2026-09-02
 
@@ -1814,13 +1826,13 @@ After: GDPR art. 33(1)
 Applies: All organizations
 Do: Tell each person whose records were altered or destroyed
 Term: Without undue delay
-From: Declared awareness
+From: Awareness
 Anchor: The same point as the 72 hour notification
 Owed to: Each person whose records were altered or destroyed
 Establish: That the risk to those people is high, which here turns on what was decided about them while the records were wrong
 Unless: The risk is not high
 Public: In practice yes, at any scale
-Implication: The harm in this type is rarely exposure. It is a decision taken on a false record: a payment, a refusal, an entitlement. The person may need to be told in order to have it revisited
+Reading: The harm in this type is rarely exposure. It is a decision taken on a false record: a payment, a refusal, an entitlement. The person may need to be told in order to have it revisited
 Source: [gdpr]
 Read: 2026-09-02
 
@@ -1834,7 +1846,7 @@ Anchor: Throughout. The EDPB expects the documentation to be made as the inciden
 Owed to: Nobody, until asked
 Establish: The facts, the effects, the remedial action
 Public: No
-Implication: This obligation carries more weight in this type than in any other. Where the records were altered, the documentation made at the time may be the only account of what they said before
+Reading: This obligation carries more weight in this type than in any other. Where the records were altered, the documentation made at the time may be the only account of what they said before
 Source: [gdpr]
 Read: 2026-09-02
 
@@ -1851,12 +1863,12 @@ Applies: All organizations
 Do: Notify the supervisory authority of the breach
 Term: 72 hours
 At: 72
-From: Declared awareness
+From: Awareness
 Owed to: dpa
 Establish: What became unavailable, whose data it is, for how long it was out of reach, whether it can be restored, and what could not be done for those people while it was gone
 Unless: The breach is unlikely to result in a risk to the rights and freedoms of natural persons
 Public: No. The authority publishes its own decisions
-Implication: Restoring the service ends the interruption and not the breach. What has to be established is the period, and the period is still running while the assessment is being made
+Reading: Restoring the service ends the interruption and not the breach. What has to be established is the period, and the period is still running while the assessment is being made
 Source: [gdpr]
 Read: 2026-09-02
 
@@ -1870,7 +1882,7 @@ Anchor: After the notification it completes, which is the 72 hour one above
 Owed to: The same authority
 Establish: Nothing further. This is the provision that allows the notification to go out incomplete
 Public: No
-Implication: An interruption is the one type where the facts are still forming while the term runs, because the outage may not be over when the notification falls due
+Reading: An interruption is the one type where the facts are still forming while the term runs, because the outage may not be over when the notification falls due
 Source: [gdpr]
 Read: 2026-09-02
 
@@ -1879,13 +1891,13 @@ After: GDPR art. 33(1)
 Applies: All organizations
 Do: Tell each person who could not be served
 Term: Without undue delay
-From: Declared awareness
+From: Awareness
 Anchor: The same point as the 72 hour notification
 Owed to: Each person who could not be served
 Establish: That the risk to those people is high, which here turns on what they could not do while the service was down
 Unless: The risk is not high
 Public: In practice yes, at any scale
-Implication: The harm is neither exposure nor a false record. It is something that did not happen in time: a payment not made, a treatment not given, an entitlement not exercised. And whether it is high risk depends on what the service was for
+Reading: The harm is neither exposure nor a false record. It is something that did not happen in time: a payment not made, a treatment not given, an entitlement not exercised. And whether it is high risk depends on what the service was for
 Source: [gdpr]
 Read: 2026-09-02
 
@@ -1899,7 +1911,7 @@ Anchor: Throughout. The EDPB expects the documentation to be made as the inciden
 Owed to: Nobody, until asked
 Establish: The facts, the effects, the remedial action
 Public: No
-Implication: Here the documentation has to be made while the response is under way, which is the moment an organization has least attention for it
+Reading: Here the documentation has to be made while the response is under way, which is the moment an organization has least attention for it
 Source: [gdpr]
 Read: 2026-09-02
 
@@ -1910,12 +1922,13 @@ Applies: All organizations
 Do: Notify the supervisory authority of the breach
 Term: 72 hours
 At: 72
-From: Declared awareness
+From: Awareness
 Owed to: dpa
 Establish: Which records were opened; whose they were; how many people they concern; whether risk to those people can be ruled out
 Unless: The breach is unlikely to result in a risk to the rights and freedoms of natural persons
 Public: No. The authority publishes its own decisions
-Implication: A notification made after 72 hours is not refused. It has to arrive carrying the reasons for the delay, which puts the length of the triage on the record in the organization's own words.
+Implication: A notification made after 72 hours is not refused. It has to arrive carrying the reasons for the delay
+Reading: The reasons for the delay put the length of the triage on the record in the organization's own words
 Source: [gdpr]
 Read: 2026-09-02
 
@@ -1937,7 +1950,7 @@ After: GDPR art. 33(1)
 Applies: All organizations
 Do: Tell each person whose records were opened
 Term: Without undue delay
-From: Declared awareness
+From: Awareness
 Anchor: The same point as the 72 hour notification. In the decided case below the authority ordered it within twenty days of its own decision
 Owed to: Each person whose records were opened
 Establish: That the risk to those people is high, which turns on why the records were opened
@@ -1976,7 +1989,7 @@ Read: 2026-09-02
 Applies: Financial entity
 Do: Submit the initial notification
 Term: Four hours from classification, and no later than 24 hours from awareness. Where classified as major only later, four hours from that classification
-From: Classification, capped from declared awareness
+From: Classification, capped from awareness
 At: 24 · the cap. Earlier where the incident is classified as major sooner
 Owed to: financial
 Establish: Whether the incident is major
@@ -2013,7 +2026,7 @@ After: DORA art. 19(4)(a)
 Applies: Financial entity
 Do: Inform the clients whose financial interests are affected
 Term: Without undue delay
-From: Declared awareness
+From: Awareness
 Anchor: The same point as the initial notification
 Owed to: Clients
 Establish: That the incident has an impact on their financial interests
@@ -2031,7 +2044,7 @@ Anchor: Before each of the terms above, whichever one is about to be missed
 Owed to: The competent authority
 Establish: The reasons for the delay
 Public: No
-Implication: There is no silent overrun. Missing the term and not saying so before it expires are two separate failures.
+Reading: There is no silent overrun. Missing the term and not saying so before it expires are two separate failures
 Source: [dora-rts-terms]
 Read: 2026-09-02
 
@@ -2048,7 +2061,7 @@ Applies: Essential or important entity, not displaced
 Do: Submit the early warning
 Term: 24 hours
 At: 24
-From: Declared awareness
+From: Awareness
 Owed to: csirt
 Establish: Whether the incident is significant; whether it is suspected of being caused by unlawful or malicious acts; whether it could have cross-border impact
 Public: No
@@ -2060,7 +2073,7 @@ Applies: Essential or important entity, not displaced
 Do: Submit the incident notification
 Term: 72 hours
 At: 72
-From: Declared awareness
+From: Awareness
 Owed to: The same body
 Establish: An initial assessment of severity and impact, and indicators of compromise where available
 Public: No
@@ -2142,7 +2155,8 @@ From: The disclosure to the third party
 Owed to: The public
 Establish: That the recipient owes no duty of confidentiality, whether by law, regulation, articles of association or contract
 Public: Yes
-Implication: This is the provision an insider case runs into. Where a person acting for the issuer passes inside information to someone bound by no confidentiality duty, the issuer's own disclosure obligation is triggered by the leak, and the word for an unintentional leak is promptly
+Implication: Where a person acting for the issuer passes inside information to someone bound by no confidentiality duty, the issuer's own disclosure obligation is triggered by the leak, and the word for an unintentional leak is promptly
+Reading: This is the provision an insider case runs into
 Source: [mar]
 Read: 2026-09-03
 
