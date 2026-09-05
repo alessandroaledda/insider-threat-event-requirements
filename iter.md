@@ -173,7 +173,7 @@ against that wording.
 ## The moment every term runs from
 
 ### Declared awareness
-Do: Declare and record the moment you are taken to know
+Do: Declare and record the moment the organization is taken to know
 No instrument defines it. The Board reads it as a reasonable degree of certainty
 that a security incident has occurred that has led to personal data being
 compromised. A short period of investigation may precede it, during which the
@@ -1597,7 +1597,7 @@ Read: 2026-09-02
 
 ### GDPR art. 33(4)
 Applies: All organizations
-Do: Complete an earlier notification with what you did not yet have
+Do: Complete an earlier notification with what was not yet known
 Term: Without undue further delay
 From: The notification it completes
 Anchor: After the notification it completes, which is the 72 hour one above
@@ -1658,7 +1658,7 @@ Read: 2026-09-02
 
 ### GDPR art. 33(4)
 Applies: All organizations
-Do: Complete an earlier notification with what you did not yet have
+Do: Complete an earlier notification with what was not yet known
 Term: Without undue further delay
 From: The notification it completes
 Anchor: After the notification it completes, which is the 72 hour one above
@@ -1720,7 +1720,7 @@ Read: 2026-09-02
 
 ### GDPR art. 33(4)
 Applies: All organizations
-Do: Complete an earlier notification with what you did not yet have
+Do: Complete an earlier notification with what was not yet known
 Term: Without undue further delay
 From: The notification it completes
 Anchor: After the notification it completes, which is the 72 hour one above
@@ -1776,7 +1776,7 @@ Read: 2026-09-02
 
 ### GDPR art. 33(4)
 Applies: All organizations
-Do: Complete an earlier notification with what you did not yet have
+Do: Complete an earlier notification with what was not yet known
 Term: Without undue further delay
 From: The notification it completes
 Anchor: After the notification it completes, which is the 72 hour one above
@@ -1874,7 +1874,7 @@ Read: 2026-09-02
 
 ### DORA RTS art. 5(3)
 Applies: Financial entity
-Do: Tell the authority you will miss the term, before it expires
+Do: Tell the authority the term will be missed, before it expires
 Term: Before the term it will miss expires
 From: Knowing the term will be missed
 Anchor: Before each of the terms above, whichever one is about to be missed
