@@ -840,10 +840,12 @@ Checked: 2026-09-03
 Role: csirt
 Country: SK
 Name: The Národný bezpečnostný úrad, through the single cybersecurity information system
-URL: https://static.slov-lex.sk/static/SK/ZZ/2024/366/20250101.html
-Channel: The jednotný informačný systém kybernetickej bezpečnosti, named in § 24(3) of the act itself. The Authority explains that an operator needs an account in it, while a member of the public reports through SK-CERT instead. No address is recorded: the Authority's page describing the system came back empty.
-Source: [sk-zakon-366-2024]
-Read: 2026-09-03
+URL: https://www.nbu.gov.sk/
+Portal: https://jiskb.nbu.gov.sk
+Channel: The jednotný informačný systém kybernetickej bezpečnosti, named in § 24(3) of the act itself. The Authority's own page describes it: *«JISKB je informačný systém NBÚ, prostredníctvom ktorého prevádzkovatelia základných služieb plnia svoje povinnosti podľa zákona č. 69/2018 Z. z. o kybernetickej bezpečnosti. Slúži na registráciu, hlásenie incidentov, komunikáciu s NBÚ»*. An operator needs an account in it; a member of the public reports through SK-CERT instead
+Checked: 2026-09-05
+Source: [sk-zakon-366-2024] [sk-nbu-jiskb]
+Read: 2026-09-05
 
 ### csirt · Slovenia
 Role: csirt
@@ -1184,6 +1186,40 @@ URL: https://www.nksc.lt/
 Channel: Not recorded. The Centre's site answers an automated reader with an interstitial, and the act's text could not be opened
 Source: [eurlex-nim-nis2]
 Read: 2026-09-04
+
+### dpa · United Kingdom
+Role: dpa
+Country: GB
+Name: The Information Commissioner
+URL: https://ico.org.uk/
+Source: [uk-gdpr-art-33]
+Read: 2026-09-05
+
+### csirt · United Kingdom
+Role: csirt
+Country: GB
+Name: The designated competent authority for the operator, under regulation 11
+URL: https://www.legislation.gov.uk/uksi/2018/506/regulation/11
+Channel: In writing, to the designated competent authority. The regulation names no portal, and none is recorded here
+Source: [uk-nis-regulations-2018]
+Read: 2026-09-05
+
+### dpa · Switzerland
+Role: dpa
+Country: CH
+Name: Federal Data Protection and Information Commissioner
+URL: https://www.edoeb.admin.ch/
+Source: [ch-fadp]
+Read: 2026-09-05
+
+### csirt · Switzerland
+Role: csirt
+Country: CH
+Name: Bundesamt für Cybersicherheit, the BACS
+URL: https://www.bacs.admin.ch/
+Channel: Electronically, under article 74f, through the means the Office provides. The Office's own page on the duty answered 404 when read, so no address is recorded
+Source: [ch-isg]
+Read: 2026-09-05
 
 ## Transpositions
 
@@ -1556,6 +1592,106 @@ Stage: awareness
 Standing: Read in the law as published in the Government Gazette. One thing is national rather than the Directive's default: the submissions are owed to the National Cybersecurity Authority itself, not to a CSIRT. This entry also settles something about the Cypriot one: the six hours in the Cypriot authority's guide are not a Greek-language convention. Greece, writing in the same language, says twenty-four.
 Source: [gr-nomos-5160-2024]
 Read: 2026-09-03
+
+## Equivalents
+
+Two states on the map are outside the Union and the Area, and the Union
+instruments do not bind there. What binds instead is read here, one block per
+instrument and state, with the term and the point it runs from where the act
+states one. `Instead of` names the Union instrument the block stands in for.
+
+### GDPR · United Kingdom
+Country: GB
+Instead of: GDPR
+Act: UK GDPR, article 33, as retained in United Kingdom law
+Term: 72 hours
+From: Having become aware of the breach
+At: 72
+Owed to: The Commissioner
+In force: Retained on 31 December 2020; the version read is the one revised to 4 September 2026
+Standing: The retained text keeps the Union's interval and its anchor and substitutes the Commissioner for the EDPB
+Source: [uk-gdpr-art-33]
+Read: 2026-09-05
+
+### NIS2 · United Kingdom
+Country: GB
+Instead of: NIS2
+Act: The Network and Information Systems Regulations 2018, regulation 11
+Term: 72 hours
+From: The operator being aware that a NIS incident has occurred
+At: 72
+Owed to: The designated competent authority for the operator, in writing
+In force: 10 May 2018
+Standing: The transposition of the first Directive, still in force. The Cyber Security and Resilience Bill that would replace it was before the House of Lords when this was written; Parliament's page on it refused an automated reader, and the Bill is not read here
+Source: [uk-nis-regulations-2018]
+Read: 2026-09-05
+
+### DORA · United Kingdom
+Country: GB
+Instead of: DORA
+Act: None read. The Regulation was adopted after the United Kingdom left the Union and was not retained
+Term: Not stated
+Owed to: Not recorded
+In force: Does not apply
+Standing: The financial regulators' own operational-resilience rules are not read here
+Read: no
+
+### MAR · United Kingdom
+Country: GB
+Instead of: MAR
+Act: UK MAR, article 17, as retained in United Kingdom law
+Term: As soon as possible
+From: The information being inside information
+Owed to: The public, and the FCA immediately after disclosure where disclosure was delayed
+In force: Retained on 31 December 2020; the version read is the one revised to 3 September 2026
+Standing: The retained text keeps the Union's duty and names the FCA as the competent authority throughout
+Source: [uk-mar-art-17]
+Read: 2026-09-05
+
+### GDPR · Switzerland
+Country: CH
+Instead of: GDPR
+Act: Federal Act on Data Protection, article 24
+Term: As quickly as possible
+From: The breach of data security, where it is likely to lead to a high risk to the data subject's personality or fundamental rights
+Owed to: The FDPIC, and the data subject where required for their protection or where the FDPIC so requests
+In force: 1 September 2023
+Standing: No hour is stated. The threshold is high risk, where the Union's is any risk for the authority and high risk for the people
+Source: [ch-fadp]
+Read: 2026-09-05
+
+### NIS2 · Switzerland
+Country: CH
+Instead of: NIS2
+Act: Informationssicherheitsgesetz, articles 74b to 74f
+Term: 24 hours
+From: The discovery of the cyberattack
+At: 24
+Owed to: The BACS
+In force: 1 April 2025
+Standing: Reaches the operators of critical infrastructure article 74b lists. Article 74d says what must be reported: an attack that endangers the functioning of the infrastructure, that led to a manipulation or an outflow of information, that stayed undetected over a longer period, or that came with extortion, threat or coercion. Article 74e: *«Die Meldung muss innert 24 Stunden nach der Entdeckung des Cyberangriffs erfolgen»*, with what is not yet known supplied as it becomes known
+Source: [ch-isg]
+Read: 2026-09-05
+
+### DORA · Switzerland
+Country: CH
+Instead of: DORA
+Act: None read. The Regulation does not bind in Switzerland
+Term: Not stated
+Owed to: Not recorded
+In force: Does not apply
+Standing: FINMA's own rules on operational risk are not read here
+Read: no
+
+### MAR · Switzerland
+Country: CH
+Instead of: MAR
+Act: None read. The Regulation does not bind in Switzerland
+Term: Not stated
+Owed to: Not recorded
+In force: Does not apply
+Standing: The disclosure duties of the Swiss exchanges are not read here
+Read: no
 
 ## Detection, where it is prescribed rather than advised
 
@@ -2050,8 +2186,9 @@ Alert: The bank first learned of an anomalous access on 9 October 2023, through 
 Notified: The definitive article 33 notification reached the Authority on 17 July 2024.
 Held on risk: The controller assessed the breach as not likely to present a high risk and did not communicate it. The Authority disagreed.
 Outcome: Communication to the people concerned ordered under articles 34(4) and 58(2)(e), within twenty days, with the article 34(2) information. A documented account of the steps taken within thirty days. No pecuniary sanction in the operative part.
-Source: [garante-659-2024]
-Read: 2026-09-02
+Followed by: A sanction decision, provvedimento n. 208 of 26 March 2026. The Authority's site states that it was temporarily removed under an interim order of the Tribunale di Torino of 13 July 2026, and it has not been read here. What the earlier decision established stands on its own reading
+Source: [garante-659-2024] [garante-docweb-10235001]
+Read: 2026-09-05
 
 This is the case the eighteen worked examples did not contain, and it settles
 for T5 what case 8 could only suggest for T1. Two things carry.

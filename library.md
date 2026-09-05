@@ -899,7 +899,7 @@ under Article 33. Paragraph 41 treats the ability to detect, address and report
 a breach in a timely manner as an element of the Article 32 measures.
 
 This is guidance. It does not impose the standard it describes; it says how the
-Board reads a provision that does.
+EDPB reads a provision that does.
 
 ### Guidelines 01/2021 on Examples regarding Personal Data Breach Notification {#edpb-1-2021}
 European Data Protection Board · European Union · 14 December 2021, version 2.0
@@ -988,3 +988,60 @@ Establishes: Which national acts each Member State has notified to the Commissio
 A register of what was notified, not of what the acts say. It is used here for
 the one state whose own portals refuse an automated reader, and it establishes
 existence and identity, nothing further.
+
+### JISKB, Jednotný informačný systém kybernetickej bezpečnosti {#sk-nbu-jiskb}
+Národný bezpečnostný úrad · Slovakia · read 2026-09-05
+https://www.nbu.gov.sk/jednotny-informacny-system-kybernetickej-bezpecnosti/
+Kind: channel
+Read: 2026-09-05
+Establishes: That the Authority's single cybersecurity information system is at jiskb.nbu.gov.sk, that operators of essential services register, report incidents and communicate with the Authority through it, and that the public reports through SK-CERT instead.
+
+### Provvedimento n. 208 del 26 marzo 2026, notice of removal {#garante-docweb-10235001}
+Garante per la protezione dei dati personali · Italy · read 2026-09-05
+https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10235001
+Kind: announcement
+Read: 2026-09-05
+Establishes: That a sanction decision, n. 208 of 26 March 2026, followed the case this record calibrates T5 on, and that the Authority's site states it was temporarily removed under an interim order of the Tribunale di Torino of 13 July 2026. The decision itself is not read.
+
+Recorded for what the address says today. A decision that has been taken
+down is a fact about the decision, and the row that rests on the earlier one
+should know that a later one exists and cannot be opened.
+
+### UK GDPR, article 33, as retained {#uk-gdpr-art-33}
+legislation.gov.uk · United Kingdom · read 2026-09-05
+https://www.legislation.gov.uk/eur/2016/679/article/33
+Kind: act
+Read: 2026-09-05
+Establishes: That the retained article keeps the Union's duty to notify without undue delay and, where feasible, not later than 72 hours after having become aware, owed to the Commissioner, in the version revised to 4 September 2026.
+
+### The Network and Information Systems Regulations 2018, regulation 11 {#uk-nis-regulations-2018}
+legislation.gov.uk · United Kingdom · read 2026-09-05
+https://www.legislation.gov.uk/uksi/2018/506/regulation/11
+Kind: act
+Read: 2026-09-05
+Establishes: That an operator of essential services must notify the designated competent authority in writing of an incident with a significant impact on the continuity of the essential service, without undue delay and in any event no later than 72 hours after the operator is aware that a NIS incident has occurred, and that the Regulations came into force on 10 May 2018.
+
+### UK MAR, article 17, as retained {#uk-mar-art-17}
+legislation.gov.uk · United Kingdom · read 2026-09-05
+https://www.legislation.gov.uk/eur/2014/596/article/17
+Kind: act
+Read: 2026-09-05
+Establishes: That the retained article keeps the issuer's duty to inform the public as soon as possible of inside information, the delay on the issuer's own responsibility, and the duty to inform the FCA immediately after disclosure where disclosure was delayed, in the version revised to 3 September 2026.
+
+### Federal Act on Data Protection, SR 235.1 {#ch-fadp}
+Fedlex · Switzerland · read 2026-09-05
+https://www.fedlex.admin.ch/eli/cc/2022/491/en
+Kind: act
+Read: 2026-09-05
+Establishes: That under article 24 the controller notifies the FDPIC as quickly as possible of a breach of data security likely to lead to a high risk to the data subject's personality or fundamental rights, and informs the data subject where required for their protection or where the FDPIC so requests. In force 1 September 2023.
+
+Read in the Confederation's own English translation, which Fedlex publishes
+beside the authentic texts; the binding texts are the German, French and
+Italian.
+
+### Informationssicherheitsgesetz, SR 128 {#ch-isg}
+Fedlex · Switzerland · read 2026-09-05
+https://www.fedlex.admin.ch/eli/cc/2022/232/de
+Kind: act
+Read: 2026-09-05
+Establishes: That from 1 April 2025 the operators of critical infrastructure listed in article 74b must report a cyberattack to the BACS within 24 hours of its discovery (article 74e), that article 74d says which attacks must be reported, and that article 74f provides for electronic reporting.
