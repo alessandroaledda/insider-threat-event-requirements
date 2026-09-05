@@ -1732,6 +1732,7 @@ Source: [gdpr] [edpb-1-2021]
 Read: 2026-09-02
 
 ### GDPR art. 33(4)
+After: GDPR art. 33(1)
 Applies: All organizations
 Do: Complete an earlier notification with what was not yet known
 Term: Without undue further delay
@@ -1744,6 +1745,7 @@ Source: [gdpr]
 Read: 2026-09-02
 
 ### GDPR art. 34(1)
+After: GDPR art. 33(1)
 Applies: All organizations
 Do: Tell each person whose data was disclosed
 Term: Without undue delay
@@ -1758,6 +1760,7 @@ Source: [gdpr] [edpb-1-2021]
 Read: 2026-09-02
 
 ### GDPR art. 33(5)
+After: T0
 Applies: All organizations
 Do: Record the breach, its effects, and what was done about it
 Term: No term
@@ -1793,6 +1796,7 @@ Source: [gdpr]
 Read: 2026-09-02
 
 ### GDPR art. 33(4)
+After: GDPR art. 33(1)
 Applies: All organizations
 Do: Complete an earlier notification with what was not yet known
 Term: Without undue further delay
@@ -1806,6 +1810,7 @@ Source: [gdpr]
 Read: 2026-09-02
 
 ### GDPR art. 34(1)
+After: GDPR art. 33(1)
 Applies: All organizations
 Do: Tell each person whose records were altered or destroyed
 Term: Without undue delay
@@ -1820,6 +1825,7 @@ Source: [gdpr]
 Read: 2026-09-02
 
 ### GDPR art. 33(5)
+After: T0
 Applies: All organizations
 Do: Record the breach, its effects, and what was done about it
 Term: No term
@@ -1855,6 +1861,7 @@ Source: [gdpr]
 Read: 2026-09-02
 
 ### GDPR art. 33(4)
+After: GDPR art. 33(1)
 Applies: All organizations
 Do: Complete an earlier notification with what was not yet known
 Term: Without undue further delay
@@ -1868,6 +1875,7 @@ Source: [gdpr]
 Read: 2026-09-02
 
 ### GDPR art. 34(1)
+After: GDPR art. 33(1)
 Applies: All organizations
 Do: Tell each person who could not be served
 Term: Without undue delay
@@ -1882,6 +1890,7 @@ Source: [gdpr]
 Read: 2026-09-02
 
 ### GDPR art. 33(5)
+After: T0
 Applies: All organizations
 Do: Record the breach, its effects, and what was done about it
 Term: No term
@@ -1911,6 +1920,7 @@ Source: [gdpr]
 Read: 2026-09-02
 
 ### GDPR art. 33(4)
+After: GDPR art. 33(1)
 Applies: All organizations
 Do: Complete an earlier notification with what was not yet known
 Term: Without undue further delay
@@ -1923,6 +1933,7 @@ Source: [gdpr]
 Read: 2026-09-02
 
 ### GDPR art. 34(1)
+After: GDPR art. 33(1)
 Applies: All organizations
 Do: Tell each person whose records were opened
 Term: Without undue delay
@@ -1937,6 +1948,7 @@ Source: [gdpr]
 Read: 2026-09-02
 
 ### GDPR art. 33(5)
+After: T0
 Applies: All organizations
 Do: Record the breach, its effects, and what was done about it
 Term: No term
@@ -1997,6 +2009,7 @@ Source: [dora] [dora-rts-terms]
 Read: 2026-09-02
 
 ### DORA art. 19(3)
+After: DORA art. 19(4)(a)
 Applies: Financial entity
 Do: Inform the clients whose financial interests are affected
 Term: Without undue delay
@@ -2009,6 +2022,7 @@ Source: [dora]
 Read: 2026-09-02
 
 ### DORA RTS art. 5(3)
+After: each term
 Applies: Financial entity
 Do: Tell the authority the term will be missed, before it expires
 Term: Before the term it will miss expires
@@ -2068,6 +2082,7 @@ Read: 2026-09-02
 ## T1, T2, T3, T4, T5 · Acts under the Market Abuse Regulation
 
 ### MAR art. 17(1)
+After: T0
 Applies: Listed issuer
 Do: Disclose the inside information to the public
 Term: As soon as possible
@@ -2080,6 +2095,7 @@ Source: [mar]
 Read: 2026-09-03
 
 ### MAR art. 17(4)
+After: MAR art. 17(1)
 Applies: Listed issuer
 Do: Delay the disclosure on the issuer's own responsibility, then explain it
 Term: The written explanation is owed immediately after the information is disclosed to the public
@@ -2092,6 +2108,7 @@ Source: [mar]
 Read: 2026-09-03
 
 ### MAR art. 17(5) and (6)
+After: MAR art. 17(1)
 Applies: Listed issuer
 Do: Where the issuer is a credit institution or a financial institution and the reason is financial stability, obtain the authority's consent before delaying
 Term: None stated. The authority reviews at least weekly for as long as the delay lasts
@@ -2104,6 +2121,7 @@ Source: [mar]
 Read: 2026-09-03
 
 ### MAR art. 17(7)
+After: MAR art. 17(1)
 Applies: Listed issuer
 Do: Where disclosure was delayed under 17(4) or 17(5), disclose the inside information to the public
 Term: As soon as possible
@@ -2116,6 +2134,7 @@ Source: [mar]
 Read: 2026-09-03
 
 ### MAR art. 17(8)
+After: MAR art. 17(1)
 Applies: Listed issuer
 Do: Where inside information has reached a third party, make complete and effective public disclosure of it
 Term: Simultaneously where the disclosure was intentional, promptly where it was not
@@ -2181,6 +2200,10 @@ the most common matters an Italian supervisory authority handles, and those
 decisions are published.
 
 ### T5, decided: an employee consulting customer records
+Case: Garante per la protezione dei dati personali, provvedimento 659/2024
+Documented: yes
+Authority told: yes, nine months after the alert
+People told: ordered by the Authority
 Facts: An employee made some 6,637 inquiries into the accounts of about 3,572 customers outside their own portfolio, over roughly twenty-six months. The records were consulted. Nothing is recorded as having been copied out.
 Alert: The bank first learned of an anomalous access on 9 October 2023, through an alert operated under Provvedimento 192/2011.
 Notified: The definitive article 33 notification reached the Authority on 17 July 2024.
@@ -2207,6 +2230,10 @@ measured in months rather than hours, and that nothing in the instruments fixes
 where inside it awareness fell.
 
 ### T4, decided: data unavailable, with a backup and without
+Case: EDPB Guidelines 01/2021, cases 1 to 3
+Documented: 3 of 3
+Authority told: 2 of 3
+People told: 1 of 3
 Actor: External in all three; the reasoning does not turn on it
 Facts: Three of the EDPB's eighteen. Case 1, ransomware with a proper and separate backup and no exfiltration, restored within hours. Case 2, ransomware with no electronic backup and no encryption at rest; the data had to be re-entered from paper. Case 3, ransomware in a hospital with a backup, restored over several days, special categories throughout.
 Held: In each the risk arises from the lack of availability of the data, not from its confidentiality. What moves the assessment is whether a backup exists, how long the data is unavailable, and what the data is for. In case 2 the controller cannot say from an absent log entry that nothing was exfiltrated, and the risk includes the loss.
@@ -2218,6 +2245,10 @@ Source: [edpb-1-2021] §17, §24, §26 to §35, §36 to §41
 Read: 2026-09-05
 
 ### T1, decided: an employee taking client data
+Case: EDPB Guidelines 01/2021, case 8
+Documented: yes
+Authority told: yes
+People told: no
 Facts: An employee copies business data during his notice period and uses the contact data months later to approach the clients for his own business. No special categories. Low to medium volume. The database left intact.
 Held: The controller is not in a position to consider the risk to the data subjects low, because it has no reassurance about the intentions of the employee, and more serious abuse is not ruled out.
 Outcome: Documentation required. Notification to the authority required. Communication to the people concerned not required.
