@@ -1259,13 +1259,13 @@ Read: 2026-09-04
 
 ### NIS2 · Austria
 Country: AT
-Act: Netz- und Informationssystemsicherheitsgesetz 2024, NISG 2024, named on the authority's own page without a date of entry into force.
+Act: Netz- und Informationssystemsicherheitsgesetz 2024, NISG 2024
 In force: not stated on the page read
 Recipient: The NIS-Behörde, within the Bundesministerium für Inneres
 Divergence: None found. The three stages are the Directive's: a *«24-Stunden-Zeitfenster»* for the early warning, *«binnen 72 Stunden»* for the assessment, and the final report *«ein Monat nach der Meldung»*.
 Moves: no
 Stage: awareness
-Standing: The page names the NIS-Behörde as the authority and does not name a CSIRT, so this record does not name one either. Whether a designated team receives the report alongside the authority is not settled here.
+Standing: Named on the authority's own page without a date of entry into force. The page names the NIS-Behörde as the authority and does not name a CSIRT, so this record does not name one either. Whether a designated team receives the report alongside the authority is not settled here.
 Source: [nisg-at-faq]
 Read: 2026-09-03
 
