@@ -53,6 +53,8 @@ pages that used to be served here, at intrasecurity.eu, forward there.
 
 ## The rules the record is kept by
 
+The method both records are kept by is written once, at <https://alessandroaledda.com/method/>.
+
 - Nothing enters that has not been read. A row whose source has not been
   opened at its own address says so.
 - Every source carries the interval after which it has to be read again, and
