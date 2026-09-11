@@ -148,8 +148,8 @@ national quirk. Set side by side they fall on one scale, and the scale is short.
 - **Determination.** Someone inside decides the event qualifies. A named officer
   classifies it, or the entity concludes that a significant incident exists.
 
-The Directive attaches at awareness. Of the twenty-nine transpositions read,
-**four attach earlier, at detection, and two attach later, at determination.**
+The Directive attaches at awareness. Of the thirty transpositions read,
+**five attach earlier, at detection, and two attach later, at determination.**
 
 The two directions differ in who fixes the moment.
 
