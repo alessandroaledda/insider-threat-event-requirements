@@ -30,7 +30,7 @@ compliance.
 | Reporting acts | 33 |
 | Union instruments | 4 |
 | Jurisdictions | 32 |
-| National acts transposing NIS2 read | 30 |
+| National acts read, in the Union and the EEA | 30 |
 | Of them moving a term or its anchor | 12 |
 | Reporting addresses recorded | 15 of 32 |
 | Decided cases | 3 |

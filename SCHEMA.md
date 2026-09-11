@@ -56,6 +56,7 @@ Every entry in `types`, `acts`, `calibration`, `authorities`, `transpositions`,
 | `Unless` | the condition on which the duty does not arise, in the instrument's words |
 | `Public` | whether performing the act makes the matter public |
 | `Implication` | a consequence the source itself states |
+| `Guidance` | guidance cited for what the source adds, as `[id]`: a body's reading of the act, held apart from what the row rests on. It is cited and listed with the row's sources, and the mark is not taken from it |
 | `Reading` | a conclusion ITER draws from the source, marked as such on the page and not attributed to the source |
 | `Effect` | for a row that is not an act but a rule about other acts, what it does; a displacement row |
 | `Requires` | for a prescription on detection, what it requires |
@@ -97,8 +98,10 @@ An **instrument** carries `Full name`, `What`, `Reaches`, `Reports to` and
 
 ## Evidence
 
-`evidence` is computed by the build from the kinds of the sources a row cites,
-never written by hand.
+`evidence` is computed by the build from the kinds of the sources on a row's
+`Source` line, never written by hand. A source cited on the `Guidance` line is
+listed with the row and does not set the mark: what binds and what a body says
+about it are two different things, and the mark says what the row rests on.
 
 | mark | rule |
 |---|---|
@@ -110,9 +113,10 @@ never written by hand.
 | `stale` | a source is past the interval after which its kind has to be read again |
 | `definition` | the row asserts nothing about an instrument: a type, or the block on the taxonomy |
 
-Where a row cites more than one source the weakest governs. The order, from
+Where a row rests on more than one source the weakest governs. The order, from
 weakest to strongest, is announcement, guidance, register, case, act. A row
-that rests on an act and on guidance is `reported`, not `binding`.
+whose `Source` line names an act and guidance is `reported`, not `binding`; a
+row that rests on the act and cites the guidance for what it adds is `binding`.
 
 ## Layer
 

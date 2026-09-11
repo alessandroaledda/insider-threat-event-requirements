@@ -219,7 +219,7 @@ Read: 2026-09-03
 Role: dpa
 Country: AT
 Name: Österreichische Datenschutzbehörde
-URL: http://www.dsb.gv.at/
+URL: https://dsb.gv.at/
 Source: [edpb-members]
 Read: 2026-09-03
 
@@ -227,7 +227,7 @@ Read: 2026-09-03
 Role: dpa
 Country: BE
 Name: Autorité de la protection des données / Gegevensbeschermingsautoriteit
-URL: https://www.autoriteprotectiondonnees.be
+URL: https://www.autoriteprotectiondonnees.be/
 Source: [edpb-members]
 Read: 2026-09-03
 
@@ -235,7 +235,7 @@ Read: 2026-09-03
 Role: dpa
 Country: BG
 Name: Commission for Personal Data Protection
-URL: https://www.cpdp.bg/
+URL: https://cpdp.bg/
 Source: [edpb-members]
 Read: 2026-09-03
 
@@ -243,7 +243,7 @@ Read: 2026-09-03
 Role: dpa
 Country: HR
 Name: Agencija za zaštitu osobnih podataka
-URL: http://www.azop.hr/
+URL: https://azop.hr/
 Source: [edpb-members]
 Read: 2026-09-03
 
@@ -251,7 +251,7 @@ Read: 2026-09-03
 Role: dpa
 Country: CY
 Name: Office of the Commissioner for Personal Data Protection
-URL: http://www.dataprotection.gov.cy/
+URL: https://www.gov.cy/dataprotection/
 Source: [edpb-members]
 Read: 2026-09-03
 
@@ -267,7 +267,7 @@ Read: 2026-09-03
 Role: dpa
 Country: DK
 Name: Datatilsynet
-URL: http://www.datatilsynet.dk/
+URL: https://www.datatilsynet.dk/
 Source: [edpb-members]
 Read: 2026-09-03
 
@@ -275,7 +275,7 @@ Read: 2026-09-03
 Role: dpa
 Country: EE
 Name: Andmekaitse Inspektsioon
-URL: http://www.aki.ee/
+URL: https://www.aki.ee/
 Source: [edpb-members]
 Read: 2026-09-03
 
@@ -283,7 +283,7 @@ Read: 2026-09-03
 Role: dpa
 Country: FI
 Name: Office of the Data Protection Ombudsman
-URL: http://www.tietosuoja.fi/en/
+URL: https://tietosuoja.fi/en/
 Source: [edpb-members]
 Read: 2026-09-03
 
@@ -291,7 +291,7 @@ Read: 2026-09-03
 Role: dpa
 Country: FR
 Name: Commission Nationale de l'Informatique et des Libertés
-URL: http://www.cnil.fr/
+URL: https://www.cnil.fr/
 Source: [edpb-members]
 Read: 2026-09-03
 
@@ -299,7 +299,7 @@ Read: 2026-09-03
 Role: dpa
 Country: DE
 Name: Die Bundesbeauftragte für den Datenschutz und die Informationsfreiheit
-URL: http://www.bfdi.bund.de/
+URL: https://www.bfdi.bund.de/
 Source: [edpb-members]
 Read: 2026-09-03
 
@@ -307,7 +307,7 @@ Read: 2026-09-03
 Role: dpa
 Country: GR
 Name: Hellenic Data Protection Authority
-URL: http://www.dpa.gr/
+URL: https://www.dpa.gr/
 Source: [edpb-members]
 Read: 2026-09-03
 
@@ -315,7 +315,7 @@ Read: 2026-09-03
 Role: dpa
 Country: HU
 Name: Hungarian National Authority for Data Protection and Freedom of Information
-URL: http://www.naih.hu/
+URL: https://www.naih.hu/
 Source: [edpb-members]
 Read: 2026-09-03
 
@@ -323,7 +323,7 @@ Read: 2026-09-03
 Role: dpa
 Country: IS
 Name: Persónuvernd
-URL: https://www.personuvernd.is
+URL: https://www.personuvernd.is/
 Source: [edpb-members]
 Read: 2026-09-03
 
@@ -331,7 +331,7 @@ Read: 2026-09-03
 Role: dpa
 Country: IE
 Name: Data Protection Commission
-URL: http://www.dataprotection.ie/
+URL: https://www.dataprotection.ie/
 Source: [edpb-members]
 Read: 2026-09-03
 
@@ -339,7 +339,7 @@ Read: 2026-09-03
 Role: dpa
 Country: IT
 Name: Garante per la protezione dei dati personali
-URL: http://www.garanteprivacy.it/
+URL: https://www.garanteprivacy.it/
 Source: [edpb-members]
 Read: 2026-09-03
 
@@ -371,7 +371,7 @@ Read: 2026-09-03
 Role: dpa
 Country: LU
 Name: Commission Nationale pour la Protection des Données
-URL: http://www.cnpd.lu/
+URL: https://cnpd.public.lu/
 Source: [edpb-members]
 Read: 2026-09-03
 
@@ -379,7 +379,7 @@ Read: 2026-09-03
 Role: dpa
 Country: MT
 Name: Office of the Information and Data Protection Commissioner
-URL: http://www.idpc.org.mt/
+URL: https://idpc.org.mt/
 Source: [edpb-members]
 Read: 2026-09-03
 
@@ -411,7 +411,7 @@ Read: 2026-09-03
 Role: dpa
 Country: PT
 Name: Comissão Nacional de Proteção de Dados
-URL: http://www.cnpd.pt/
+URL: https://www.cnpd.pt/
 Source: [edpb-members]
 Read: 2026-09-03
 
@@ -419,7 +419,7 @@ Read: 2026-09-03
 Role: dpa
 Country: RO
 Name: National Supervisory Authority for Personal Data Processing
-URL: http://www.dataprotection.ro/
+URL: https://www.dataprotection.ro/
 Source: [edpb-members]
 Read: 2026-09-03
 
@@ -427,7 +427,7 @@ Read: 2026-09-03
 Role: dpa
 Country: SK
 Name: Úrad na ochranu osobných údajov Slovenskej republiky
-URL: http://www.dataprotection.gov.sk/
+URL: https://dataprotection.gov.sk/
 Source: [edpb-members]
 Read: 2026-09-03
 
@@ -707,11 +707,11 @@ Role: csirt
 Country: FR
 Name: The competent national authority, which is the Agence nationale de la sécurité des systèmes d'information
 URL: https://aide.monespacenis2.cyber.gouv.fr/fr/category/declaration-dincident-6bpkdp/
-Portal: https://monespacenis2.cyber.gouv.fr/
-Channel: MonEspaceNIS2, the Agency's own space for regulated entities. The address is the one its help site links to.
+Portal: https://messervices.cyber.gouv.fr/nis2
+Channel: MonEspaceNIS2, the Agency's own space for regulated entities. The address its help site links to, monespacenis2.cyber.gouv.fr, forwarded on 11 September 2026 to the Agency's services portal, and the portal is what is recorded.
 Source: [anssi-nis2-declaration]
 Read: 2026-09-03
-Checked: 2026-09-03
+Checked: 2026-09-11
 
 ### csirt · Netherlands
 Role: csirt
@@ -789,11 +789,11 @@ Role: csirt
 Country: SE
 Name: The act designates nobody by name. In practice the reports reach the Nationellt cybersäkerhetscenter, whose CERT-SE unit forwards them to the supervisory authorities
 URL: https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/cybersakerhetslag-20251506_sfs-2025-1506/
-Portal: https://cyberportal.ncsc.se
+Portal: https://cyberportal.mcf.se/
 Channel: The Incidentrapporteringsverktyget inside the Cyberportalen. The regulations took effect on 1 July 2026 and the tool opened the same day. The Centre states that the tool is still in development and publishes a fallback procedure for use when it is unavailable.
 Source: [se-cybersakerhetslag-2025] [ncsc-se-incidentrapportering]
 Read: 2026-09-03
-Checked: 2026-09-03
+Checked: 2026-09-11
 
 ### csirt · Finland
 Role: csirt
@@ -909,8 +909,8 @@ Role: csirt
 Country: IS
 Name: The cybersecurity team, netöryggissveit, operated by the telecommunications authority
 URL: https://www.althingi.is/lagas/nuna/2019078.html
-Portal: https://cert.is/tilkynna-atvik/
-Checked: 2026-09-03
+Portal: https://island.is/tilkynna-oryggisatvik-til-cert-is
+Checked: 2026-09-11
 Channel: Not set by the act. The cybersecurity team takes notifications on its own reporting page, through an application form on island.is, and at cert@cert.is. The service page adds what the act does not: *«ef um skyldutilkynningu er að ræða ... verður tilkynningin send áfram til viðeigandi eftirlitsstjórnvalds»*: a mandatory notification is passed on to the relevant supervisory authority.
 Source: [is-log-78-2019] [island-is-tilkynna]
 Read: 2026-09-03
@@ -1739,7 +1739,8 @@ Unless: The breach is unlikely to result in a risk to the rights and freedoms of
 Public: No. The authority publishes its own decisions
 Implication: Of the fourteen decided examples of this type, the authority had to be told in nine and did not in five. In every one of the five the data was unintelligible to whoever received it, or the recipient was trusted, or the loss was recoverable
 Reading: What separated the nine from the five was not scale
-Source: [gdpr] [edpb-1-2021]
+Guidance: [edpb-1-2021]
+Source: [gdpr]
 Read: 2026-09-02
 
 ### GDPR art. 33(4)
@@ -1768,7 +1769,8 @@ Unless: The risk is not high
 Public: In practice yes, at any scale
 Implication: The people were told in seven of the fourteen decided examples and not in the other seven. Two cases have the authority told and the people not, and one of the two is the insider case: an employee taking business data
 Reading: That is the shape an insider disclosure takes here: the authority told, the people not
-Source: [gdpr] [edpb-1-2021]
+Guidance: [edpb-1-2021]
+Source: [gdpr]
 Read: 2026-09-02
 
 ### GDPR art. 33(5)
@@ -1782,7 +1784,8 @@ Owed to: Nobody, until asked
 Establish: The facts, the effects, the remedial action
 Public: No
 Implication: Required in all eighteen worked examples, including every one where neither the authority nor the people had to be told. It is the only obligation of the four that never turns off
-Source: [gdpr] [edpb-1-2021]
+Guidance: [edpb-1-2021]
+Source: [gdpr]
 Read: 2026-09-02
 
 ## T3 · Acts under the General Data Protection Regulation

@@ -154,7 +154,7 @@ characterizing it.
 
 ### Members of the European Data Protection Board {#edpb-members}
 European Data Protection Board · European Union · read 3 September 2026
-https://www.edpb.europa.eu/about-edpb/about-edpb/members_en
+https://www.edpb.europa.eu/about-edpb/our-members_en
 Kind: register
 Read: 2026-09-03
 Establishes: Which body is the supervisory authority in each of thirty European countries, in its own official name.
@@ -661,7 +661,7 @@ national rather than the Directive's default: the submissions are owed to the
 National Cybersecurity Authority itself and not to a CSIRT.
 
 ### Regulation (EU) No 596/2014, Market Abuse Regulation {#mar}
-European Union, consolidated text of 9 January 2024 - read 3 September 2026
+European Parliament and Council · European Union · 16 April 2014
 http://publications.europa.eu/resource/celex/02014R0596-20240109
 Kind: act
 Read: 2026-09-03
@@ -877,7 +877,7 @@ REPORTING@CSIRT.CY, or by telephone to 1490.
 
 ### Guidelines 9/2022 on personal data breach notification under GDPR {#edpb-9-2022}
 European Data Protection Board · European Union · 4 April 2023, version 2.0
-https://www.edpb.europa.eu/system/files/2023-04/edpb_guidelines_202209_personal_data_breach_notification_v2.0_en.pdf
+https://www.edpb.europa.eu/system/files/documents/2023-04/edpb_guidelines_202209_personal_data_breach_notification_v2.0_en.pdf
 Kind: guidance
 Read: 2026-09-02
 Establishes: How the EDPB reads the moment of awareness, that a short period of investigation precedes it, and that an unbounded one can be treated as a failure to notify.
