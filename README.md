@@ -19,8 +19,8 @@ term runs from.
 
 Set the event, the country and the kind of organization, and the page returns
 the acts that reach it. It does not state what an organization should do, it
-does not compare one jurisdiction with another, and it is not advice on
-compliance.
+does not compare one jurisdiction with another, it does not grade an
+organization's readiness, and it is not advice on compliance.
 
 ## Where the record stands
 
