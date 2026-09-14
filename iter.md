@@ -4,13 +4,15 @@ subtitle: Event types, and the reporting acts each one obliges. Every act carrie
 reviewed: 2026-09-02
 ---
 
-An **event type** is a set of obligations. Two events are the same type when
-they trigger the same obligations, or when the facts those obligations require
-are established by materially different means.
+An **event type** is a kind of insider event, and each kind sets off its own
+timeline: the obligations that run from the moment the organization is taken
+to know. Two events are the same type when they trigger the same obligations,
+or when the facts those obligations require are established by materially
+different means.
 
 **An event can be more than one type.** Ransomware that also exfiltrates is an
 interruption and a disclosure at once, and it obliges the union of both. The
-record carries the union; it does not pick a winner.
+record carries the obligations of each; it does not choose one.
 
 A **condition** is a circumstance that switches obligations on. Conditions cut
 across all types. One of them switches obligations *off*: a sector-specific
@@ -39,8 +41,8 @@ for.
 
 `Implication` holds the consequence the source itself states, not advice and not
 a reading. Where a consequence is reasoned rather than stated, it does not go in
-this field: it goes in the inference lane, marked, where a reader can see that
-the sources stopped and somebody started. A `Term` is written as the instrument writes it.
+this field: it goes in the inference lane, marked, where a reader can see
+where the sources stop and the reading begins. A `Term` is written as the instrument writes it.
 Where an instrument states a term in words, the words are the term.
 
 `At` is hours from awareness, reached by arithmetic on terms the
@@ -58,7 +60,7 @@ Updated: 2026-09-03
 Rows: written under the GDPR, DORA, NIS2 and MAR.
 
 ### T2 · Disclosure of proprietary information
-What it is: Non-personal information of value leaves the organization's control: trade secrets, plans, strategy. Nothing is owed under the General Data Protection Regulation, because there is no personal data in it. Where the material also contains personal data the event is a T1 as well, and both sets of obligations run.
+What it is: Non-personal information of value leaves the organization's control: trade secrets, plans, strategy. Nothing is owed under the General Data Protection Regulation (GDPR), because there is no personal data in it. Where the material also contains personal data the event is a T1 as well, and both sets of obligations run.
 Added: 2026-09-02
 Updated: 2026-09-03
 Rows: written under DORA, NIS2 and MAR. None under the GDPR, because the type is defined by the absence of personal data.
@@ -76,7 +78,7 @@ Updated: 2026-09-03
 Rows: written under the GDPR, DORA, NIS2 and MAR. Calibrated on the availability limb by cases 1 to 3 of Guidelines 01/2021, whose actor is external and whose reasoning does not turn on it.
 
 ### T5 · Unauthorized consultation, without extraction
-What it is: An employee opens records they had no business opening. Nothing leaves the organization. Under article 4(12) GDPR this is a breach on its own, because unauthorized access is in the definition.
+What it is: An employee opens records they had no reason to open. Nothing leaves the organization. Under article 4(12) GDPR this is a breach on its own, because unauthorized access is in the definition.
 Added: 2026-09-02
 Updated: 2026-09-02
 
@@ -135,8 +137,8 @@ Read: 2026-09-04
 ## The stages of knowing
 
 Every term in this record runs from a moment, and the instruments do not agree
-on which moment. Reading them one at a time makes each difference look like a
-national quirk. Set side by side they fall on one scale, and the scale is short.
+on which moment. Read one at a time, each difference looks like a peculiarity
+of one country. Set side by side they fall on one scale, and the scale is short.
 
 - **Occurrence.** The event happens. No instrument in this record starts a term
   here, and none could: the organization does not know.

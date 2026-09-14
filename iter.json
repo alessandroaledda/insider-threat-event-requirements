@@ -19,7 +19,7 @@
    "name": "T2 · Disclosure of proprietary information",
    "section": "Types",
    "fields": {
-    "What it is": "Non-personal information of value leaves the organization's control: trade secrets, plans, strategy. Nothing is owed under the General Data Protection Regulation, because there is no personal data in it. Where the material also contains personal data the event is a T1 as well, and both sets of obligations run.",
+    "What it is": "Non-personal information of value leaves the organization's control: trade secrets, plans, strategy. Nothing is owed under the General Data Protection Regulation (GDPR), because there is no personal data in it. Where the material also contains personal data the event is a T1 as well, and both sets of obligations run.",
     "Added": "2026-09-02",
     "Updated": "2026-09-03",
     "Rows": "written under DORA, NIS2 and MAR. None under the GDPR, because the type is defined by the absence of personal data."
@@ -61,7 +61,7 @@
    "name": "T5 · Unauthorized consultation, without extraction",
    "section": "Types",
    "fields": {
-    "What it is": "An employee opens records they had no business opening. Nothing leaves the organization. Under article 4(12) GDPR this is a breach on its own, because unauthorized access is in the definition.",
+    "What it is": "An employee opens records they had no reason to open. Nothing leaves the organization. Under article 4(12) GDPR this is a breach on its own, because unauthorized access is in the definition.",
     "Added": "2026-09-02",
     "Updated": "2026-09-02",
     "Why it is not T1": "under the instruments read so far it triggers the same"
@@ -4393,7 +4393,7 @@
  "version": {
   "schema": "1.0",
   "record": "2026-09-11",
-  "source_commit": "6a24702763d41d0beab32c799fdc3eed25dfec7f"
+  "source_commit": "551fbf012cd854e8dd4f7721f90d00cada71fdc0"
  },
  "sources": {
   "gdpr": {
