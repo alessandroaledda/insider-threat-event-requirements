@@ -4,23 +4,32 @@ ITER&trade; is a living record of what an insider event obliges in Europe:
 the reporting acts, the term on each, whom it is owed to, and the point the
 term runs from.
 
-- A **type** is a set of obligations. Two events are the same type when they
-  trigger the same obligations, or when the facts those obligations require
-  are established by materially different means. An event can be more than
-  one type, and the record carries the union rather than picking a winner.
-- An **act** is one reporting act an instrument obliges: what to do, whom it
-  is owed to, the term, and the point the term runs from. Every act carries an
+- A **type** is a kind of insider event, and each kind sets off its own
+  timeline: the obligations that run from the moment the organization is
+  taken to know. Two events are the same type when they trigger the same
+  obligations, or when the facts those obligations require are established by
+  materially different means. An event can be more than one type; the record
+  then carries the obligations of each, rather than choosing one.
+- An **act** is one reporting act that a regulation or directive obliges:
+  what to do, whom it is owed to, the term, and the point the term runs from.
+  Four Union instruments oblige the acts on this record, the General Data
+  Protection Regulation (GDPR), the NIS2 Directive, the Digital Operational
+  Resilience Act (DORA) and the Market Abuse Regulation (MAR), together with
+  the national acts that transpose or apply them. Every act carries an
   identifier and the source it rests on, and a national act that moves a term
   or its anchor is recorded beside it.
-- A **premise** is a property of the organization the instruments assume is
-  already in place before the event: the moment of knowledge is defined, a
-  person establishes it, and the investigation before it has a limit. No
-  instrument states them, and every term depends on them.
+- A **premise** is a fact about the organization that every term depends on
+  and no regulation states: whether the moment of knowledge is defined, who
+  establishes it, and whether the investigation before it has a limit. The
+  record sets the premises out ahead of the timeline, as they stand; what to
+  do about them is the organization's own decision.
 
 Set the event, the country and the kind of organization, and the page returns
-the acts that reach it. It does not state what an organization should do, it
-does not compare one jurisdiction with another, it does not grade an
-organization's readiness, and it is not advice on compliance.
+the acts that reach it. It states what the regulations oblige an organization
+to do. It does not state what an organization should do with its own
+processes to meet them, it does not compare one jurisdiction with another, it
+does not grade an organization's readiness, and it is not advice on
+compliance.
 
 ## Where the record stands
 
