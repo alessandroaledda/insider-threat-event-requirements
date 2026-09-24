@@ -204,7 +204,7 @@ country. Where the table has no entry, the act says so rather than naming a
 plausible body.
 
 Only one role is filled. The EDPB publishes the list of its members, so the
-data protection authority is known for thirty countries. The other three are
+data protection authority is recorded for every jurisdiction on this record. The other three are
 not published as a list that could be read: DORA, NIS2 and MAR do not name a
 body, they name a mechanism by which a Member State designates one, and the
 result has to be looked up country by country.
