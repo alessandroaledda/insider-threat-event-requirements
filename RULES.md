@@ -93,8 +93,9 @@ page that looks finished.
 
 ## Say which jurisdiction
 
-The instruments are European and the terms are the same across the Union. The
-body each report is owed to is not. A page that names an authority without
+The instruments are European and set the baseline terms across the Union; a
+national act can move a term or the point it runs from, and the row says so. The
+body each report is owed to differs by country. A page that names an authority without
 naming the country is describing one country and implying all of them.
 
 ## How it is written

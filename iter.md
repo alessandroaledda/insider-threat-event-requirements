@@ -2305,8 +2305,8 @@ Read: 2026-09-02
   activated account in Poland. No instrument mentions this, and it decides whether
   a report arrives on time.
 - Thirty-one jurisdictions carry a recipient, and thirty transpositions are
-  recorded. The terms are the same across the Union; the recipients are not, and
-  the rows that move a term say so. Two states outside the Union carry what
+  recorded. The Union terms are the baseline and the recipients differ, and the
+  rows that move a term say so. Two states outside the Union carry what
   binds there instead of the four instruments, read as equivalents: the retained
   UK GDPR and UK MAR with the NIS Regulations 2018, and the Swiss FADP with the
   ISG's reporting duty. The Cyber Security and Resilience Bill that would replace

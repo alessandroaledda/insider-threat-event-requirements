@@ -4393,7 +4393,7 @@
  "version": {
   "schema": "1.0",
   "record": "2026-09-11",
-  "source_commit": "b41f33e7870f382f544159187033d6e9f3d62e53"
+  "source_commit": "286335b6db841fccf8142c7e983b93ee52d914ab"
  },
  "sources": {
   "gdpr": {
