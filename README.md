@@ -40,11 +40,11 @@ compliance.
 | Union instruments | 4 |
 | Jurisdictions | 32 |
 | National acts read, in the Union and the EEA | 30 |
-| Of them moving a term or its anchor | 12 |
+| Of them moving a term or its anchor | 13 |
 | Reporting addresses recorded | 15 of 32 |
 | Decided cases | 3 |
-| Sources read | 70 |
-| Last reading | 2026-09-05 |
+| Sources read | 84 |
+| Last reading | 2026-10-05 |
 
 ## What is here
 

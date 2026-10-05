@@ -1,7 +1,7 @@
 ---
 title: Library
 subtitle: The sources this record rests on, each with what it establishes and what it does not settle.
-reviewed: 2026-09-02
+reviewed: 2026-10-05
 ---
 
 Each source carries a note saying what it establishes, so a reader can place it
@@ -922,6 +922,132 @@ doing the job requires the access that was misused.
 
 It fixes reference points, not rules. Change the sensitivity, the volume or the
 evidence of onward use and the second line moves.
+
+### Cyberbeveiligingswet, Wet van 8 juli 2026, Stb. 2026, 187, and Cyberbeveiligingsbesluit, Stb. 2026, 189 {#nl-cbw-2026}
+Staatsblad · Netherlands · 10 July 2026
+https://zoek.officielebekendmakingen.nl/stb-2026-187.html
+Kind: act
+Read: 2026-10-05
+Establishes: That the Dutch NIS2 act exists as Wet van 8 juli 2026, and that it and its decision take effect on 15 August 2026.
+
+The act was published in the Staatsblad on 10 July 2026 as *«Wet van 8 juli 2026, houdende regels ter implementatie van Richtlijn (EU) 2022/2555»*. Article 35 of the Cyberbeveiligingsbesluit, Stb. 2026, 189, fixes its commencement: *«De Cyberbeveiligingswet en dit besluit treden in werking met ingang van 15 augustus 2026»*. The notification article of the act was not read in this pass; the terms remain recorded from the NCSC's guidance on it.
+
+### Loi du 5 mai 2026 concernant des mesures destinées à assurer un niveau élevé de cybersécurité {#lu-loi-nis2-2026}
+Mémorial A n° 225 · Luxembourg · 6 May 2026
+https://data.legilux.public.lu/filestore/eli/etat/leg/loi/2026/05/05/a225/jo/fr/pdfa/eli-etat-leg-loi-2026-05-05-a225-jo-fr-pdfa.pdf
+Kind: act
+Read: 2026-10-05
+Establishes: That Luxembourg carries the Directive's whole cascade, anchored on knowledge of the significant incident, and owes it to the competent authority.
+
+Article 14(4) owes to the competent authority *«dans les vingt-quatre heures après avoir eu connaissance de l'incident important, une notification préliminaire»*, *«dans les soixante-douze heures après avoir eu connaissance de l'incident important, une notification d'incident»*, an interim report on request, and *«un rapport final au plus tard un mois après la présentation de la notification d'incident»*; where the incident is still running then, a progress report and a final report within one month of its handling. Trust service providers have twenty-four hours for the second stage. The text read carries no commencement article.
+
+### Regulamento n.º 756/2026, Regulamento de execução do Regime Jurídico da Cibersegurança {#pt-reg-756-2026}
+Diário da República, 2.ª série, n.º 118 · Portugal · 22 June 2026
+https://diariodarepublica.pt/dr/detalhe/regulamento/756-2026-1134399056
+Kind: act
+Read: 2026-10-05
+Establishes: That the three notifications of the decree-law are made on a form in the entity's reserved area of the Centre's electronic platform, from 23 June 2026, and that the terms are left as the decree-law sets them.
+
+Issued by the Centro Nacional de Cibersegurança. Article 34: *«O presente Regulamento entra em vigor no dia seguinte após a sua publicação»*. Article 20(1): significant incidents are submitted to the competent cybersecurity authority *«através de formulário disponível na área reservada da plataforma eletrónica»*: the initial notification under article 42, the notification of the end of significant impact under article 43, and the final or interim report under article 44 of the decree-law. Article 20(3) takes the significance threshold from Implementing Regulation (EU) 2024/2690 for the entities it covers and from a technical instruction for the rest.
+
+### Cybersäkerhetsförordning (2025:1507), as amended by SFS 2026:623 {#se-cybersakerhetsforordning-2025}
+Svensk författningssamling · Sweden · in force 15 January 2026; amendment in force 1 July 2026
+https://data.riksdagen.se/dokument/sfs-2025-1507.text
+Kind: act
+Read: 2026-10-05
+Establishes: That incident reports under the cybersecurity act go to the CSIRT unit, and that Försvarets radioanstalt is that unit.
+
+Section 6: *«Incidentrapportering enligt 2 kap. 5-8 §§ cybersäkerhetslagen (2025:1506) ska göras till CSIRT-enheten enligt 31 §»*. Section 31: *«Försvarets radioanstalt ska vara enhet för hantering av it-säkerhetsincidenter (CSIRT-enhet)»*. The amending ordinance SFS 2026:623, in force 1 July 2026, keeps section 31 and section 23 on the single point of contact. The reporting tool and its regulations, MCFFS 2026:8, are the Centre's.
+
+### Zákon č. 264/2025 Sb., o kybernetické bezpečnosti {#cz-zkb-264-2025}
+Sbírka zákonů · Czechia · in force 1 November 2025
+https://www.zakonyprolidi.cz/cs/2025-264
+Kind: act
+Read: 2026-10-05
+Establishes: That Czechia runs the twenty-four and seventy-two hour stages from ascertaining the incident, and the final report thirty days from the notification.
+
+Section 16(1): the provider *«bez zbytečného odkladu, nejpozději do 24 hodin po zjištění kybernetického bezpečnostního incidentu, předloží prvotní hlášení»*. Section 16(3), for an incident with significant impact: the notification *«nejpozději do 72 hodin po zjištění kybernetického bezpečnostního incidentu»*, an interim report on request of the Úřad or the Národní CERT, and the final report *«nejpozději do 30 dnů ode dne předložení oznámení»*. Section 16(2) gives the Úřad twenty-four hours after the first report to tell a provider in the higher regime whether the incident has significant impact. Read in a consolidated legal database, not in the Sbírka; vyhláška č. 334/2025 Sb. on the Úřad's portal took effect the same day as the act.
+
+### BSI-Gesetz vom 2. Dezember 2025, BGBl. 2025 I Nr. 301 {#de-bsig-2025}
+Bundesgesetzblatt · Germany · 2 December 2025, as amended
+https://www.gesetze-im-internet.de/bsig_2025/
+Kind: act
+Read: 2026-10-05
+Establishes: That the German NIS2 act is the BSI-Gesetz of 2 December 2025, and that it has been amended twice in 2026.
+
+The full citation reads *«BSI-Gesetz vom 2. Dezember 2025 (BGBl. 2025 I Nr. 301, S. 2), das zuletzt durch Artikel 8 Absatz 1 des Gesetzes vom 23. Juli 2026 (BGBl. 2026 I Nr. 226) geändert worden ist»*, with a further amendment by article 4 of the law of 11 March 2026. Only the citation was read; the reporting article was not.
+
+### Netz- und Informationssystemsicherheitsgesetz 2026, NISG 2026, BGBl. I Nr. 94/2025 {#at-nisg-2026}
+Bundesgesetzblatt · Austria · 23 December 2025
+https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2025_I_94/BGBLA_2025_I_94.pdf
+Kind: act
+Read: 2026-10-05
+Establishes: That Austria transposes NIS2 by the NISG 2026, in force 1 October 2026, with the Directive's cascade owed to a CSIRT that forwards it to the Bundesamt für Cybersicherheit.
+
+Section 3a: *«Zuständige Behörde im Sinne dieses Bundesgesetzes ist das Bundesamt für Cybersicherheit (Cybersicherheitsbehörde)»*. Section 34(1): essential and important entities report every significant incident *«dem für sie zuständigen sektorspezifischen CSIRT ..., in Ermangelung eines solchen dem nationalen CSIRT»*, which *«leitet die Meldung unverzüglich an die Cybersicherheitsbehörde weiter»*. Section 34(2): an early warning *«innerhalb von 24 Stunden nach Kenntnisnahme des erheblichen Cybersicherheitsvorfalls»*, a notification *«innerhalb von 72 Stunden nach Kenntnisnahme»*, an interim report on request, and a final report *«spätestens einen Monat nach Übermittlung der Meldung»*; where the incident is still running, a progress report and the final report within one month of the end of its handling. Section 51(2): sections 2 to 45 take effect after nine months from promulgation, on the following first of the month, which is 1 October 2026; the NISG of 2018 lapses the same day.
+
+### NIS2, CERT.at {#cert-at-nis2}
+CERT.at · Austria · page current on 5 October 2026
+https://www.cert.at/de/nis2/
+Kind: channel
+Read: 2026-10-05
+Establishes: That the reporting platform in the Unternehmensserviceportal has been in operation since 1 October 2026, and that CERT.at as national CSIRT takes, handles, and forwards the reports.
+
+*«Dazu wurde im Unternehmensserviceportal (USP) eine Meldeplattform erstellt, die mit 1. Oktober 2026 in Betrieb gegangen ist»*; *«CERT.at ist als nationales CSIRT für die Entgegennahme, Bearbeitung und Weiterleitung dieser Meldungen verantwortlich»*. Where the platform is down, a PDF form goes to reports@cert.at. The former address nis.cert.at forwards to this page.
+
+### Legea nr. 124/2025 pentru aprobarea Ordonanței de urgență a Guvernului nr. 155/2024 {#ro-legea-124-2025}
+Monitorul Oficial nr. 638 · Romania · 7 July 2025
+https://legislatie.just.ro/
+Kind: act
+Read: 2026-10-05
+Establishes: That the NIS2 ordinance was approved with amendments in July 2025, and that the amendments leave the notification article and its terms as they were.
+
+*«Articol unic. Se aprobă Ordonanța de urgență a Guvernului nr. 155 din 30 decembrie 2024 ..., cu următoarele modificări și completări»*. The amendments touch scope, definitions, and governance; the text contains no change to the twenty-four or seventy-two hour terms. Read in a database copy of the law hosted by Poșta Română, not on the legislative portal, which is the address recorded here.
+
+### Zakon o informacijski varnosti (ZInfV-1) objavljen v Uradnem listu Republike Slovenije {#si-gov-zinfv-1}
+Vlada Republike Slovenije · Slovenia · 4 June 2025
+https://www.gov.si/novice/2025-06-04-zakon-o-informacijski-varnosti-zinfv-1-objavljen-v-uradnem-listu-republike-slovenije/
+Kind: announcement
+Read: 2026-10-05
+Establishes: That ZInfV-1 was published on 4 June 2025 and took effect on 19 June 2025.
+
+*«V Uradnem listu Republike Slovenije št. 40/25 je bil dne 4. junija 2025 objavljen Zakon o informacijski varnosti (ZInfV-1)»*; *«Zakon začne veljati 19. junija 2025»*. The date is the Government's statement, and matches the fifteen days of article 70.
+
+### Measures for a High Common Level of Cybersecurity across the European Union (Malta) Order, 2025, L.N. 71 of 2025, S.L. 460.41, and its commencement notice, L.N. 22 of 2026 {#mt-ln-71-2025}
+Government Gazette · Malta · Order of 2025; commencement notice of 2026
+https://legislation.mt/eli/ln/2026/22/eng/pdf
+Kind: act
+Read: 2026-10-05
+Establishes: That the Maltese NIS2 order was made in 2025 and brought fully into force on 23 January 2026, with the Directive's cascade from becoming aware, owed to CSIRT.
+
+L.N. 22 of 2026: *«the Minister responsible for critical infrastructure protection has established the 23rd January 2026 as the date on which all the provisions of the said Order shall come into force»*. The Order, sub-article (5): *«the entities concerned shall submit to CSIRT: (a) without undue delay and in any event within twenty-four (24) hours of becoming aware of the significant incident, an early warning ...; (b) without undue delay and in any event within seventy-two (72) hours of becoming aware of the significant incident, an incident notification»*, and a final report within one month. The Order's text was read in ENISA's copy of the subsidiary legislation; the commencement notice on legislation.mt.
+
+### Ο περί Ασφάλειας Δικτύων και Συστημάτων Πληροφοριών (Τροποποιητικός) Νόμος του 2025, Ν. 60(Ι)/2025 {#cy-n-60-2025}
+Επίσημη Εφημερίδα, Παρ. Ι(Ι), Αρ. 5036 · Cyprus · 25 April 2025
+https://cylaw.org/nomoi/arith/2025_1_060.pdf
+Kind: act
+Read: 2026-10-05
+Establishes: That Cypriot law owes the early warning within six hours of perceiving the significant incident, and the notification within seventy-two, to the Authority.
+
+The law amends Ν. 89(Ι)/2020. New subsection (4): *«οι βασικές και σημαντικές οντότητες υποβάλλουν στην Αρχή- (α) χωρίς αδικαιολόγητη καθυστέρηση και σε κάθε περίπτωση εντός έξι (6) ωρών από τη στιγμή που αντιλήφθηκαν το σημαντικό περιστατικό, ενημέρωση ...· (β) ... εντός εβδομήντα δύο (72) ωρών από τη στιγμή που έγινε αντιληπτό το σημαντικό περιστατικό, κοινοποίηση περιστατικού»*. Trust service providers have twenty-four hours; the Authority answers within twenty-four hours of the early warning. Article 57(1): *«ο παρών Νόμος, τίθεται σε ισχύ, από την ημερομηνία της δημοσίευσής του»*; article 7 commences on a date the Council of Ministers sets. The final report's term was not read.
+
+### Reglugerð nr. 715/2026 um netöryggissveit (CERT-IS) {#is-rg-715-2026}
+Stjórnartíðindi · Iceland · in force 25 June 2026
+https://island.is/reglugerdir/nr/0715-2026
+Kind: act
+Read: 2026-10-05
+Establishes: That the cybersecurity team is now governed under the Defence Act, and that the regulation on it sets no interval for notification.
+
+The regulation, in force 25 June 2026, rests on the Defence Act 34/2008, the act 78/2019, and the Telecommunications Act 70/2022. The act 78/2019, as amended by L. 51/2025 and L. 78/2025, now defines in article 2 *«Netöryggissveit: Netöryggissveit samkvæmt varnarmálalögum»*, and article 8 keeps *«svo fljótt sem verða má»*. Neither the act nor the regulation states hours.
+
+### Cyber-Sicherheitsgesetz (CSG) vom 5. Dezember 2024, LGBl. 2025 Nr. 111 {#li-csg-lgbl-2025}
+Liechtensteinisches Landesgesetzblatt · Liechtenstein · issued 29 January 2025
+https://www.gesetze.li/chrono/pdf/2025111000
+Kind: act
+Read: 2026-10-05
+Establishes: That Liechtenstein's NIS2 act took effect on 1 February 2025.
+
+Article 29: *«Dieses Gesetz tritt unter Vorbehalt des ungenutzten Ablaufs der Referendumsfrist am 1. Februar 2025 in Kraft, andernfalls am Tag nach der Kundmachung»*. Article 27 repeals the CSG of 4 May 2023, LGBl. 2023 Nr. 269. Article 26 gives existing entities four weeks from entry into force to register.
 
 ## Cited but not yet read
 

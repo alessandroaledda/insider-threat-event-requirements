@@ -2250,21 +2250,21 @@
    "fields": {
     "Role": "csirt",
     "Country": "AT",
-    "Name": "The NIS-Behörde, within the Bundesministerium für Inneres",
-    "URL": "https://www.nis.gv.at/fragen-und-antworten/nis-2-richtlinie/allgemeine-informationen-zu-nis-2.html",
-    "Portal": "https://nis.cert.at/",
-    "Channel": "There is no single address. The authority lists four platforms by sector: nis.cert.at for operators of essential services and digital service providers outside energy, nis.energy-cert.at for energy, nis.govcert.gv.at for public administration, and meldeportal.a-healthcert.at for health. All four take mandatory and voluntary reports, and the page does not distinguish NIS from NIS2 reporting.",
-    "Source": "[nisg-at-faq] [nis-at-meldungen]",
-    "Read": "2026-09-03",
-    "Checked": "2026-09-03"
+    "Name": "The sectoral CSIRT competent for the entity or, where there is none, CERT.at as national CSIRT, which forwards the report to the Bundesamt für Cybersicherheit",
+    "URL": "https://www.cert.at/de/nis2/",
+    "Portal": "The Meldeplattform in the Unternehmensserviceportal, in operation from 1 October 2026, reached through a USP login; nis.cert.at forwards to cert.at/de/nis2",
+    "Channel": "CERT.at, as national CSIRT, takes, handles, and forwards the reports; where the platform is down, a PDF form to reports@cert.at. Sectoral CSIRTs receive the reports of the entities in their sector.",
+    "Source": "[at-nisg-2026] [cert-at-nis2]",
+    "Read": "2026-10-05",
+    "Checked": "2026-10-05"
    },
    "note": "",
    "sources": [
-    "nisg-at-faq",
-    "nis-at-meldungen"
+    "at-nisg-2026",
+    "cert-at-nis2"
    ],
    "read": true,
-   "evidence": "reported",
+   "evidence": "binding",
    "layer": "procedure"
   },
   {
@@ -2295,12 +2295,13 @@
     "Country": "PT",
     "Name": "The competent cybersecurity authority, which article 2 defines as the Centro Nacional de Cibersegurança or, where one applies, the sectoral national authority under article 15(2)(a)",
     "URL": "https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2025-962603401",
-    "Channel": "Article 41(4) leaves the format and procedure to a technical instruction of the CNCS. The Centre names the instrument: notifications are made on the MyCiber platform, in the entity's reserved area, and the initial notification within twenty-four hours goes there. The platform's own address is not recorded, because every route to the Centre's site was refused: the tool, a browser with an ordinary user agent, and a headless browser.",
-    "Source": "[pt-dl-125-2025]",
-    "Read": "2026-09-03"
+    "Channel": "Article 41(4) leaves the format to the Centre. Regulamento n.º 756/2026, article 20, sets it: *«através de formulário disponível na área reservada da plataforma eletrónica»*, a form in the entity's reserved area of the electronic platform. The address is not recorded, because the platform's host answered a redirect to itself.",
+    "Source": "[pt-reg-756-2026] [pt-dl-125-2025]",
+    "Read": "2026-10-05"
    },
    "note": "",
    "sources": [
+    "pt-reg-756-2026",
     "pt-dl-125-2025"
    ],
    "read": true,
@@ -2378,16 +2379,17 @@
    "fields": {
     "Role": "csirt",
     "Country": "SE",
-    "Name": "The act designates nobody by name. In practice the reports reach the Nationellt cybersäkerhetscenter, whose CERT-SE unit forwards them to the supervisory authorities",
+    "Name": "The CSIRT unit at Försvarets radioanstalt, under 31 § of the Cybersäkerhetsförordning (2025:1507), where the Nationellt cybersäkerhetscenter receives the reports through CERT-SE",
     "URL": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/cybersakerhetslag-20251506_sfs-2025-1506/",
-    "Portal": "https://cyberportal.mcf.se/",
-    "Channel": "The Incidentrapporteringsverktyget inside the Cyberportalen. The regulations took effect on 1 July 2026 and the tool opened the same day. The Centre states that the tool is still in development and publishes a fallback procedure for use when it is unavailable.",
-    "Source": "[se-cybersakerhetslag-2025] [ncsc-se-incidentrapportering]",
-    "Read": "2026-09-03",
-    "Checked": "2026-09-11"
+    "Portal": "https://cyberportal.ncsc.se/, which forwards to cyberportal.mcf.se",
+    "Channel": "The incident reporting tool in the Cyberportalen, opened 1 July 2026 under MCFFS 2026:8; the Transport Agency states the recipient as *«Nationellt cybersäkerhetscenter genom CERT-SE»*. The Centre publishes a fallback procedure for use when the tool is unavailable.",
+    "Source": "[se-cybersakerhetsforordning-2025] [se-cybersakerhetslag-2025] [ncsc-se-incidentrapportering]",
+    "Read": "2026-10-05",
+    "Checked": "2026-10-05"
    },
    "note": "",
    "sources": [
+    "se-cybersakerhetsforordning-2025",
     "se-cybersakerhetslag-2025",
     "ncsc-se-incidentrapportering"
    ],
@@ -3469,15 +3471,15 @@
    "section": "Transpositions",
    "fields": {
     "Country": "DE",
-    "Act": "Gesetz über das Bundesamt für Sicherheit in der Informationstechnik, in the 2025 version (BSIG 2025)",
-    "In force": "2025. The date has not been read.",
+    "Act": "Gesetz über das Bundesamt für Sicherheit in der Informationstechnik, BSI-Gesetz vom 2. Dezember 2025, BGBl. 2025 I Nr. 301, as amended",
+    "In force": "6 December 2025, the day after promulgation on 5 December 2025. The date is the Agency's statement of when the duties apply; the commencement article has not been read.",
     "Recipient": "Bundesamt für Sicherheit in der Informationstechnik, which is the competent authority, the CSIRT and the single point of contact at once",
     "Divergence": "None found on the anchor. The early initial report is due within 24 hours **nach Kenntniserlangung**, and the detailed report within 72 hours on the same footing, so both run from becoming aware as the Directive has them. This is the opposite of the Italian reading, where the 72 hours run from the pre-notification.",
     "Moves": "no",
     "Stage": "awareness",
-    "Standing": "This is the BSI's own account of the duty. The BSIG article has not been read.",
-    "Source": "[bsi-nis2-meldepflicht]",
-    "Read": "2026-09-03"
+    "Standing": "This is the BSI's own account of the duty. The BSIG article has not been read. The act has been amended twice since, by the laws of 11 March 2026 and 23 July 2026; neither was read.",
+    "Source": "de-bsig-2025 [bsi-nis2-meldepflicht]",
+    "Read": "2026-10-05"
    },
    "note": "",
    "sources": [
@@ -3516,15 +3518,15 @@
    "section": "Transpositions",
    "fields": {
     "Country": "NL",
-    "Act": "Cyberbeveiligingswet",
-    "In force": "15 August 2026",
+    "Act": "Cyberbeveiligingswet, Wet van 8 juli 2026, Stb. 2026, 187",
+    "In force": "15 August 2026, by article 35 of the Cyberbeveiligingsbesluit, Stb. 2026, 189: *«De Cyberbeveiligingswet en dit besluit treden in werking met ingang van 15 augustus 2026»*",
     "Recipient": "The sectoral CSIRT and the supervisory authority, both reached by one report",
     "Divergence": "None found. The three stages are the Directive's own, *«Vroegtijdige waarschuwing binnen 24 uur»*, *«Melding binnen 72 uur»*, *«Eindverslag binnen 1 maand na je melding»*, and the page states the anchor plainly: *«De termijnen tellen vanaf het moment dat je kennis krijgt van het incident»*.",
     "Moves": "no",
     "Stage": "awareness",
-    "Standing": "This is the NCSC's guidance on the act, not the act. What it adds to the Directive is the channel and the fact that one report discharges the duty to two bodies.",
-    "Source": "[ncsc-nl-meldplicht]",
-    "Read": "2026-09-03"
+    "Standing": "The terms are read in the NCSC's guidance on the act, not in the act, which is published and whose notification article has not been read here. What it adds to the Directive is the channel and the fact that one report discharges the duty to two bodies.",
+    "Source": "nl-cbw-2026 [ncsc-nl-meldplicht]",
+    "Read": "2026-10-05"
    },
    "note": "",
    "sources": [
@@ -3564,15 +3566,15 @@
    "section": "Transpositions",
    "fields": {
     "Country": "AT",
-    "Act": "Netz- und Informationssystemsicherheitsgesetz 2024, NISG 2024",
-    "In force": "not stated on the page read",
-    "Recipient": "The NIS-Behörde, within the Bundesministerium für Inneres",
-    "Divergence": "None found. The three stages are the Directive's: a *«24-Stunden-Zeitfenster»* for the early warning, *«binnen 72 Stunden»* for the assessment, and the final report *«ein Monat nach der Meldung»*.",
+    "Act": "Netz- und Informationssystemsicherheitsgesetz 2026, NISG 2026, BGBl. I Nr. 94/2025",
+    "In force": "1 October 2026, by § 51(2): nine months after promulgation on 23 December 2025, then the first day of the following month. The date is arithmetic on the act's own wording.",
+    "Recipient": "The sectoral CSIRT competent for the entity or, where there is none, the national CSIRT, which forwards the report to the Bundesamt für Cybersicherheit, the Cybersicherheitsbehörde under § 3a",
+    "Divergence": "None. Section 34(2) owes the early warning *«innerhalb von 24 Stunden nach Kenntnisnahme des erheblichen Cybersicherheitsvorfalls»*, the notification *«innerhalb von 72 Stunden nach Kenntnisnahme»*, an interim report on request, and the final report *«spätestens einen Monat nach Übermittlung der Meldung»*; where the incident is still running, a progress report then and the final report within one month of the end of its handling.",
     "Moves": "no",
     "Stage": "awareness",
-    "Standing": "Named on the authority's own page without a date of entry into force. The page names the NIS-Behörde as the authority and does not name a CSIRT, so this record does not name one either. Whether a designated team receives the report alongside the authority is not settled here.",
-    "Source": "[nisg-at-faq]",
-    "Read": "2026-09-03"
+    "Standing": "Read in the act as promulgated. The NISG 2024 the earlier entry named was a bill that did not pass; the authority's page it was read from did not say so.",
+    "Source": "at-nisg-2026 cert-at-nis2 [nisg-at-faq]",
+    "Read": "2026-10-05"
    },
    "note": "",
    "sources": [
@@ -3616,9 +3618,9 @@
     "Divergence": "Substantial, and in four places. **The anchor is not awareness.** Article 42(1) starts the twenty-four hours when the entity *«concluir que existe, ou possa vir a existir, um incidente significativo»* and runs them *«até 24 horas após essa verificação»*, from that determination, and reaching forward to an incident that may yet come to exist. **The seventy-two hour stage is conditional and is an update.** Article 42(3) owes it *«quando necessário»*, as *«uma atualização da notificação inicial»*, where the Directive's second stage is owed in every case. **There is a stage the Directive does not have.** Article 43 requires a notification of the *end* of significant impact, within twenty-four hours of that end. **The final report is measured differently and in a different unit.** Article 44(1) gives *«30 dias úteis a contar da data da notificação do fim de impacto significativo»*, thirty working days from that new stage, where the Directive gives one month from the incident notification.",
     "Moves": "yes",
     "Stage": "determination",
-    "Standing": "Read in the act itself, in the Diário da República, and not in guidance. One consequence worth holding: article 41(2) provides that where the incident is resolved within two hours of detection, only the end-of-impact notification is owed. An organization working from the Directive alone would hold the wrong anchor, the wrong final deadline, and would not know the third stage exists.",
-    "Source": "[pt-dl-125-2025]",
-    "Read": "2026-09-03"
+    "Standing": "Read in the act itself, in the Diário da República, and not in guidance. One consequence worth holding: article 41(2) provides that where the incident is resolved within two hours of detection, only the end-of-impact notification is owed. An organization working from the Directive alone would hold the wrong anchor, the wrong final deadline, and would not know the third stage exists. The execution regulation, Regulamento n.º 756/2026 of 22 June 2026, in force 23 June 2026, puts the three notifications of articles 42 to 44 on a form in the entity's reserved area of the Centre's electronic platform, and does not touch the terms.",
+    "Source": "pt-reg-756-2026 [pt-dl-125-2025]",
+    "Read": "2026-10-05"
    },
    "note": "",
    "sources": [
@@ -3657,14 +3659,14 @@
    "fields": {
     "Country": "CZ",
     "Act": "Zákon č. 264/2025 Sb., o kybernetické bezpečnosti",
-    "In force": "not stated in the material read",
+    "In force": "1 November 2025",
     "Recipient": "Národní úřad pro kybernetickou a informační bezpečnost",
-    "Divergence": "In three places, and one of them changes who decides. **The anchor is an internal determination.** The initial report is due *«bez zbytečného odkladu, nejpozději do 24 hodin»*, and the guidance says plainly what starts it: *«tato lhůta se počítá od okamžiku, kdy u konkrétního subjektu osoba k tomu pověřená (například manažer kybernetické bezpečnosti) vyhodnotí zjištěnou událost jako kybernetický bezpečnostní incident»*, from the moment a designated person inside the organization classifies the event, not from the organization becoming aware of a significant incident. **The authority decides significance, not the entity.** After the initial report the Úřad tells the provider whether the incident has significant impact; where it does not, the guidance says the reporting ends there. The Directive leaves that assessment with the entity. **The final report is measured from resolution.** *«Po jeho vyřešení nejpozději do 30 dnů závěrečnou zprávu»*, thirty days from the incident being resolved, where the Directive gives one month from the incident notification, with an interim report in the meantime if the incident is still running.",
+    "Divergence": "In two places. **The anchor is ascertainment.** Section 16(1) owes the first report *«nejpozději do 24 hodin po zjištění kybernetického bezpečnostního incidentu»*, and section 16(3)(a) the notification *«nejpozději do 72 hodin po zjištění»*, where the Directive runs both from becoming aware. **The final report is thirty days, not one month**, *«nejpozději do 30 dnů ode dne předložení oznámení»*, from the day the notification is submitted, which is the Directive's own anchor in a different unit. An interim report is owed on request of the Úřad or the Národní CERT.",
     "Moves": "yes",
-    "Stage": "determination",
-    "Standing": "This is the Úřad's own supporting material on the ZKB and its implementing decrees, not the act. Two things it does not contain: any seventy-two hour stage, and the date from which the act binds. Neither is recorded here as a result. It also states a threshold of its own: the duty reaches incidents where intentional causation cannot be excluded without undue delay and within twenty-four hours, so operational incidents that can be ruled out are not reportable.",
-    "Source": "[nukib-hlaseni-incidentu]",
-    "Read": "2026-09-03"
+    "Stage": "detection",
+    "Standing": "Read in the act. Section 16(2) obliges the Úřad to tell a provider in the higher regime, within twenty-four hours of the first report, whether the incident has significant impact; the Úřad's guidance read earlier describes that step, and on the anchor and the seventy-two hour stage it is superseded by the act. The text was read in a consolidated database, not in the Sbírka.",
+    "Source": "cz-zkb-264-2025 [nukib-hlaseni-incidentu]",
+    "Read": "2026-10-05"
    },
    "note": "",
    "sources": [
@@ -3704,13 +3706,13 @@
     "Country": "SE",
     "Act": "Cybersäkerhetslag (2025:1506)",
     "In force": "15 January 2026, by the transitional provisions",
-    "Recipient": "The authority the Government designates, which the act itself does not name",
+    "Recipient": "The CSIRT unit, which the Cybersäkerhetsförordning (2025:1507), 31 §, places at Försvarets radioanstalt, where the Nationellt cybersäkerhetscenter receives the reports through CERT-SE",
     "Divergence": "None in the terms. Section 5 owes the first notice *«så snart det kan ske, dock senast 24 timmar efter det att verksamhetsutövaren har fått kännedom om incidenten»*; section 6 gives trust service providers twenty-four hours and everyone else *«senast 72 timmar efter sådan kännedom»*; section 8 puts the final report *«senast en månad efter incidentanmälan»*, with a situation report instead where the incident is still running. What the act does not do is name the recipient: sections 5 and 6 owe the report to *«den myndighet som regeringen bestämmer»*.",
     "Moves": "no",
     "Stage": "awareness",
-    "Standing": "Read in the act as published in Svensk författningssamling. The act designates the recipient by reference rather than by name; the designation is answered outside the act, by the National Cybersecurity Centre that receives the reports. The act also repeals the 2018 act on information security for essential and digital services.",
-    "Source": "[se-cybersakerhetslag-2025]",
-    "Read": "2026-09-03"
+    "Standing": "Read in the act as published in Svensk författningssamling. The act designates the recipient by reference; the förordning answers it: 6 § sends the reports *«till CSIRT-enheten enligt 31 §»*, and 31 § makes Försvarets radioanstalt the CSIRT unit. The act also repeals the 2018 act on information security for essential and digital services.",
+    "Source": "se-cybersakerhetsforordning-2025 [se-cybersakerhetslag-2025]",
+    "Read": "2026-10-05"
    },
    "note": "",
    "sources": [
@@ -3794,15 +3796,15 @@
    "section": "Transpositions",
    "fields": {
     "Country": "RO",
-    "Act": "Ordonanța de urgență nr. 155/2024",
+    "Act": "Ordonanța de urgență nr. 155/2024, approved with amendments by Legea nr. 124/2025, Monitorul Oficial nr. 638 of 7 July 2025",
     "In force": "Published in Monitorul Oficial on 31 December 2024. Articles 60 and 61 take effect thirty days after publication.",
     "Recipient": "The national cyber security incident response team",
     "Divergence": "None. The cascade is the Directive's, anchor included: the early warning *«nu mai târziu de 24 de ore de la data la care au luat cunoștință de incidentul semnificativ»*, the incident report *«nu mai târziu de 72 de ore din momentul în care au luat cunoștință»*, an interim report at the team's request, and the final report *«în termen de cel mult o lună de la transmiterea notificării incidentului»*.",
     "Moves": "no",
     "Stage": "awareness",
-    "Standing": "Read in the ordinance on the legislative portal. It names the recipient by function, the national incident response team, rather than by name, and does not set the channel.",
-    "Source": "[ro-oug-155-2024]",
-    "Read": "2026-09-03"
+    "Standing": "Read in the ordinance on the legislative portal. It names the recipient by function, the national incident response team, rather than by name, and does not set the channel. The approving law amends the ordinance in other articles and leaves the notification article and its terms as they were; it was read in a database copy, not on the legislative portal.",
+    "Source": "ro-legea-124-2025 [ro-oug-155-2024]",
+    "Read": "2026-10-05"
    },
    "note": "",
    "sources": [
@@ -3910,14 +3912,14 @@
    "fields": {
     "Country": "SI",
     "Act": "Zakon o informacijski varnosti, ZInfV-1, Uradni list RS št. 40/25",
-    "In force": "Article 70 puts it on the fifteenth day after publication in the Uradni list. Passed by the Državni zbor on 23 May 2025.",
+    "In force": "19 June 2025, the fifteenth day after publication in Uradni list RS št. 40/25 on 4 June 2025, by article 70",
     "Recipient": "The competent CSIRT group, under article 30(1)",
     "Divergence": "The anchor is detection. Article 30(1) owes the early message *«najpozneje pa v 24 urah po zaznavi pomembnega incidenta»* and the incident notification *«najpozneje pa v 72 urah po zaznavi pomembnega incidenta»*: after the *detection* of the significant incident, where the Directive measures from becoming aware. Trust service providers report within twenty-four hours on the same footing. Everything after the anchor is the Directive's: an interim report on request, the final report within one month of the incident notification, and where the incident is still running, a progress report and the final report within one month of its resolution.",
     "Moves": "yes",
     "Stage": "detection",
     "Standing": "Read in the act as published in the Uradni list. Article 30(3) also puts a deadline on the authority: the CSIRT answers within twenty-four hours of the early message where possible: which Denmark and Estonia do too.",
-    "Source": "[si-zinfv-1]",
-    "Read": "2026-09-03"
+    "Source": "si-gov-zinfv-1 [si-zinfv-1]",
+    "Read": "2026-10-05"
    },
    "note": "",
    "sources": [
@@ -3932,15 +3934,15 @@
    "section": "Transpositions",
    "fields": {
     "Country": "LU",
-    "Act": "Loi du 5 mai 2026 concernant des mesures destinées à assurer un niveau élevé de cybersécurité",
-    "In force": "not stated in the source read",
-    "Recipient": "The Institut Luxembourgeois de Régulation, which organizes the regime and receives the notifications",
-    "Divergence": "Nothing recorded moves a term, and only one term is recorded. The government's own announcement gives the first stage, *«tout incident ayant un impact important dans un délai de 24 heures»* as a preliminary notification, and stops there. It does not say what the twenty-four hours run from, and it does not give the stages after the first.",
+    "Act": "Loi du 5 mai 2026 concernant des mesures destinées à assurer un niveau élevé de cybersécurité, Mémorial A n° 225 du 6 mai 2026",
+    "In force": "Published 6 May 2026. The text read carries no commencement article; the Institute states the duty as running, without a date",
+    "Recipient": "The competent authority, to which article 14(4) owes the submissions; the Institut Luxembourgeois de Régulation states that it is that authority, save for the sector the CSSF supervises",
+    "Divergence": "None. Article 14(4) owes the preliminary notification *«dans les vingt-quatre heures après avoir eu connaissance de l'incident important»*, the incident notification *«dans les soixante-douze heures»* on the same footing, an interim report on request, and *«un rapport final au plus tard un mois après la présentation de la notification d'incident»*; where the incident is still running then, a progress report and the final report within one month of its handling. Trust service providers have twenty-four hours for the second stage.",
     "Moves": "no",
     "Stage": "awareness",
-    "Standing": "A government communiqué about the law, not the law. This record therefore holds one interval for Luxembourg and neither the anchor nor the rest of the cascade. The same position as France, and recorded the same way.",
-    "Source": "[lu-communique-nis2]",
-    "Read": "2026-09-03"
+    "Standing": "Read in the law as published in the Mémorial. The report is owed to the competent authority, not to a CSIRT; which authority depends on the sector.",
+    "Source": "lu-loi-nis2-2026 [lu-communique-nis2]",
+    "Read": "2026-10-05"
    },
    "note": "",
    "sources": [
@@ -3955,22 +3957,22 @@
    "section": "Transpositions",
    "fields": {
     "Country": "MT",
-    "Act": "Measures for a High Common Level of Cybersecurity Across the European Union (Malta) Order, 2024",
-    "In force": "Not fixed. Article 1(3) leaves it to *«such a date as the Prime Minister may by notice in the Gazette establish»*, and different dates may be set for different provisions.",
-    "Recipient": "CSIRTMalta, in the order as drafted",
-    "Divergence": "The draft moves nothing. Sub-article (6) reproduces the cascade exactly: the early warning *«within twenty-four (24) hours of becoming aware of the significant incident»*, the incident notification *«within seventy-two (72) hours of becoming aware»*, an intermediate report on request, the final report *«not later than one (1) month after the submission of the incident notification»*, and where the incident is still running, a progress report then and a final report within one month of its handling. Trust service providers get twenty-four hours. CSIRTMalta owes a response within twenty-four hours of the early warning. What is unsettled is not the content but the standing: every page of the document read carries the footer *Public Consultation*, and the citation reads *«L.N. of 2024»* with no number.",
-    "Moves": "unsettled",
-    "Stage": "not established",
-    "Standing": "Read in a public consultation draft, not as a made Legal Notice. A consultation draft, published by the Ministry responsible. Whether the order has since been made, and on what date it was brought into force, is not established by this source. The terms are recorded because they were read; the instrument is not recorded as binding, because this document does not show that it is.",
-    "Source": "[mt-cybersecurity-order-draft]",
-    "Read": "2026-09-03"
+    "Act": "Measures for a High Common Level of Cybersecurity across the European Union (Malta) Order, 2025, L.N. 71 of 2025, S.L. 460.41",
+    "In force": "23 January 2026, for all provisions, by L.N. 22 of 2026, a commencement notice under article 1(3)",
+    "Recipient": "CSIRT, as the Order names it, which is CSIRTMalta",
+    "Divergence": "None. Sub-article (5) keeps the cascade: the early warning *«within twenty-four (24) hours of becoming aware of the significant incident»*, the incident notification *«within seventy-two (72) hours of becoming aware»*, an intermediate report on request, and the final report within one month of the incident notification; a progress report where the incident is still running, with the final report within one month of its handling.",
+    "Moves": "no",
+    "Stage": "awareness",
+    "Standing": "Read in the made Order and in its commencement notice. The Order's text was read in ENISA's copy of the subsidiary legislation, not on legislation.mt. The Department's page on CSIRTMalta still refuses an automated reader.",
+    "Source": "mt-ln-71-2025 [mt-cybersecurity-order-draft]",
+    "Read": "2026-10-05"
    },
    "note": "",
    "sources": [
     "mt-cybersecurity-order-draft"
    ],
    "read": true,
-   "evidence": "unresolved",
+   "evidence": "provisional",
    "layer": "implementation"
   },
   {
@@ -4001,22 +4003,22 @@
    "section": "Transpositions",
    "fields": {
     "Country": "CY",
-    "Act": "Not read. The document read is the Authority's summary guide to the Directive, not the Cypriot transposing law.",
-    "In force": "not established",
-    "Recipient": "The relevant competent authority or the National CSIRT, as the guide puts it",
-    "Divergence": "The document read states one deadline that the Directive does not. Its notification timeline gives the stages as **6 h** *ΕΓΚΑΙΡΗ ΠΡΟΕΙΔΟΠΟΙΗΣΗ (EARLY WARNING)*, **72 h** *ΚΟΙΝΟΠΟΙΗΣΗ ΠΕΡΙΣΤΑΤΙΚΟΥ*, an intermediate progress report *όπως απαιτείται*, and **1 μήνας** for the *ΤΕΛΙΚΗ ΕΚΘΕΣΗ*, which it explains as due *«το αργότερο ένα μήνα μετά την κοινοποίηση του συμβάντος»*. Article 23(4)(a) of the Directive gives twenty-four hours for the early warning, not six. The other three stages match.",
-    "Moves": "unsettled",
-    "Stage": "not established",
-    "Standing": "This is the Digital Security Authority's own summary guide **to the Directive**, and the six hours appear in its timeline graphic. This record does not conclude that Cypriot law requires six hours: it records that the national authority's published guide states six where the instrument it summarizes states twenty-four. The Cypriot transposing law has not been read, so no Cypriot term is recorded from it, and the recipient is given in the guide's own words rather than named.",
-    "Source": "[cy-dsa-nis2-guide]",
-    "Read": "2026-09-03"
+    "Act": "Ο περί Ασφάλειας Δικτύων και Συστημάτων Πληροφοριών (Τροποποιητικός) Νόμος του 2025, Ν. 60(Ι)/2025, amending Ν. 89(Ι)/2020",
+    "In force": "25 April 2025, the date of publication in the Official Gazette, by article 57(1); article 7 commences on a date the Council of Ministers sets",
+    "Recipient": "The Αρχή, the Digital Security Authority, to which subsection (4) owes the submissions",
+    "Divergence": "The first term is six hours. Subsection (4)(α) owes the early warning *«εντός έξι (6) ωρών από τη στιγμή που αντιλήφθηκαν το σημαντικό περιστατικό»*, where the Directive gives twenty-four. The second stage keeps the Directive's *«εντός εβδομήντα δύο (72) ωρών»* on the same footing, trust service providers have twenty-four hours, and the Authority owes a response within twenty-four hours of the early warning. The anchor is the entity having perceived the incident, *αντιλήφθηκαν*, the Greek text's word for becoming aware.",
+    "Moves": "yes",
+    "Stage": "awareness",
+    "Standing": "Read in the amending law as gazetted. The six hours the Authority's guide shows are the law's own, not a reading of the Directive. The final report's term was not read in this pass.",
+    "Source": "cy-n-60-2025 [cy-dsa-nis2-guide]",
+    "Read": "2026-10-05"
    },
    "note": "",
    "sources": [
     "cy-dsa-nis2-guide"
    ],
    "read": true,
-   "evidence": "unresolved",
+   "evidence": "reported",
    "layer": "implementation"
   },
   {
@@ -4025,14 +4027,14 @@
    "fields": {
     "Country": "IS",
     "Act": "Lög nr. 78/2019 um öryggi net- og upplýsingakerfa mikilvægra innviða",
-    "In force": "1 September 2020",
-    "Recipient": "The cybersecurity team, netöryggissveit, operated by the telecommunications authority",
+    "In force": "1 September 2020; the version read is the one amended by L. 78/2025, in force 1 January 2026",
+    "Recipient": "The cybersecurity team, netöryggissveit, which article 2 now defines as the team under the Defence Act, varnarmálalög, governed by Reglugerð nr. 715/2026",
     "Divergence": "There are no hours. Article 8 requires notification *«svo fljótt sem verða má»*, as soon as may be, for serious incidents or risks threatening the security of network and information systems, and sets no interval at all. There is no early warning at twenty-four hours, no notification at seventy-two, and no final report at one month. The act does not cite Directive (EU) 2022/2555 anywhere.",
     "Moves": "yes",
     "Stage": "no term",
-    "Standing": "Read in the consolidated act on the Althingi's site. Iceland is in the EEA and the NIS2 Directive is not what this act implements; the regime in force is the earlier one. An organization applying the ITER cascade in Iceland is applying terms that Icelandic law does not contain.",
-    "Source": "[is-log-78-2019]",
-    "Read": "2026-09-03"
+    "Standing": "Read in the consolidated act on the Althingi's site. Iceland is in the EEA and the NIS2 Directive is not what this act implements; the regime in force is the earlier one. An organization applying the ITER cascade in Iceland is applying terms that Icelandic law does not contain. The team moved from the telecommunications authority to the defence domain by the 2025 amendments; the regulation on it of June 2026 keeps *«svo fljótt sem verða má»* and sets no interval.",
+    "Source": "is-rg-715-2026 [is-log-78-2019]",
+    "Read": "2026-10-05"
    },
    "note": "",
    "sources": [
@@ -4047,15 +4049,15 @@
    "section": "Transpositions",
    "fields": {
     "Country": "LI",
-    "Act": "Cyber Security Act (CSG), 355.13",
-    "In force": "Not established. The translation read does not carry a commencement article; it repeals the Cyber Security Act of 4 May 2023, LGBl. 2023 no. 269, and gives entities four weeks from entry into force to register.",
+    "Act": "Cyber-Sicherheitsgesetz (CSG) vom 5. Dezember 2024, LGBl. 2025 Nr. 111, 784.13",
+    "In force": "1 February 2025, by article 29, the referendum period having run unused; the gazette was issued on 29 January 2025",
     "Recipient": "The National Cyber Security Unit",
     "Divergence": "None. The cascade is transposed as it stands: the early warning *«without undue delay, and in any event within 24 hours of becoming aware of the significant security incident»*, the incident notification *«within 72 hours of becoming aware»*, an intermediate report at the Unit's request, and *«a final report no later than one month after the submission of the incident notification»*.",
     "Moves": "no",
     "Stage": "awareness",
-    "Standing": "Read in the Government's own English translation, which carries a disclaimer; the binding text is the German. Liechtenstein is the one EEA state in this record that has transposed NIS2: Norway's regime implements the earlier Directive and Iceland's sets no interval at all.",
-    "Source": "[li-csg]",
-    "Read": "2026-09-03"
+    "Standing": "Read in the German text as published in the Landesgesetzblatt; the English translation read earlier carries the same cascade. Liechtenstein is the one EEA state in this record that has transposed NIS2: Norway's regime implements the earlier Directive and Iceland's sets no interval at all.",
+    "Source": "li-csg-lgbl-2025 [li-csg]",
+    "Read": "2026-10-05"
    },
    "note": "",
    "sources": [
@@ -4392,8 +4394,8 @@
  ],
  "version": {
   "schema": "1.0",
-  "record": "2026-09-11",
-  "source_commit": "286335b6db841fccf8142c7e983b93ee52d914ab"
+  "record": "2026-10-05",
+  "source_commit": "513f253bea649127f0a5e77b0988f3f115f2e429"
  },
  "sources": {
   "gdpr": {
@@ -4918,6 +4920,132 @@
    "kind": "guidance",
    "read": "2026-09-02"
   },
+  "nl-cbw-2026": {
+   "title": "Cyberbeveiligingswet, Wet van 8 juli 2026, Stb. 2026, 187, and Cyberbeveiligingsbesluit, Stb. 2026, 189",
+   "id": "nl-cbw-2026",
+   "url": "https://zoek.officielebekendmakingen.nl/stb-2026-187.html",
+   "issuer": "Staatsblad · Netherlands · 10 July 2026",
+   "establishes": "That the Dutch NIS2 act exists as Wet van 8 juli 2026, and that it and its decision take effect on 15 August 2026.",
+   "kind": "act",
+   "read": "2026-10-05"
+  },
+  "lu-loi-nis2-2026": {
+   "title": "Loi du 5 mai 2026 concernant des mesures destinées à assurer un niveau élevé de cybersécurité",
+   "id": "lu-loi-nis2-2026",
+   "url": "https://data.legilux.public.lu/filestore/eli/etat/leg/loi/2026/05/05/a225/jo/fr/pdfa/eli-etat-leg-loi-2026-05-05-a225-jo-fr-pdfa.pdf",
+   "issuer": "Mémorial A n° 225 · Luxembourg · 6 May 2026",
+   "establishes": "That Luxembourg carries the Directive's whole cascade, anchored on knowledge of the significant incident, and owes it to the competent authority.",
+   "kind": "act",
+   "read": "2026-10-05"
+  },
+  "pt-reg-756-2026": {
+   "title": "Regulamento n.º 756/2026, Regulamento de execução do Regime Jurídico da Cibersegurança",
+   "id": "pt-reg-756-2026",
+   "url": "https://diariodarepublica.pt/dr/detalhe/regulamento/756-2026-1134399056",
+   "issuer": "Diário da República, 2.ª série, n.º 118 · Portugal · 22 June 2026",
+   "establishes": "That the three notifications of the decree-law are made on a form in the entity's reserved area of the Centre's electronic platform, from 23 June 2026, and that the terms are left as the decree-law sets them.",
+   "kind": "act",
+   "read": "2026-10-05"
+  },
+  "se-cybersakerhetsforordning-2025": {
+   "title": "Cybersäkerhetsförordning (2025:1507), as amended by SFS 2026:623",
+   "id": "se-cybersakerhetsforordning-2025",
+   "url": "https://data.riksdagen.se/dokument/sfs-2025-1507.text",
+   "issuer": "Svensk författningssamling · Sweden · in force 15 January 2026; amendment in force 1 July 2026",
+   "establishes": "That incident reports under the cybersecurity act go to the CSIRT unit, and that Försvarets radioanstalt is that unit.",
+   "kind": "act",
+   "read": "2026-10-05"
+  },
+  "cz-zkb-264-2025": {
+   "title": "Zákon č. 264/2025 Sb., o kybernetické bezpečnosti",
+   "id": "cz-zkb-264-2025",
+   "url": "https://www.zakonyprolidi.cz/cs/2025-264",
+   "issuer": "Sbírka zákonů · Czechia · in force 1 November 2025",
+   "establishes": "That Czechia runs the twenty-four and seventy-two hour stages from ascertaining the incident, and the final report thirty days from the notification.",
+   "kind": "act",
+   "read": "2026-10-05"
+  },
+  "de-bsig-2025": {
+   "title": "BSI-Gesetz vom 2. Dezember 2025, BGBl. 2025 I Nr. 301",
+   "id": "de-bsig-2025",
+   "url": "https://www.gesetze-im-internet.de/bsig_2025/",
+   "issuer": "Bundesgesetzblatt · Germany · 2 December 2025, as amended",
+   "establishes": "That the German NIS2 act is the BSI-Gesetz of 2 December 2025, and that it has been amended twice in 2026.",
+   "kind": "act",
+   "read": "2026-10-05"
+  },
+  "at-nisg-2026": {
+   "title": "Netz- und Informationssystemsicherheitsgesetz 2026, NISG 2026, BGBl. I Nr. 94/2025",
+   "id": "at-nisg-2026",
+   "url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2025_I_94/BGBLA_2025_I_94.pdf",
+   "issuer": "Bundesgesetzblatt · Austria · 23 December 2025",
+   "establishes": "That Austria transposes NIS2 by the NISG 2026, in force 1 October 2026, with the Directive's cascade owed to a CSIRT that forwards it to the Bundesamt für Cybersicherheit.",
+   "kind": "act",
+   "read": "2026-10-05"
+  },
+  "cert-at-nis2": {
+   "title": "NIS2, CERT.at",
+   "id": "cert-at-nis2",
+   "url": "https://www.cert.at/de/nis2/",
+   "issuer": "CERT.at · Austria · page current on 5 October 2026",
+   "establishes": "That the reporting platform in the Unternehmensserviceportal has been in operation since 1 October 2026, and that CERT.at as national CSIRT takes, handles, and forwards the reports.",
+   "kind": "channel",
+   "read": "2026-10-05"
+  },
+  "ro-legea-124-2025": {
+   "title": "Legea nr. 124/2025 pentru aprobarea Ordonanței de urgență a Guvernului nr. 155/2024",
+   "id": "ro-legea-124-2025",
+   "url": "https://legislatie.just.ro/",
+   "issuer": "Monitorul Oficial nr. 638 · Romania · 7 July 2025",
+   "establishes": "That the NIS2 ordinance was approved with amendments in July 2025, and that the amendments leave the notification article and its terms as they were.",
+   "kind": "act",
+   "read": "2026-10-05"
+  },
+  "si-gov-zinfv-1": {
+   "title": "Zakon o informacijski varnosti (ZInfV-1) objavljen v Uradnem listu Republike Slovenije",
+   "id": "si-gov-zinfv-1",
+   "url": "https://www.gov.si/novice/2025-06-04-zakon-o-informacijski-varnosti-zinfv-1-objavljen-v-uradnem-listu-republike-slovenije/",
+   "issuer": "Vlada Republike Slovenije · Slovenia · 4 June 2025",
+   "establishes": "That ZInfV-1 was published on 4 June 2025 and took effect on 19 June 2025.",
+   "kind": "announcement",
+   "read": "2026-10-05"
+  },
+  "mt-ln-71-2025": {
+   "title": "Measures for a High Common Level of Cybersecurity across the European Union (Malta) Order, 2025, L.N. 71 of 2025, S.L. 460.41, and its commencement notice, L.N. 22 of 2026",
+   "id": "mt-ln-71-2025",
+   "url": "https://legislation.mt/eli/ln/2026/22/eng/pdf",
+   "issuer": "Government Gazette · Malta · Order of 2025; commencement notice of 2026",
+   "establishes": "That the Maltese NIS2 order was made in 2025 and brought fully into force on 23 January 2026, with the Directive's cascade from becoming aware, owed to CSIRT.",
+   "kind": "act",
+   "read": "2026-10-05"
+  },
+  "cy-n-60-2025": {
+   "title": "Ο περί Ασφάλειας Δικτύων και Συστημάτων Πληροφοριών (Τροποποιητικός) Νόμος του 2025, Ν. 60(Ι)/2025",
+   "id": "cy-n-60-2025",
+   "url": "https://cylaw.org/nomoi/arith/2025_1_060.pdf",
+   "issuer": "Επίσημη Εφημερίδα, Παρ. Ι(Ι), Αρ. 5036 · Cyprus · 25 April 2025",
+   "establishes": "That Cypriot law owes the early warning within six hours of perceiving the significant incident, and the notification within seventy-two, to the Authority.",
+   "kind": "act",
+   "read": "2026-10-05"
+  },
+  "is-rg-715-2026": {
+   "title": "Reglugerð nr. 715/2026 um netöryggissveit (CERT-IS)",
+   "id": "is-rg-715-2026",
+   "url": "https://island.is/reglugerdir/nr/0715-2026",
+   "issuer": "Stjórnartíðindi · Iceland · in force 25 June 2026",
+   "establishes": "That the cybersecurity team is now governed under the Defence Act, and that the regulation on it sets no interval for notification.",
+   "kind": "act",
+   "read": "2026-10-05"
+  },
+  "li-csg-lgbl-2025": {
+   "title": "Cyber-Sicherheitsgesetz (CSG) vom 5. Dezember 2024, LGBl. 2025 Nr. 111",
+   "id": "li-csg-lgbl-2025",
+   "url": "https://www.gesetze.li/chrono/pdf/2025111000",
+   "issuer": "Liechtensteinisches Landesgesetzblatt · Liechtenstein · issued 29 January 2025",
+   "establishes": "That Liechtenstein's NIS2 act took effect on 1 February 2025.",
+   "kind": "act",
+   "read": "2026-10-05"
+  },
   "pl-dz-u-2026-252": {
    "title": "Ustawa z dnia 23 stycznia 2026 r. o zmianie ustawy o krajowym systemie cyberbezpieczeństwa oraz niektórych innych ustaw",
    "id": "pl-dz-u-2026-252",
@@ -5033,6 +5161,6 @@
   "acts_read": 33,
   "calibration": 4,
   "authorities": 124,
-  "sources": 70
+  "sources": 84
  }
 }
