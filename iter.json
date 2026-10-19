@@ -78,13 +78,14 @@
    "section": "The moment every term runs from",
    "fields": {
     "Do": "Establish and record the moment the organization is taken to know",
-    "Source": "[edpb-9-2022] §31, §34, §36, §40 · guidance, not law",
+    "Source": "[nis2-ir-2024-2690] recital 31 · [edpb-9-2022] §31, §34, §36, §40 · guidance, not law",
     "Implication": "Where the period before it is left open and a breach did occur, the delay can be treated as a failure to notify",
     "Reading": "An unbounded triage is not neutral. The period before awareness is the organization's to bound, and left unbounded it is what a regulator measures afterwards",
     "Read": "2026-09-02"
    },
-   "note": "No instrument defines it. The EDPB reads it as a reasonable degree of certainty that a security incident has occurred that has led to personal data being compromised. A short period of investigation may precede it, during which the controller may not be regarded as aware, and that period is expected to be short. Where it is left open and a breach did occur, the delay can be treated as a failure to notify.",
+   "note": "The Directive does not define it. Implementing Regulation 2024/2690 states it for the digital-sector entities it covers, in recital 31: the entity is regarded as aware when, after an initial assessment, it has a reasonable degree of certainty that a significant incident has occurred. The EDPB reads the GDPR's moment the same way: a reasonable degree of certainty that a security incident has occurred that has led to personal data being compromised. A short period of investigation may precede it, during which the controller may not be regarded as aware, and that period is expected to be short. Where it is left open and a breach did occur, the delay can be treated as a failure to notify.",
    "sources": [
+    "nis2-ir-2024-2690",
     "edpb-9-2022"
    ],
    "read": true,
@@ -116,9 +117,9 @@
    "name": "GDPR art. 33(1)",
    "section": "T1 · Acts under the General Data Protection Regulation",
    "fields": {
-    "Applies": "All organizations",
+    "Applies": "Any organization, as controller of the data",
     "Do": "Notify the supervisory authority of the breach",
-    "Term": "72 hours",
+    "Term": "Without undue delay and, where feasible, not later than 72 hours",
     "At": "72",
     "From": "Awareness",
     "Owed to": "dpa",
@@ -146,7 +147,7 @@
    "section": "T1 · Acts under the General Data Protection Regulation",
    "fields": {
     "After": "GDPR art. 33(1)",
-    "Applies": "All organizations",
+    "Applies": "Any organization, as controller of the data",
     "Do": "Complete an earlier notification with what was not yet known",
     "Term": "Without undue further delay",
     "From": "The notification it completes",
@@ -170,8 +171,8 @@
    "name": "GDPR art. 34(1)",
    "section": "T1 · Acts under the General Data Protection Regulation",
    "fields": {
-    "After": "GDPR art. 33(1)",
-    "Applies": "All organizations",
+    "After": "T0",
+    "Applies": "Any organization, as controller of the data",
     "Do": "Tell each person whose data was disclosed",
     "Term": "Without undue delay",
     "From": "Awareness",
@@ -201,7 +202,7 @@
    "section": "T1 · Acts under the General Data Protection Regulation",
    "fields": {
     "After": "T0",
-    "Applies": "All organizations",
+    "Applies": "Any organization, as controller of the data",
     "Do": "Record the breach, its effects, and what was done about it",
     "Term": "No term",
     "From": "No term, so no starting point",
@@ -228,9 +229,9 @@
    "name": "GDPR art. 33(1)",
    "section": "T3 · Acts under the General Data Protection Regulation",
    "fields": {
-    "Applies": "All organizations",
+    "Applies": "Any organization, as controller of the data",
     "Do": "Notify the supervisory authority of the breach",
-    "Term": "72 hours",
+    "Term": "Without undue delay and, where feasible, not later than 72 hours",
     "At": "72",
     "From": "Awareness",
     "Owed to": "dpa",
@@ -255,7 +256,7 @@
    "section": "T3 · Acts under the General Data Protection Regulation",
    "fields": {
     "After": "GDPR art. 33(1)",
-    "Applies": "All organizations",
+    "Applies": "Any organization, as controller of the data",
     "Do": "Complete an earlier notification with what was not yet known",
     "Term": "Without undue further delay",
     "From": "The notification it completes",
@@ -280,8 +281,8 @@
    "name": "GDPR art. 34(1)",
    "section": "T3 · Acts under the General Data Protection Regulation",
    "fields": {
-    "After": "GDPR art. 33(1)",
-    "Applies": "All organizations",
+    "After": "T0",
+    "Applies": "Any organization, as controller of the data",
     "Do": "Tell each person whose records were altered or destroyed",
     "Term": "Without undue delay",
     "From": "Awareness",
@@ -308,7 +309,7 @@
    "section": "T3 · Acts under the General Data Protection Regulation",
    "fields": {
     "After": "T0",
-    "Applies": "All organizations",
+    "Applies": "Any organization, as controller of the data",
     "Do": "Record the breach, its effects, and what was done about it",
     "Term": "No term",
     "From": "No term, so no starting point",
@@ -333,9 +334,9 @@
    "name": "GDPR art. 33(1)",
    "section": "T4 · Acts under the General Data Protection Regulation",
    "fields": {
-    "Applies": "All organizations",
+    "Applies": "Any organization, as controller of the data",
     "Do": "Notify the supervisory authority of the breach",
-    "Term": "72 hours",
+    "Term": "Without undue delay and, where feasible, not later than 72 hours",
     "At": "72",
     "From": "Awareness",
     "Owed to": "dpa",
@@ -360,7 +361,7 @@
    "section": "T4 · Acts under the General Data Protection Regulation",
    "fields": {
     "After": "GDPR art. 33(1)",
-    "Applies": "All organizations",
+    "Applies": "Any organization, as controller of the data",
     "Do": "Complete an earlier notification with what was not yet known",
     "Term": "Without undue further delay",
     "From": "The notification it completes",
@@ -385,8 +386,8 @@
    "name": "GDPR art. 34(1)",
    "section": "T4 · Acts under the General Data Protection Regulation",
    "fields": {
-    "After": "GDPR art. 33(1)",
-    "Applies": "All organizations",
+    "After": "T0",
+    "Applies": "Any organization, as controller of the data",
     "Do": "Tell each person who could not be served",
     "Term": "Without undue delay",
     "From": "Awareness",
@@ -413,7 +414,7 @@
    "section": "T4 · Acts under the General Data Protection Regulation",
    "fields": {
     "After": "T0",
-    "Applies": "All organizations",
+    "Applies": "Any organization, as controller of the data",
     "Do": "Record the breach, its effects, and what was done about it",
     "Term": "No term",
     "From": "No term, so no starting point",
@@ -438,9 +439,9 @@
    "name": "GDPR art. 33(1)",
    "section": "T5 · Acts under the General Data Protection Regulation",
    "fields": {
-    "Applies": "All organizations",
+    "Applies": "Any organization, as controller of the data",
     "Do": "Notify the supervisory authority of the breach",
-    "Term": "72 hours",
+    "Term": "Without undue delay and, where feasible, not later than 72 hours",
     "At": "72",
     "From": "Awareness",
     "Owed to": "dpa",
@@ -466,7 +467,7 @@
    "section": "T5 · Acts under the General Data Protection Regulation",
    "fields": {
     "After": "GDPR art. 33(1)",
-    "Applies": "All organizations",
+    "Applies": "Any organization, as controller of the data",
     "Do": "Complete an earlier notification with what was not yet known",
     "Term": "Without undue further delay",
     "From": "The notification it completes",
@@ -490,8 +491,8 @@
    "name": "GDPR art. 34(1)",
    "section": "T5 · Acts under the General Data Protection Regulation",
    "fields": {
-    "After": "GDPR art. 33(1)",
-    "Applies": "All organizations",
+    "After": "T0",
+    "Applies": "Any organization, as controller of the data",
     "Do": "Tell each person whose records were opened",
     "Term": "Without undue delay",
     "From": "Awareness",
@@ -518,7 +519,7 @@
    "section": "T5 · Acts under the General Data Protection Regulation",
    "fields": {
     "After": "T0",
-    "Applies": "All organizations",
+    "Applies": "Any organization, as controller of the data",
     "Do": "Record the breach, its effects, and what was done about it",
     "Term": "No term",
     "From": "No term, so no starting point",
@@ -711,7 +712,7 @@
    "fields": {
     "Applies": "Essential or important entity, not displaced",
     "Do": "Submit the early warning",
-    "Term": "24 hours",
+    "Term": "Without undue delay and in any event within 24 hours",
     "At": "24",
     "From": "Awareness",
     "Owed to": "csirt",
@@ -735,7 +736,7 @@
    "fields": {
     "Applies": "Essential or important entity, not displaced",
     "Do": "Submit the incident notification",
-    "Term": "72 hours",
+    "Term": "Without undue delay and in any event within 72 hours",
     "At": "72",
     "From": "Awareness",
     "Owed to": "The same body",
@@ -759,7 +760,7 @@
    "fields": {
     "Applies": "Essential or important entity, not displaced",
     "Do": "Submit the final report",
-    "Term": "One month",
+    "Term": "Not later than one month",
     "From": "The incident notification",
     "At": "720 · computed from the incident notification at its own term",
     "Owed to": "The same body",
@@ -2252,8 +2253,8 @@
     "Country": "AT",
     "Name": "The sectoral CSIRT competent for the entity or, where there is none, CERT.at as national CSIRT, which forwards the report to the Bundesamt für Cybersicherheit",
     "URL": "https://www.cert.at/de/nis2/",
-    "Portal": "The Meldeplattform in the Unternehmensserviceportal, in operation from 1 October 2026, reached through a USP login; nis.cert.at forwards to cert.at/de/nis2",
-    "Channel": "CERT.at, as national CSIRT, takes, handles, and forwards the reports; where the platform is down, a PDF form to reports@cert.at. Sectoral CSIRTs receive the reports of the entities in their sector.",
+    "Portal": "https://www.usp.gv.at/",
+    "Channel": "The Meldeplattform in the Unternehmensserviceportal, in operation from 1 October 2026 and reached through a USP login; nis.cert.at forwards to cert.at/de/nis2. CERT.at, as national CSIRT, takes, handles, and forwards the reports; where the platform is down, a PDF form to reports@cert.at. Sectoral CSIRTs receive the reports of the entities in their sector.",
     "Source": "[at-nisg-2026] [cert-at-nis2]",
     "Read": "2026-10-05",
     "Checked": "2026-10-05"
@@ -2381,8 +2382,8 @@
     "Country": "SE",
     "Name": "The CSIRT unit at Försvarets radioanstalt, under 31 § of the Cybersäkerhetsförordning (2025:1507), where the Nationellt cybersäkerhetscenter receives the reports through CERT-SE",
     "URL": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/cybersakerhetslag-20251506_sfs-2025-1506/",
-    "Portal": "https://cyberportal.ncsc.se/, which forwards to cyberportal.mcf.se",
-    "Channel": "The incident reporting tool in the Cyberportalen, opened 1 July 2026 under MCFFS 2026:8; the Transport Agency states the recipient as *«Nationellt cybersäkerhetscenter genom CERT-SE»*. The Centre publishes a fallback procedure for use when the tool is unavailable.",
+    "Portal": "https://cyberportal.ncsc.se/",
+    "Channel": "The incident reporting tool in the Cyberportalen, at cyberportal.ncsc.se, which forwards to cyberportal.mcf.se, opened 1 July 2026 under MCFFS 2026:8; the Transport Agency states the recipient as *«Nationellt cybersäkerhetscenter genom CERT-SE»*. The Centre publishes a fallback procedure for use when the tool is unavailable.",
     "Source": "[se-cybersakerhetsforordning-2025] [se-cybersakerhetslag-2025] [ncsc-se-incidentrapportering]",
     "Read": "2026-10-05",
     "Checked": "2026-10-05"
@@ -4231,7 +4232,7 @@
     "Country": "GB",
     "Instead of": "GDPR",
     "Act": "UK GDPR, article 33, as retained in United Kingdom law",
-    "Term": "72 hours",
+    "Term": "Without undue delay and, where feasible, not later than 72 hours",
     "From": "Having become aware of the breach",
     "At": "72",
     "Owed to": "The Commissioner",
@@ -4254,7 +4255,7 @@
     "Country": "GB",
     "Instead of": "NIS2",
     "Act": "The Network and Information Systems Regulations 2018, regulation 11",
-    "Term": "72 hours",
+    "Term": "Without undue delay and in any event no later than 72 hours",
     "From": "The operator being aware that a NIS incident has occurred",
     "At": "72",
     "Owed to": "The designated competent authority for the operator, in writing",
@@ -4394,8 +4395,8 @@
  ],
  "version": {
   "schema": "1.0",
-  "record": "2026-10-05",
-  "source_commit": "513f253bea649127f0a5e77b0988f3f115f2e429"
+  "record": "2026-10-15",
+  "source_commit": "cc6deeb2a401824ee51b885a12c05b2b6f0882f8"
  },
  "sources": {
   "gdpr": {
@@ -4415,6 +4416,15 @@
    "establishes": "A cascade of five reporting acts from awareness of a significant incident, and that its incident reporting does not apply to entities covered by a sector-specific Union act of at least equivalent effect.",
    "kind": "act",
    "read": "2026-09-02"
+  },
+  "nis2-ir-2024-2690": {
+   "title": "Commission Implementing Regulation (EU) 2024/2690",
+   "id": "nis2-ir-2024-2690",
+   "url": "https://eur-lex.europa.eu/eli/reg_impl/2024/2690/oj",
+   "issuer": "European Commission · European Union · 17 October 2024",
+   "establishes": "For the digital-sector entities it covers, when an incident is significant, and, in recital 31, that the entity is regarded as aware of a significant incident when, after an initial assessment of the suspicious event, it has a reasonable degree of certainty that a significant incident has occurred.",
+   "kind": "act",
+   "read": "2026-10-15"
   },
   "dora": {
    "title": "Regulation (EU) 2022/2554, DORA",
@@ -5161,6 +5171,6 @@
   "acts_read": 33,
   "calibration": 4,
   "authorities": 124,
-  "sources": 84
+  "sources": 85
  }
 }

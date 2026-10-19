@@ -145,8 +145,10 @@ of one country. Set side by side they fall on one scale, and the scale is short.
 - **Detection.** Something is noticed: an alert, a log line, a report from a
   colleague. Nobody has yet decided what it is.
 - **Awareness.** The organization is taken to know that a significant incident
-  has occurred. This is the Directive's own point, and the EDPB reads it as a
-  reasonable degree of certainty rather than proof.
+  has occurred. This is the Directive's own point; Implementing Regulation
+  2024/2690 states it for the digital sector as a reasonable degree of certainty
+  after an initial assessment, and the EDPB reads it the same way rather than
+  as proof.
 - **Determination.** Someone inside decides the event qualifies. A named officer
   classifies it, or the entity concludes that a significant incident exists.
 
@@ -185,14 +187,17 @@ since the term has run from the standard.
 
 ### Awareness
 Do: Establish and record the moment the organization is taken to know
-No instrument defines it. The EDPB reads it as a reasonable degree of certainty
-that a security incident has occurred that has led to personal data being
-compromised. A short period of investigation may precede it, during which the
+The Directive does not define it. Implementing Regulation 2024/2690 states it
+for the digital-sector entities it covers, in recital 31: the entity is regarded
+as aware when, after an initial assessment, it has a reasonable degree of
+certainty that a significant incident has occurred. The EDPB reads the GDPR's
+moment the same way: a reasonable degree of certainty that a security incident
+has occurred that has led to personal data being compromised. A short period of investigation may precede it, during which the
 controller may not be regarded as aware, and that period is expected to be
 short. Where it is left open and a breach did occur, the delay can be treated as
 a failure to notify.
 
-Source: [edpb-9-2022] §31, §34, §36, §40 · guidance, not law
+Source: [nis2-ir-2024-2690] recital 31 · [edpb-9-2022] §31, §34, §36, §40 · guidance, not law
 Implication: Where the period before it is left open and a breach did occur, the delay can be treated as a failure to notify
 Reading: An unbounded triage is not neutral. The period before awareness is the organization's to bound, and left unbounded it is what a regulator measures afterwards
 Read: 2026-09-02
@@ -731,8 +736,8 @@ Role: csirt
 Country: AT
 Name: The sectoral CSIRT competent for the entity or, where there is none, CERT.at as national CSIRT, which forwards the report to the Bundesamt für Cybersicherheit
 URL: https://www.cert.at/de/nis2/
-Portal: The Meldeplattform in the Unternehmensserviceportal, in operation from 1 October 2026, reached through a USP login; nis.cert.at forwards to cert.at/de/nis2
-Channel: CERT.at, as national CSIRT, takes, handles, and forwards the reports; where the platform is down, a PDF form to reports@cert.at. Sectoral CSIRTs receive the reports of the entities in their sector.
+Portal: https://www.usp.gv.at/
+Channel: The Meldeplattform in the Unternehmensserviceportal, in operation from 1 October 2026 and reached through a USP login; nis.cert.at forwards to cert.at/de/nis2. CERT.at, as national CSIRT, takes, handles, and forwards the reports; where the platform is down, a PDF form to reports@cert.at. Sectoral CSIRTs receive the reports of the entities in their sector.
 Source: [at-nisg-2026] [cert-at-nis2]
 Read: 2026-10-05
 Checked: 2026-10-05
@@ -791,8 +796,8 @@ Role: csirt
 Country: SE
 Name: The CSIRT unit at Försvarets radioanstalt, under 31 § of the Cybersäkerhetsförordning (2025:1507), where the Nationellt cybersäkerhetscenter receives the reports through CERT-SE
 URL: https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/cybersakerhetslag-20251506_sfs-2025-1506/
-Portal: https://cyberportal.ncsc.se/, which forwards to cyberportal.mcf.se
-Channel: The incident reporting tool in the Cyberportalen, opened 1 July 2026 under MCFFS 2026:8; the Transport Agency states the recipient as *«Nationellt cybersäkerhetscenter genom CERT-SE»*. The Centre publishes a fallback procedure for use when the tool is unavailable.
+Portal: https://cyberportal.ncsc.se/
+Channel: The incident reporting tool in the Cyberportalen, at cyberportal.ncsc.se, which forwards to cyberportal.mcf.se, opened 1 July 2026 under MCFFS 2026:8; the Transport Agency states the recipient as *«Nationellt cybersäkerhetscenter genom CERT-SE»*. The Centre publishes a fallback procedure for use when the tool is unavailable.
 Source: [se-cybersakerhetsforordning-2025] [se-cybersakerhetslag-2025] [ncsc-se-incidentrapportering]
 Read: 2026-10-05
 Checked: 2026-10-05
@@ -1616,7 +1621,7 @@ states one. `Instead of` names the Union instrument the block stands in for.
 Country: GB
 Instead of: GDPR
 Act: UK GDPR, article 33, as retained in United Kingdom law
-Term: 72 hours
+Term: Without undue delay and, where feasible, not later than 72 hours
 From: Having become aware of the breach
 At: 72
 Owed to: The Commissioner
@@ -1629,7 +1634,7 @@ Read: 2026-09-05
 Country: GB
 Instead of: NIS2
 Act: The Network and Information Systems Regulations 2018, regulation 11
-Term: 72 hours
+Term: Without undue delay and in any event no later than 72 hours
 From: The operator being aware that a NIS incident has occurred
 At: 72
 Owed to: The designated competent authority for the operator, in writing
@@ -1727,12 +1732,15 @@ bank it is stated directly, with a retention period and a requirement to alert.
 Personal data has left the organization, or reached someone who should not have
 it. The instruments are the same as for T5 and the terms are identical. What
 differs is what has to be established, because articles 33 and 34 turn on risk
-to the people whose data it is, and here the data has moved.
+to the people whose data it is, and here the data has moved. The acts are the
+controller's: a processor that becomes aware of a breach notifies the controller
+without undue delay, under article 33(2), and the controller's terms run from its
+own awareness.
 
 ### GDPR art. 33(1)
-Applies: All organizations
+Applies: Any organization, as controller of the data
 Do: Notify the supervisory authority of the breach
-Term: 72 hours
+Term: Without undue delay and, where feasible, not later than 72 hours
 At: 72
 From: Awareness
 Owed to: dpa
@@ -1747,7 +1755,7 @@ Read: 2026-09-02
 
 ### GDPR art. 33(4)
 After: GDPR art. 33(1)
-Applies: All organizations
+Applies: Any organization, as controller of the data
 Do: Complete an earlier notification with what was not yet known
 Term: Without undue further delay
 From: The notification it completes
@@ -1759,8 +1767,8 @@ Source: [gdpr]
 Read: 2026-09-02
 
 ### GDPR art. 34(1)
-After: GDPR art. 33(1)
-Applies: All organizations
+After: T0
+Applies: Any organization, as controller of the data
 Do: Tell each person whose data was disclosed
 Term: Without undue delay
 From: Awareness
@@ -1777,7 +1785,7 @@ Read: 2026-09-02
 
 ### GDPR art. 33(5)
 After: T0
-Applies: All organizations
+Applies: Any organization, as controller of the data
 Do: Record the breach, its effects, and what was done about it
 Term: No term
 From: No term, so no starting point
@@ -1799,9 +1807,9 @@ the question is no longer who saw the data but whether it can still be relied
 on.
 
 ### GDPR art. 33(1)
-Applies: All organizations
+Applies: Any organization, as controller of the data
 Do: Notify the supervisory authority of the breach
-Term: 72 hours
+Term: Without undue delay and, where feasible, not later than 72 hours
 At: 72
 From: Awareness
 Owed to: dpa
@@ -1814,7 +1822,7 @@ Read: 2026-09-02
 
 ### GDPR art. 33(4)
 After: GDPR art. 33(1)
-Applies: All organizations
+Applies: Any organization, as controller of the data
 Do: Complete an earlier notification with what was not yet known
 Term: Without undue further delay
 From: The notification it completes
@@ -1827,8 +1835,8 @@ Source: [gdpr]
 Read: 2026-09-02
 
 ### GDPR art. 34(1)
-After: GDPR art. 33(1)
-Applies: All organizations
+After: T0
+Applies: Any organization, as controller of the data
 Do: Tell each person whose records were altered or destroyed
 Term: Without undue delay
 From: Awareness
@@ -1843,7 +1851,7 @@ Read: 2026-09-02
 
 ### GDPR art. 33(5)
 After: T0
-Applies: All organizations
+Applies: Any organization, as controller of the data
 Do: Record the breach, its effects, and what was done about it
 Term: No term
 From: No term, so no starting point
@@ -1864,9 +1872,9 @@ and becomes whether it was there when someone needed it, which is a question
 about a period rather than about an act.
 
 ### GDPR art. 33(1)
-Applies: All organizations
+Applies: Any organization, as controller of the data
 Do: Notify the supervisory authority of the breach
-Term: 72 hours
+Term: Without undue delay and, where feasible, not later than 72 hours
 At: 72
 From: Awareness
 Owed to: dpa
@@ -1879,7 +1887,7 @@ Read: 2026-09-02
 
 ### GDPR art. 33(4)
 After: GDPR art. 33(1)
-Applies: All organizations
+Applies: Any organization, as controller of the data
 Do: Complete an earlier notification with what was not yet known
 Term: Without undue further delay
 From: The notification it completes
@@ -1892,8 +1900,8 @@ Source: [gdpr]
 Read: 2026-09-02
 
 ### GDPR art. 34(1)
-After: GDPR art. 33(1)
-Applies: All organizations
+After: T0
+Applies: Any organization, as controller of the data
 Do: Tell each person who could not be served
 Term: Without undue delay
 From: Awareness
@@ -1908,7 +1916,7 @@ Read: 2026-09-02
 
 ### GDPR art. 33(5)
 After: T0
-Applies: All organizations
+Applies: Any organization, as controller of the data
 Do: Record the breach, its effects, and what was done about it
 Term: No term
 From: No term, so no starting point
@@ -1923,9 +1931,9 @@ Read: 2026-09-02
 ## T5 · Acts under the General Data Protection Regulation
 
 ### GDPR art. 33(1)
-Applies: All organizations
+Applies: Any organization, as controller of the data
 Do: Notify the supervisory authority of the breach
-Term: 72 hours
+Term: Without undue delay and, where feasible, not later than 72 hours
 At: 72
 From: Awareness
 Owed to: dpa
@@ -1939,7 +1947,7 @@ Read: 2026-09-02
 
 ### GDPR art. 33(4)
 After: GDPR art. 33(1)
-Applies: All organizations
+Applies: Any organization, as controller of the data
 Do: Complete an earlier notification with what was not yet known
 Term: Without undue further delay
 From: The notification it completes
@@ -1951,8 +1959,8 @@ Source: [gdpr]
 Read: 2026-09-02
 
 ### GDPR art. 34(1)
-After: GDPR art. 33(1)
-Applies: All organizations
+After: T0
+Applies: Any organization, as controller of the data
 Do: Tell each person whose records were opened
 Term: Without undue delay
 From: Awareness
@@ -1967,7 +1975,7 @@ Read: 2026-09-02
 
 ### GDPR art. 33(5)
 After: T0
-Applies: All organizations
+Applies: Any organization, as controller of the data
 Do: Record the breach, its effects, and what was done about it
 Term: No term
 From: No term, so no starting point
@@ -2064,7 +2072,7 @@ Read: 2026-09-02
 ### NIS2 art. 23(4)(a)
 Applies: Essential or important entity, not displaced
 Do: Submit the early warning
-Term: 24 hours
+Term: Without undue delay and in any event within 24 hours
 At: 24
 From: Awareness
 Owed to: csirt
@@ -2076,7 +2084,7 @@ Read: 2026-09-02
 ### NIS2 art. 23(4)(b)
 Applies: Essential or important entity, not displaced
 Do: Submit the incident notification
-Term: 72 hours
+Term: Without undue delay and in any event within 72 hours
 At: 72
 From: Awareness
 Owed to: The same body
@@ -2088,7 +2096,7 @@ Read: 2026-09-02
 ### NIS2 art. 23(4)(d)
 Applies: Essential or important entity, not displaced
 Do: Submit the final report
-Term: One month
+Term: Not later than one month
 From: The incident notification
 At: 720 · computed from the incident notification at its own term
 Owed to: The same body

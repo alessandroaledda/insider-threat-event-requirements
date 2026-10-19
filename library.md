@@ -52,6 +52,15 @@ aware, an incident notification within seventy-two, an intermediate report on
 request, a final report within one month of the notification, and a progress
 report where the incident is still open. Each stage states what it must contain.
 
+### Commission Implementing Regulation (EU) 2024/2690 {#nis2-ir-2024-2690}
+European Commission · European Union · 17 October 2024
+https://eur-lex.europa.eu/eli/reg_impl/2024/2690/oj
+Kind: act
+Read: 2026-10-15
+Establishes: For the digital-sector entities it covers, when an incident is significant, and, in recital 31, that the entity is regarded as aware of a significant incident when, after an initial assessment of the suspicious event, it has a reasonable degree of certainty that a significant incident has occurred.
+
+Recital 31: the relevant entity *«should assess in a timely manner the suspicious event»* and *«is therefore to be regarded as having become 'aware' of the significant incident when, after such initial assessment, that entity has a reasonable degree of certainty»* that a significant incident has occurred. The recital binds only the entities of article 1; for every other NIS2 entity the moment is fixed, where at all, by the national act.
+
 Article 4(1) is the reason a bank does not appear under this Directive at all:
 where a sector-specific Union act requires notification of significant incidents
 and its requirements are at least equivalent in effect, the relevant provisions

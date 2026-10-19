@@ -43,8 +43,8 @@ compliance.
 | Of them moving a term or its anchor | 13 |
 | Reporting addresses recorded | 15 of 32 |
 | Decided cases | 3 |
-| Sources read | 84 |
-| Last reading | 2026-10-05 |
+| Sources read | 85 |
+| Last reading | 2026-10-15 |
 
 ## What is here
 
