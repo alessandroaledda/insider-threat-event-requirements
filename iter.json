@@ -33,7 +33,7 @@
    "name": "T3 · Alteration or destruction of records",
    "section": "Types",
    "fields": {
-    "What it is": "Integrity rather than confidentiality. Article 4(12) puts accidental or unlawful destruction, loss and alteration in the definition of a breach, so the same obligations arise: but what was changed may also be the evidence of the change.",
+    "What it is": "Integrity rather than confidentiality. Article 4(12) puts accidental or unlawful destruction, loss, and alteration in the definition of a breach, so the same obligations arise: but what was changed may also be the evidence of the change.",
     "Added": "2026-09-02",
     "Updated": "2026-09-03",
     "Rows": "written under the GDPR, DORA, NIS2 and MAR."
@@ -4396,7 +4396,7 @@
  "version": {
   "schema": "1.0",
   "record": "2026-10-15",
-  "source_commit": "cc6deeb2a401824ee51b885a12c05b2b6f0882f8"
+  "source_commit": "79fb0021519e8a56f1abc442ee6a47ce8275e32d"
  },
  "sources": {
   "gdpr": {

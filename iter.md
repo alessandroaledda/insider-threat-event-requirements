@@ -66,7 +66,7 @@ Updated: 2026-09-03
 Rows: written under DORA, NIS2 and MAR. None under the GDPR, because the type is defined by the absence of personal data.
 
 ### T3 · Alteration or destruction of records
-What it is: Integrity rather than confidentiality. Article 4(12) puts accidental or unlawful destruction, loss and alteration in the definition of a breach, so the same obligations arise: but what was changed may also be the evidence of the change.
+What it is: Integrity rather than confidentiality. Article 4(12) puts accidental or unlawful destruction, loss, and alteration in the definition of a breach, so the same obligations arise: but what was changed may also be the evidence of the change.
 Added: 2026-09-02
 Updated: 2026-09-03
 Rows: written under the GDPR, DORA, NIS2 and MAR.

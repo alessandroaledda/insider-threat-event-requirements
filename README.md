@@ -1,6 +1,6 @@
 # Insider Threat Event Requirements
 
-ITER&trade; is a living record of what an insider event obliges in Europe:
+ITER is a living record of what an insider event obliges in Europe:
 the reporting acts, the term on each, whom it is owed to, and the point the
 term runs from.
 
@@ -93,6 +93,4 @@ from.
 
 ## The name
 
-ITER&trade; and Insider Threat Event Requirements are unregistered trade marks
-of Alessandro Aledda. The record is free to use under CC BY 4.0; the name is
-not part of what is given away. See `TRADEMARK.md`.
+Insider Threat and Risk Architecture (INTRA), Insider Threat Event Requirements (ITER), and Insider Threat Exposure Map (ITEM) are the names of three works by Alessandro Aledda, published under CC BY 4.0. The content is licensed under CC BY 4.0; write the full name, Insider Threat Event Requirements (ITER), the first time it appears. See `NAME.md`.
