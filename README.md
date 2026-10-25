@@ -93,4 +93,4 @@ from.
 
 ## The name
 
-Insider Threat and Risk Architecture (INTRA), Insider Threat Event Requirements (ITER), and Insider Threat Exposure Map (ITEM) are the names of three works by Alessandro Aledda, published under CC BY 4.0. The content is licensed under CC BY 4.0; write the full name, Insider Threat Event Requirements (ITER), the first time it appears. See `NAME.md`.
+Insider Threat and Risk Architecture (INTRA), Insider Threat Event Requirements (ITER), and Insider Risk Atlas are the names of three works by Alessandro Aledda, published under CC BY 4.0. The content is licensed under CC BY 4.0; write the full name, Insider Threat Event Requirements (ITER), the first time it appears. See `NAME.md`.
